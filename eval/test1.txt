@@ -1,0 +1,2094 @@
+🎯 Router Agent initialized
+📦 Data Retriever loaded:
+   1772 products
+   123 repairs
+   38 blogs
+✅ Loaded cached embeddings from products_embeddings.pkl
+✅ Loaded cached embeddings from repairs_embeddings.pkl
+✅ Loaded cached embeddings from blogs_embeddings.pkl
+ Response Agent initialized
+Summary Agent initialized
+Orchestrator initialized
+Ready to process queries!
+
+Orchestrator initialized and ready!
+============================================================
+Eval ID: 1 | Category: product_search_specific
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: I need a Whirlpool dishwasher door latch
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': 'Whirlpool', 'current_issue': 'door latch'}
+
+🎯 Router Agent analyzing: 'I need a Whirlpool dishwasher door latch'
+  ✅ Tool: search_products
+     Args: {'search_query': 'Whirlpool dishwasher door latch', 'brand': 'Whirlpool', 'appliance_type': 'dishwasher'}
+
+🔍 Searching products: 'Whirlpool dishwasher door latch'
+  🧠 Using semantic search
+🔄 Loading embedding model (one-time)...
+✅ Embedding model loaded
+  ✅ Loaded: PS11751007
+  ✅ Loaded: PS11741367
+  ✅ Loaded: PS11754317
+  ✅ Loaded: PS11751688
+  ✅ Loaded: PS11746084
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 0
+   Blogs: 0
+
+ Generating response for: 'I need a Whirlpool dishwasher door latch'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 0
+
+
+User: I need a Whirlpool dishwasher door latch
+Assistant: Of course! I found several Whirlpool dishwasher door latch parts for you. Since "door latch" can refer to a few different components, I'll break down your options to help you find the right one.
+
+Here is a comparison of the available parts:
+
+### **Comparison of Whirlpool Dishwasher Door Latches**
+
+| Part Name | PartSelect Number | Manufacturer Part # | Price | Key Feature | Availability |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Door Latch Assembly** | [PS11751007](https://www.partselect.com/PS11751007-Whirlpool-WPW10247175-Dishwasher-Door-Latch-Assembly.htm) | WPW10247175 | $203.08 | A complete assembly, likely includes multiple parts. | Special Order |
+| **Door Latch Bolt** | [PS11741367](https://www.partselect.com/PS11741367-Whirlpool-WP3380854-Dishwasher-Door-Latch-Bolt.htm) | WP3380854 | $51.25 | The physical bolt that catches on the door frame. | In Stock |
+| **Door Latch & Switch Assembly** | [PS11754317](https://www.partselect.com/PS11754317-Whirlpool-WPW10404412-Dishwasher-Door-Latch-And-Switch-Assembly.htm) | WPW10404412 | $63.47 | Includes both the latch and the safety switches. | In Stock |
+| **Door Latch w/Switches (No Handle)** | [PS11751688](https://www.partselect.com/PS11751688-Whirlpool-WPW10275768-Dishwasher-Door-Latch-w-Switches-No-Handle.htm) | WPW10275768 | $53.33 | Includes the latch and safety switches. | In Stock |
+| **Door Latch Actuator** | [PS11746084](https://www.partselect.com/PS11746084-Whirlpool-WP8524472-Dishwasher-Door-Latch-Actuator.htm) | WP8524472 | $51.25 | A mechanism that lifts the door strike to unlatch the door. | In Stock |
+
+---
+
+### **How to Choose the Right Part**
+
+The best part for you depends on the specific problem you're having:
+
+*   **If your dishwasher won't start at all**, the issue is likely with the **door switch**. In this case, you need a part that includes the switches. I would recommend the **[Door Latch & Switch Assembly (PS11754317)](https://www.partselect.com/PS11754317-Whirlpool-WPW10404412-Dishwasher-Door-Latch-And-Switch-Assembly.htm)** or the **[Door Latch w/Switches (PS11751688)](https://www.partselect.com/PS11751688-Whirlpool-WPW10275768-Dishwasher-Door-Latch-w-Switches-No-Handle.htm)**. They are very similar, in stock, and reasonably priced.
+
+*   **If the door is physically difficult to close or won't stay latched**, the problem could be the **latch bolt** or **actuator**. The **[Door Latch Bolt (PS11741367)](https://www.partselect.com/PS11741367-Whirlpool-WP3380854-Dishwasher-Door-Latch-Bolt.htm)** or **[Door Latch Actuator (PS11746084)](https://www.partselect.com/PS11746084-Whirlpool-WP8524472-Dishwasher-Door-Latch-Actuator.htm)** would be the parts to consider.
+
+*   **If you are unsure or have a complex issue**, the complete **[Door Latch Assembly (PS11751007)](https://www.partselect.com/PS11751007-Whirlpool-WPW10247175-Dishwasher-Door-Latch-Assembly.htm)** replaces everything, but it is more expensive and requires a special order.
+
+### **Next Steps & Repair Help**
+
+1.  **Find Your Model Number:** The absolute best way to ensure compatibility is to find your dishwasher's model number (usually located on the side of the door frame). You can then use that number on the PartSelect website to filter for parts that are guaranteed to fit your specific model.
+
+2.  **Watch a Repair Video:** Replacing a door latch is generally a straightforward repair. PartSelect has free repair videos that can guide you. While I don't have a specific video link for your exact part in this data, you can search for "dishwasher door latch replacement" on their site once you have your model number.
+
+**My
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 2 | Category: product_search_general
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Show me refrigerator water filters
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': None, 'current_issue': 'water filter'}
+
+🎯 Router Agent analyzing: 'Show me refrigerator water filters'
+  ✅ Tool: search_products
+     Args: {'search_query': 'refrigerator water filters', 'appliance_type': 'refrigerator'}
+
+🔍 Searching products: 'refrigerator water filters'
+  🧠 Using semantic search
+  ✅ Loaded: PS16218782
+  ✅ Loaded: PS16217433
+  ✅ Loaded: PS10063209
+  ✅ Loaded: PS12724835
+  ✅ Loaded: PS951515
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 0
+   Blogs: 0
+
+ Generating response for: 'Show me refrigerator water filters'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 0
+
+
+User: Show me refrigerator water filters
+Assistant: Of course! Here are several refrigerator water filters that are available. Since water filters are brand and model-specific, it's important to choose the one that is compatible with your refrigerator.
+
+Here is a breakdown of the available filters to help you compare them:
+
+### Refrigerator Water Filter Comparison
+
+| Brand | Manufacturer Part Number | PartSelect Price | Key Features |
+| :--- | :--- | :--- | :--- |
+| **Frigidaire** | **FPPWFU01** | **$80.32** | Genuine Frigidaire PurePour filter for ceiling-mounted cylindrical filters. Keeps water clean and fresh. |
+| **GE** | **XWFE** | **$82.35** | NSF-certified. Reduces lead, VOCs, and 50+ impurities. Located in the upper-right corner. Replace every 6 months. |
+| **GE** | **RPWFE** | **$75.34** | NSF-certified. Removes mercury, lead, and trace pharmaceuticals. Replace every 6 months or 300 gallons. |
+| **LG** | **AGF80300801** | **$54.99** | NSF 42 & 53 certified. Reduces chlorine, lead, and sediment while allowing beneficial minerals through. |
+| **GE** | **GSWF** | **$65.43** | OEM filter for top/bottom-freezer models in the back upper right corner. Certified to reduce particulates. |
+
+---
+
+### How to Choose the Right Filter & Next Steps
+
+1.  **Check Your Refrigerator's Model Number:** The most reliable way to find the correct filter is to use your refrigerator's exact model number. You can usually find it on a sticker inside the main compartment or on the door frame.
+
+2.  **Match the Part Number:** Once you have your model number, compare it to the manufacturer part numbers listed above (e.g., FPPWFU01, XWFE, etc.). Your refrigerator's manual or the old filter itself will also have the part number printed on it.
+
+3.  **Recommendation:** Based on the list, the **LG AGF80300801** filter offers the best price at **$54.99** and is certified to NSF standards 42 and 53 for both aesthetic (taste, chlorine) and health (lead) contaminants. However, it will only fit compatible LG models.
+
+**For more detailed information, compatibility checking, or to purchase, you can visit the product pages below:**
+
+*   **Frigidaire FPPWFU01:** [View on PartSelect.com](https://www.partselect.com/PS16218782-Frigidaire-FPPWFU01-Refrigerator-Water-Filter.htm)
+*   **GE XWFE:** [View on PartSelect.com](https://www.partselect.com/PS16217433-GE-XWFE-Refrigerator-Water-Filter.htm)
+*   **GE RPWFE:** [View on PartSelect.com](https://www.partselect.com/PS10063209-GE-RPWFE-Refrigerator-Water-Filter.htm)
+*   **LG AGF80300801:** [View on PartSelect.com](https://www.partselect.com/PS12724835-LG-AGF80300801-Refrigerator-Water-Filter.htm)
+*   **GE GSWF:** [View on PartSelect.com](https://www.partselect.com/PS951515-GE-GSWF-Refrigerator-Water-Filter.htm)
+
+If you can provide your refrigerator's brand and model number, I can help you narrow down which of these is the perfect fit for you
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 3 | Category: product_search_specific_part
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: What's the price of part number PS11754317?
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': None, 'brand': None, 'current_issue': None}
+
+🎯 Router Agent analyzing: 'What's the price of part number PS11754317?'
+  ✅ Tool: search_products
+     Args: {'search_query': 'PS11754317'}
+
+🔍 Searching products: 'PS11754317'
+  🎯 Detected part number - using exact match
+  ✅ Found 1 exact match(es)
+  ✅ Loaded: PS11754317
+
+ Data Retrieved:
+   Products: 1
+   Repairs: 0
+   Blogs: 0
+
+ Generating response for: 'What's the price of part number PS11754317?'
+ Response generated
+ Response generated!
+   UI Products: 1
+   Images: 2
+   Videos: 0
+
+
+User: What's the price of part number PS11754317?
+Assistant: Based on the information available, the price for part number **PS11754317** is **$63.47**.
+
+Here are the full details for this part:
+
+*   **Part Number:** PS11754317
+*   **Description:** Dishwasher Door Latch And Switch Assembly
+*   **Manufacturer Part Number:** WPW10404412
+*   **Brand:** Whirlpool
+*   **Price:** $63.47
+*   **Availability:** In Stock
+*   **Important Note:** The product description specifies that the handle is **NOT** included with this assembly.
+
+This part is a simple on/off mechanism that prevents the dishwasher from operating when the door is open.
+
+You can view more details or purchase the part on its product page here: [PS11754317 - Whirlpool Dishwasher Door Latch And Switch Assembly](https://www.partselect.com/PS11754317-Whirlpool-WPW10404412-Dishwasher-Door-Latch-And-Switch-Assembly.htm)
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 4 | Category: product_comparison
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Compare GE vs Whirlpool refrigerator door handles
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': 'GE, Whirlpool', 'current_issue': 'comparing door handles'}
+
+🎯 Router Agent analyzing: 'Compare GE vs Whirlpool refrigerator door handles'
+  ✅ Tool: search_products
+     Args: {'search_query': 'GE refrigerator door handles', 'brand': 'GE', 'appliance_type': 'refrigerator'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'Whirlpool refrigerator door handles', 'brand': 'Whirlpool', 'appliance_type': 'refrigerator'}
+
+🔍 Searching products: 'GE refrigerator door handles'
+  🧠 Using semantic search
+  ✅ Loaded: PS12295449
+  ✅ Loaded: PS11701232
+  ✅ Loaded: PS12344813
+  ✅ Loaded: PS12723385
+  ✅ Loaded: PS12583144
+
+🔍 Searching products: 'Whirlpool refrigerator door handles'
+  🧠 Using semantic search
+  ✅ Loaded: PS11755662
+  ✅ Loaded: PS11748572
+  ✅ Loaded: PS11738976
+  ✅ Loaded: PS11738615
+  ✅ Loaded: PS11743622
+
+ Data Retrieved:
+   Products: 10
+   Repairs: 0
+   Blogs: 0
+
+ Generating response for: 'Compare GE vs Whirlpool refrigerator door handles'
+ Response generated
+ Response generated!
+   UI Products: 10
+   Images: 6
+   Videos: 0
+
+
+User: Compare GE vs Whirlpool refrigerator door handles
+Assistant: Of course! Here’s a detailed comparison of GE and Whirlpool refrigerator door handles based on the available product data.
+
+### Quick Summary
+
+Based on the available parts, **GE handles generally offer a wider range of prices and more color options (Black, Stainless, White)**, while the **Whirlpool handles tend to be clustered in a higher price bracket** and often do not include necessary mounting hardware.
+
+---
+
+### Detailed Comparison: GE vs. Whirlpool Refrigerator Door Handles
+
+Here’s a breakdown of the key differences in price, availability, and what's included.
+
+#### **Price & Value**
+
+*   **GE Handles:**
+    *   **Price Range:** $67.76 - $155.92
+    *   GE offers the most budget-friendly option on the list (WR12X28145 for $67.76).
+    *   They also have several mid-range options between $95 and $108.
+    *   **Best Value:** The **GE WR12X28145 (Black)** at **$67.76** is the most affordable handle available.
+    *   [View GE WR12X28145](https://www.partselect.com/PS12295449-GE-WR12X28145-Refrigerator-Door-Handle.htm)
+
+*   **Whirlpool Handles:**
+    *   **Price Range:** $100.41 - $183.52
+    *   Whirlpool handles start at a higher price point, with most falling between $100 and $113.
+    *   They also have the most expensive single handle on the list (WP2169730 for $183.52).
+    *   **Best Value:** The **Whirlpool WP67005380** at **$101.48** is a competitively priced assembly.
+    *   [View Whirlpool WP67005380](https://www.partselect.com/PS11743622-Whirlpool-WP67005380-Refrigerator-Door-Handle-Assembly.htm)
+
+**Winner for Affordability: GE**
+
+#### **Availability**
+
+*   **GE Handles:** Most are **In Stock** and ready to ship, with only one model (WR12X29331) on special order.
+*   **Whirlpool Handles:** There is a mix, with two of the five models listed as **Special Order**, which could mean a longer wait time.
+
+**Winner for Availability: GE**
+
+#### **What's Included / Installation Notes**
+
+This is a critical differentiator.
+
+*   **GE Handles:** The product descriptions do not mention missing hardware, suggesting that screws or mounting components may be included. One description even advises to "Wear work gloves to protect your hands when installing this part," which implies a more complete kit.
+*   **Whirlpool Handles:** **Multiple descriptions explicitly state "Screws NOT included"** or "Mounting hardware not included." This is an important hidden cost and inconvenience, as you may need to source the correct screws separately.
+
+**Winner for Completeness: GE**
+
+#### **Color and Finish Options**
+
+*   **GE Handles:** Offer a clear variety of finishes, including **Black, Stainless Steel, and White**. This makes it easier to find a direct cosmetic match for your specific refrigerator model.
+*   **Whirlpool Handles:** The available data does not specify colors or finishes for most models, making it harder to determine a visual match without knowing your exact model number.
+
+**Winner for Choice: GE**
+
+### Recommendation and Final Thoughts
+
+Based purely on the available part data:
+
+*   **If you're looking for the best value, fastest shipping, and a straightforward installation, a GE handle is likely your best bet.** The **GE WR12X28145** provides a significant cost savings.
+
+*   **Choose a Whirlpool handle if it is the specific, genuine OEM part required for your model.** Be prepared for the possibility of a higher cost and the need to check if mounting hardware is included or must be purchased separately.
+
+### **Crucial Next Step: Check Compatibility!**
+
+**This is the most important step.** Door handles are not universal. The part number you need is entirely dependent on your refrigerator's specific model number.
+
+1.  **Find your model number.** It's usually located inside the main refrigerator compartment or on one of the door frames.
+2.  **Use the part selector** on any of the product pages above. Enter your model number to confirm that the handle is a perfect fit for your appliance.
+
+Do you happen to have your refrigerator's model number? With that, I could look up the exact, compatible handle for you.
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 5 | Category: repair_guidance
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: My dishwasher won't start
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': None, 'current_issue': "won't start"}
+
+🎯 Router Agent analyzing: 'My dishwasher won't start'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': "won't start", 'appliance_type': 'dishwasher'}
+
+🔧 Searching repairs: 'won't start'
+  ✅ Loaded: WILL_NOT_START - dishwasher.json
+  ✅ Loaded: KENMORE-DISHWASHER-WILL_NOT_START.json
+  ✅ Loaded: GE-DISHWASHER-WILL_NOT_START.json
+  ✅ Loaded: BOSCH-DISHWASHER-WILL_NOT_START.json
+  ✅ Loaded: KITCHENAID-DISHWASHER-WILL_NOT_START.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 5
+   Blogs: 0
+
+ Generating response for: 'My dishwasher won't start'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 1
+
+
+User: My dishwasher won't start
+Assistant: Of course! A dishwasher that won't start is a common and often easy-to-fix problem. The good news is that the repair guides for this issue are all rated as **EASY**, and the most common causes are simple to check yourself.
+
+Here is a step-by-step guide to diagnosing and fixing your dishwasher, based on the available repair information.
+
+### The Most Common Causes & How to Fix Them
+
+The primary culprits for a dishwasher that won't start are almost always related to safety features or the controls. Here are the top three parts to check, in order of likelihood:
+
+**1. Door Latch or Door Latch Switch**
+This is the most common reason. The dishwasher is designed not to run unless the door is securely closed and latched.
+*   **The Issue:** A faulty latch or switch doesn't send the "door is closed" signal to the control board, so the dishwasher won't start.
+*   **How to Check:** Visually inspect the latch on the door and the strike plate on the tub for any cracks or damage. Make sure the door is closing firmly and latching. You can often test the switch with a multimeter for continuity.
+*   **Repair Guide:** [How to Fix a Dishwasher That Won’t Start](https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/)
+
+**2. Timer or Electronic Control Board**
+This is the "brain" of your dishwasher that tells it when to start and run through cycles.
+*   **The Issue:** If the timer or control board fails, it won't send power to the rest of the components to begin the cycle.
+*   **How to Check:** Look for any error codes on the display (if your model has one). If buttons are unresponsive or the display is blank (but the door latch is good), the control board is a likely suspect.
+*   **Repair Guide:** [How to Fix a Dishwasher That Won’t Start](https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/)
+
+**3. Selector Switch (Cycle Switch)**
+This is the button or knob you use to select a wash cycle.
+*   **The Issue:** The switch can wear out over time, preventing the selected cycle from being communicated to the control board.
+*   **How to Check:** If the dishwasher doesn't respond when you press the start button for a specific cycle but works on others, the selector switch for that cycle may be faulty.
+*   **Repair Guide:** [How to Fix a Dishwasher That Won’t Start](https://www.partselect.com/Repair/Dishwasher/Will-Not-Start/)
+
+### Step-by-Step Troubleshooting Process
+
+1.  **Perform a Basic Power Check:**
+    *   Make sure the dishwasher is plugged in (if it's a plug-in model).
+    *   Check your home's circuit breaker or GFCI outlet to ensure a breaker hasn't tripped or a fuse hasn't blown.
+
+2.  **Check the Door:** Firmly close the door and listen for the latch to click. Try to start the dishwasher again.
+
+3.  **Consult a Brand-Specific Guide:**
+    While the underlying causes are similar, it can be helpful to look at a guide for your specific brand for any model-specific tips.
+    *   [How to Fix a Kenmore Dishwasher That Won’t Start](https://www.partselect.com/Repair/Dishwasher/Kenmore/Will-Not-Start/)
+    *   [How to Fix a GE Dishwasher That Won’t Start](https://www.partselect.com/Repair/Dishwasher/GE/Will-Not-Start/)
+    *   [How to Fix a Bosch Dishwasher That Won’t Start](https://www.partselect.com/Repair/Dishwasher/Bosch/Will-Not-Start/)
+    *   [How to Fix a KitchenAid Dishwasher That Won’t Start](https://www.partselect.com/Repair/Dishwasher/Kitchenaid/Will-Not-Start/)
+
+### Helpful Video Tutorial
+
+All the repair guides link to the same comprehensive video, which will walk you through the visual inspection and testing process for these common parts. It's a great place to start.
+
+*   **Video:** [How to Fix a Dishwasher That Won’t Start](https://www.youtube.com/watch?v=XgZq_VdXKiQ)
+
+### Next Steps
+
+Start with the simple power and door checks. If those don't solve the problem, the video and general repair guide will help you identify which component (latch, control, or switch) is likely causing the issue. Once you've identified the faulty part, you can search for it using your dishwasher's model number to find an exact replacement
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 6 | Category: repair_guidance_specific
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Refrigerator is too cold
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': None, 'current_issue': 'too cold'}
+
+🎯 Router Agent analyzing: 'Refrigerator is too cold'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'refrigerator too cold', 'appliance_type': 'refrigerator'}
+
+🔧 Searching repairs: 'refrigerator too cold'
+  ✅ Loaded: REFRIGERATOR.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'Refrigerator is too cold'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 1
+
+
+User: Refrigerator is too cold
+Assistant: Of course! A refrigerator that's too cold is a common issue, and it's often something you can troubleshoot yourself. Based on the information available, here is a detailed guide to help you diagnose and fix the problem.
+
+### Understanding the Problem: Why Is My Refrigerator Too Cold?
+
+When a refrigerator is excessively cold, it often leads to frozen food in the fresh food compartment. The most common culprits are faulty temperature control components. Let's walk through the diagnostic steps.
+
+---
+
+### Step-by-Step Troubleshooting Guide
+
+#### **1. Check the Thermostat / Temperature Control**
+
+This is the most likely cause. The thermostat tells the compressor when to turn on and off to maintain the set temperature. If it's stuck in the "on" position, the compressor will run continuously, making the fridge too cold.
+
+*   **What to do:** Turn the thermostat knob from a colder setting to a warmer setting and listen for a faint "click." If you don't hear a click, it could be a sign the thermostat is faulty and needs replacement.
+
+#### **2. Inspect the Damper Door Control**
+
+Many modern refrigerators have a damper door that opens and closes to let cold air from the freezer into the refrigerator compartment. If this door gets stuck open, too much cold air will flow in, freezing your fresh food.
+
+*   **What to do:** Locate the damper (usually at the top of the refrigerator section or in the back wall). See if it's open when the refrigerator is at its set temperature. If it seems stuck, the damper control assembly may need to be replaced.
+
+#### **3. Test the Thermistor**
+
+The thermistor is a sensor that monitors the temperature and sends the reading to the main control board. If it gives an incorrect (too warm) reading, the control board will keep the compressor running to cool down a fridge that is already cold enough.
+
+*   **What to do:** Thermistors can be tested for resistance with a multimeter, but this requires some technical skill. If the thermostat seems fine, the thermistor is the next component to suspect.
+
+#### **4. Consider the Main Control Board (Less Common)**
+
+If the thermostat, damper, and thermistor all check out, the issue could be with the main control board itself. It might be failing to process the signals correctly. This is a more complex and expensive part to replace.
+
+---
+
+### Common Parts You Might Need
+
+While I don't have a specific list of parts for your exact model, the parts most commonly associated with a "too cold" refrigerator are:
+
+*   **Temperature Control Thermostat**
+*   **Damper Control Assembly**
+*   **Thermistor (Temperature Sensor)**
+*   **Main Control Board**
+
+To find the exact part for your model, you will need to look up your refrigerator's model number (usually found on a sticker inside the fridge).
+
+---
+
+### Helpful Video Resource
+
+While the available video specifically covers a *leaking* fridge, the general repair hub for refrigerators is an excellent starting point. It can help you understand how to access and inspect the parts mentioned above.
+
+*   **Repair Guide:** [How To Repair A Broken Refrigerator](https://www.partselect.com/Repair/Refrigerator/)
+*   **General Video:** [Troubleshooting A Leaking Fridge](https://www.youtube.com/watch?v=I4_tF7SIPuI) (Use this as a guide for general disassembly and safety).
+
+### Summary and Recommendation
+
+1.  **Start Simple:** First, adjust your thermostat to a warmer setting and listen for the click.
+2.  **Visual Inspection:** Check if the cold air damper is stuck open.
+3.  **Next Steps:** If the simple checks don't work, the temperature control thermostat is the most probable part that needs replacing.
+
+For the most accurate diagnosis, I recommend you:
+1.  **Locate your refrigerator's model number.**
+2.  **Use the Repair Guide link above** and enter your model number to find model-specific troubleshooting and compatible parts.
+
+I hope this detailed guide helps you get your refrigerator back to the right temperature
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 7 | Category: repair_guidance_common
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Dishwasher leaking water
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': None, 'current_issue': 'leaking water'}
+
+🎯 Router Agent analyzing: 'Dishwasher leaking water'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'leaking water', 'appliance_type': 'dishwasher'}
+
+🔧 Searching repairs: 'leaking water'
+  ✅ Loaded: LEAKING - dishwasher.json
+  ✅ Loaded: GE-DISHWASHER-LEAKING.json
+  ✅ Loaded: AMANA-DISHWASHER-LEAKING.json
+  ✅ Loaded: BOSCH-DISHWASHER-LEAKING.json
+  ✅ Loaded: KENMORE-DISHWASHER-LEAKING.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 5
+   Blogs: 0
+
+ Generating response for: 'Dishwasher leaking water'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 1
+
+
+User: Dishwasher leaking water
+Assistant: Of course! A leaking dishwasher is a common issue, and the good news is that it's often an easy fix you can handle yourself. The key is to figure out *where* the leak is coming from.
+
+Based on the available repair guides, here is a complete breakdown of how to diagnose and fix your leaking dishwasher.
+
+### Step 1: Diagnose the Source of the Leak
+
+First, you need to play detective. Run a quick cycle and watch for where the water is coming from. The most common culprits are:
+
+*   **The Door Area:** A worn-out or misaligned door gasket is a very frequent cause.
+*   **The Pump Assembly:** The pump can crack or the seals can fail, causing leaks from the bottom of the dishwasher.
+*   **The Water Inlet Valve:** This valve controls the water coming into the dishwasher and can leak if it's faulty.
+
+### Step 2: Follow the General Repair Guide
+
+The main repair guide for a leaking dishwasher is an excellent place to start, regardless of your brand. It's rated as an **EASY** repair.
+
+*   **Repair Guide:** [How To Repair A Leaking Dishwasher](https://www.partselect.com/Repair/Dishwasher/Leaking/)
+*   **Video Guide:** [How To Repair A Leaking Dishwasher](https://www.youtube.com/watch?v=hBAfmgORE6Q)
+
+This guide will walk you through the diagnostic steps and repair procedures for the most common parts that fail.
+
+### Step 3: Check Your Specific Brand (If Known)
+
+If you know the brand of your dishwasher, you can use a more specific guide. The process is very similar, but the parts and access panels might be slightly different.
+
+*   **For GE Dishwashers:** [How To Repair A Leaking GE Dishwasher](https://www.partselect.com/Repair/Dishwasher/GE/Leaking/)
+*   **For Amana Dishwashers:** [How To Repair A Leaking Amana Dishwasher](https://www.partselect.com/Repair/Dishwasher/Amana/Leaking/)
+*   **For Bosch Dishwashers:** [How To Repair A Leaking Bosch Dishwasher](https://www.partselect.com/Repair/Dishwasher/Bosch/Leaking/)
+*   **For Kenmore Dishwashers:** [How To Repair A Leaking Kenmore Dishwasher](https://www.partselect.com/Repair/Dishwasher/Kenmore/Leaking/)
+
+**Note:** All of these brand-specific guides link to the same helpful video, which demonstrates the universal principles of finding and fixing a dishwasher leak.
+
+### Common Parts You Might Need to Replace
+
+Once you've identified the source, you'll likely need one of these three parts:
+
+1.  **Door Gasket:** This is the rubber seal around the door. If it's torn, brittle, or has food debris stuck in it, it won't seal properly.
+2.  **Pump Assembly:** The pump circulates water and drains it. Look for cracks in the plastic housing or worn seals.
+3.  **Water Inlet Valve:** This valve opens to let water in and closes to stop the flow. If it fails to close completely, it can cause overfilling and leaking.
+
+### Summary and Recommendation
+
+1.  **Start with the general guide** to diagnose the problem. The video is a fantastic visual aid.
+2.  **Identify the leak location** – this is the most important step.
+3.  **If you know your brand**, use the specific guide for any brand-related tips.
+4.  **Order the correct replacement part** once you're sure what's broken.
+
+Since the difficulty is rated as "Easy," this is a very DIY-friendly repair. The guides and video will give you the confidence to fix it yourself and avoid a costly service call.
+
+Let me know if you find the source of the leak and need help identifying a specific part!
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 8 | Category: repair_guidance_brand_specific
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: How do I fix a noisy GE dishwasher?
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': 'GE', 'current_issue': 'noisy'}
+
+🎯 Router Agent analyzing: 'How do I fix a noisy GE dishwasher?'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'noisy', 'appliance_type': 'dishwasher'}
+
+🔧 Searching repairs: 'noisy'
+  ✅ Loaded: KITCHENAID-DISHWASHER-NOISY.json
+  ✅ Loaded: KENMORE-DISHWASHER-NOISY.json
+  ✅ Loaded: BOSCH-DISHWASHER-NOISY.json
+  ✅ Loaded: AMANA-DISHWASHER-NOISY.json
+  ✅ Loaded: WHIRLPOOL-DISHWASHER-NOISY.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 5
+   Blogs: 0
+
+ Generating response for: 'How do I fix a noisy GE dishwasher?'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 1
+
+
+User: How do I fix a noisy GE dishwasher?
+Assistant: Of course! Fixing a noisy GE dishwasher is a very common and often easy repair. While I don't have a specific repair guide for GE, the underlying causes and solutions for a noisy dishwasher are very similar across brands like KitchenAid, Kenmore, and Whirlpool.
+
+Here’s a step-by-step guide to diagnose and fix your noisy GE dishwasher, based on the common issues found in other brands.
+
+### Common Causes & How to Fix Them
+
+The most frequent culprits for a noisy dishwasher are the spray arms, the wash arm bearing ring, and the pump assembly.
+
+#### 1. Check the Spray Arms
+The spray arms are the rotating arms at the bottom and sometimes top of your dishwasher. If they are loose, cracked, or hitting something, they will make a loud knocking or grinding noise.
+
+*   **Step 1:** Remove the bottom rack and locate the lower spray arm.
+*   **Step 2:** Try to wiggle it. It should spin freely but not have a lot of up-and-down play.
+*   **Step 3:** Inspect it for cracks, broken blades, or debris clogging the holes.
+*   **Step 4:** Check that nothing from the lower rack (like a tall utensil) is obstructing its path.
+*   **Step 5:** Do the same for the upper spray arm, if your model has one.
+
+**The Fix:** If a spray arm is damaged, you'll need to replace it. If it's just loose, you may need to replace the **Wash Arm Bearing Ring & Spray Arm Seal** that it sits on.
+
+#### 2. Inspect the Wash Arm Bearing Ring & Spray Arm Seal
+This is a very common part that wears out. It's the plastic ring and seal that the lower spray arm mounts onto. When it wears down, it allows the spray arm to wobble and make noise.
+
+*   **Step 1:** Pull out the lower spray arm. It usually unscrews or lifts off.
+*   **Step 2:** Look at the plastic ring and seal underneath. If it's cracked, melted, or looks worn out, this is likely your problem.
+
+**The Fix:** Replacing this bearing ring is a straightforward and inexpensive repair that often solves noise issues completely.
+
+#### 3. Diagnose the Pump Assembly
+The pump is the heart of your dishwasher, circulating water. A failing pump can make a loud humming, grinding, or whining noise.
+
+*   **The Sound:** A noisy pump is often a constant, loud hum or grind that persists throughout the wash cycle.
+*   **The Cause:** Worn-out bearings or a damaged impeller inside the pump.
+
+**The Fix:** Replacing the pump is a more advanced repair, but it's a permanent solution if the pump is the source of the noise.
+
+### Helpful Video Guide
+
+While the video I have is branded for other manufacturers, the repair process for checking spray arms and the pump is virtually identical for a GE dishwasher. This video will show you the exact steps visually.
+
+*   **Watch this video:** [How To Fix A Noisy Dishwasher](https://www.youtube.com/watch?v=A8BeQ5qJyp4)
+
+### Summary of Common Parts You Might Need
+
+Based on the repair data, here are the parts most often needed to fix a noisy dishwasher:
+*   **Spray Arms** (if cracked or broken)
+*   **Wash Arm Bearing Ring & Spray Arm Seal** (if the spray arm is wobbly)
+*   **Pump** (if you hear a loud grinding or humming from the motor)
+
+### Next Steps
+
+1.  **Start with the simple checks first.** Inspect the spray arms for obstructions and damage. This is the easiest and most common fix.
+2.  **If the spray arms seem fine,** move on to inspecting the wash arm bearing ring.
+3.  **If the noise is a loud motor-like grind,** the pump is the most likely suspect.
+
+To find the exact parts for your specific GE dishwasher model, you will need your model number (usually located on the side of the door frame). Once you have that, you can search for the correct spray arm, bearing ring, or pump.
+
+I hope this guide helps you get your GE dishwasher running quietly again! Let me know if you find your model number and need help identifying a specific part.
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 9 | Category: blog_how_to
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: How do I clean my Bosch dishwasher?
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': 'Bosch', 'current_issue': 'cleaning'}
+
+🎯 Router Agent analyzing: 'How do I clean my Bosch dishwasher?'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'cleaning dishwasher', 'appliance_type': 'dishwasher'}
+  ✅ Tool: search_blogs
+     Args: {'topic': 'how to clean Bosch dishwasher'}
+
+🔧 Searching repairs: 'cleaning dishwasher'
+  ✅ Loaded: LG-DISHWASHER-NOT_CLEANING_DISHES_PROPERLY.json
+  ✅ Loaded: KITCHENAID-DISHWASHER-NOT_CLEANING_DISHES_PROPERLY.json
+  ✅ Loaded: SAMSUNG-DISHWASHER-NOT_CLEANING_DISHES_PROPERLY.json
+  ✅ Loaded: WILL_NOT_START - dishwasher.json
+  ✅ Loaded: BOSCH-DISHWASHER-NOT_CLEANING_DISHES_PROPERLY.json
+
+📝 Searching blogs: 'how to clean Bosch dishwasher'
+  ✅ Loaded: how-to-clean-a-bosch-dishwasher.json
+  ✅ Loaded: bosch-dishwasher-e15-error-code.json
+  ✅ Loaded: how-to-remove-dishwasher.json
+  ✅ Loaded: bosch-dishwasher-not-starting-and-red-light.json
+  ✅ Loaded: fix-dishwasher-that-wont-start.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 5
+   Blogs: 5
+
+ Generating response for: 'How do I clean my Bosch dishwasher?'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 2
+
+
+User: How do I clean my Bosch dishwasher?
+Assistant: Of course! Cleaning your Bosch dishwasher is an important maintenance task that helps keep it running efficiently and your dishes sparkling clean. Here is a comprehensive, step-by-step guide based on the specific information available for Bosch models.
+
+### A Step-by-Step Guide to Cleaning Your Bosch Dishwasher
+
+Regular cleaning prevents odors, removes limescale and mineral buildup, and ensures optimal cleaning performance. Here’s how to do it thoroughly.
+
+**Primary Source:** For the most detailed and efficient cleaning method, refer to this dedicated article:
+*   **How to Clean a Bosch Dishwasher**
+    *   **URL:** https://www.partselect.com/blog/how-to-clean-a-bosch-dishwasher/
+    *   **What it covers:** This guide specifically addresses getting rid of smells, limescale, and tough stains by cleaning the filter, spray arms, tub, and door seals.
+
+---
+
+#### Step 1: Clean the Filter Assembly
+The filter is crucial for trapping food debris. A clogged filter is a common reason for poor cleaning performance.
+
+1.  **Remove the lower rack** to access the bottom of the dishwasher.
+2.  **Locate the filter.** In most Bosch models, it's a cylindrical unit in the center of the tub floor.
+3.  **Unscrew and remove the filter.** It usually twists counterclockwise to unlock.
+4.  **Disassemble it** (if applicable) and rinse all parts under warm, running water. Use a soft brush to scrub away any stuck-on grease or debris.
+5.  **Reassemble and reinsert** the filter, twisting it clockwise until it locks securely back into place.
+
+#### Step 2: Clean the Spray Arms
+Clogged spray arm holes can prevent water from reaching all your dishes.
+
+1.  **Remove both the upper and lower spray arms.** They typically snap off or are held by a single screw.
+2.  **Inspect the holes** for any debris or mineral deposits.
+3.  **Use a toothpick or a small piece of wire** to clear any clogged holes.
+4.  **Rinse the arms** thoroughly with water to ensure all passages are clear.
+5.  **Reinstall** the spray arms, making sure they can spin freely.
+
+#### Step 3: Wipe Down the Interior and Door Seals
+1.  **Use a damp cloth** with a mild detergent to wipe down the interior walls, door, and the underside of the door lid.
+2.  **Pay special attention to the door gasket** (the rubber seal around the door). Wipe it down to remove any mold or grime, which is a common source of odors.
+
+#### Step 4: Run a Cleaning Cycle
+After the mechanical cleaning is done, run an empty cycle to freshen the interior.
+
+1.  **Place a cup of white vinegar or a dishwasher cleaning tablet** on the upper rack.
+2.  **Run the dishwasher** on the hottest cycle setting. The vinegar or cleaner will help dissolve any remaining lime scale and deodorize the interior.
+
+---
+
+### What to Do If Cleaning Doesn't Solve the Problem
+
+If you've cleaned your dishwasher thoroughly but it's still not cleaning dishes properly, you may have a faulty part. The most common parts that cause cleaning issues are:
+
+*   **Spray Arm:** If it's cracked or broken, it won't distribute water correctly.
+*   **Upper Discharge Housing Gasket:** A worn gasket can cause leaks and reduce water pressure.
+*   **Docking Station:** This connects the lower spray arm to the water supply; if damaged, water flow is compromised.
+
+For detailed troubleshooting and repair steps for a Bosch dishwasher that isn't cleaning properly, this repair guide is an excellent resource:
+*   **Repair Guide: How To Fix Bosch Dishwasher That Won't Clean Properly**
+    *   **URL:** https://www.partselect.com/Repair/Dishwasher/Bosch/Not-Cleaning-Properly/
+    *   **Video Guide:** https://www.youtube.com/watch?v=9DqYkzF0qVM
+    *   **Difficulty:** Easy
+
+By following these cleaning and maintenance steps, you can keep your Bosch dishwasher in top condition and extend its lifespan. If the problem persists after cleaning, the repair guide will help you diagnose the specific part that needs replacement.
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 10 | Category: blog_general
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Can I put a lock on my refrigerator?
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': None, 'current_issue': 'lock installation'}
+
+🎯 Router Agent analyzing: 'Can I put a lock on my refrigerator?'
+  ✅ Tool: search_blogs
+     Args: {'topic': 'refrigerator lock installation'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'refrigerator lock', 'appliance_type': 'refrigerator'}
+
+📝 Searching blogs: 'refrigerator lock installation'
+  ✅ Loaded: how-to-put-a-lock-on-a-refrigerator.json
+  ✅ Loaded: repair-or-replace-refrigerator-shelf.json
+  ✅ Loaded: how-to-reset-a-frigidaire-refrigerator.json
+  ✅ Loaded: how-to-fix-a-torn-refrigerator-door-seal.json
+  ✅ Loaded: how-to-replace-lg-refrigerator-water-filter.json
+
+🔍 Searching products: 'refrigerator lock'
+  🧠 Using semantic search
+  ✅ Loaded: PS11739240
+  ✅ Loaded: PS17203979
+  ✅ Loaded: PS11743548
+  ✅ Loaded: PS12743930
+  ✅ Loaded: PS2350624
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 0
+   Blogs: 5
+
+ Generating response for: 'Can I put a lock on my refrigerator?'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 0
+
+
+User: Can I put a lock on my refrigerator?
+Assistant: Of course! Putting a lock on your refrigerator is a common request, often to child-proof it or to manage access for health or safety reasons. You're in luck because there's a dedicated guide for this.
+
+Based on the information available, here’s a complete answer to your question.
+
+### Yes, You Can Put a Lock on Your Refrigerator
+
+There are specific safety locks designed for this purpose. The process is generally straightforward, but the right type of lock depends on your refrigerator's style (side-by-side, French door, top/bottom freezer) and your specific needs.
+
+I found a comprehensive article that walks you through the entire process: **["How to Put a Lock on a Refrigerator"](https://www.partselect.com/blog/how-to-put-a-lock-on-a-refrigerator/)**.
+
+This guide covers:
+*   **Choosing the Right Lock:** It explains the different types of locks available, including adhesive locks, sliding bar locks, and cable locks, and which fridge styles they work best with.
+*   **Installation Steps:** You'll get step-by-step instructions on how to properly install the lock you choose.
+*   **Care and Maintenance:** Tips on how to ensure the lock remains effective and doesn't damage your refrigerator doors.
+
+### A Note on the Parts Found in the Search
+
+The product search returned several refrigerator door parts, but these are primarily **replacement components for the refrigerator's built-in mechanisms**, not add-on safety locks. For clarity:
+
+*   **Spring Latches and Door Closures** (like WP2198608 or WP67003639) are the parts that help the door close and seal properly. Replacing these can fix a door that won't stay shut, but they don't function as a keyed or combination lock.
+*   The **Freezer Door** is a full door replacement, which is not related to adding a lock.
+
+**Your best and most cost-effective path is to purchase a dedicated refrigerator safety lock,** which you can find at most baby-proofing stores, home improvement centers, or online retailers. The installation typically requires no tools or just a screwdriver and uses strong adhesives or minimal drilling.
+
+**In summary:**
+1.  **Review the detailed guide here:** [How to Put a Lock on a Refrigerator](https://www.partselect.com/blog/how-to-put-a-lock-on-a-refrigerator/)
+2.  Identify your refrigerator type (e.g., French door, side-by-side).
+3.  Purchase a compatible child-safety or appliance lock kit.
+
+This approach will give you a secure, purpose-built lock without needing to modify your refrigerator's original parts. If you know your refrigerator's model number, I can help you look up compatible parts in the future!
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 11 | Category: blog_error_code
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: What does the 22E error mean on my Samsung fridge?
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': 'Samsung', 'current_issue': '22E error code'}
+
+🎯 Router Agent analyzing: 'What does the 22E error mean on my Samsung fridge?'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': '22E error code', 'appliance_type': 'refrigerator'}
+
+🔧 Searching repairs: '22E error code'
+  ✅ Loaded: REFRIGERATOR.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'What does the 22E error mean on my Samsung fridge?'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 1
+
+
+User: What does the 22E error mean on my Samsung fridge?
+Assistant: Based on the information available to me, I'm unable to find the specific meaning of the "22E" error code for your Samsung refrigerator in our current database.
+
+The repair guide I found is a general resource for refrigerator troubleshooting and does not contain a list of specific error codes. The associated video also focuses on troubleshooting a leaking fridge, which may not be directly related to the 22E error you're experiencing.
+
+**Here is how you can find the information you need:**
+
+1.  **Consult Your User Manual:** The quickest way to find the meaning of an error code is to check the owner's manual or installation guide that came with your refrigerator. Manufacturers almost always include a troubleshooting section with error code definitions.
+2.  **Search Online:** A specific search for "Samsung refrigerator 22E error code" will often lead you to forum discussions, official support pages, or videos from other users who have experienced the same issue.
+3.  **Contact Samsung Support:** For the most accurate and official information, I recommend contacting Samsung Customer Support directly. They can provide the definitive meaning of the code and the recommended steps to resolve it.
+
+I apologize that I couldn't provide a direct answer this time. If you are able to find out what the error code means and need help finding a specific replacement part, please feel free to ask again!
+
+*   General Refrigerator Repair Guide: https://www.partselect.com/Repair/Refrigerator/
+
+Error parsing judge response: Unterminated string starting at: line 4 column 5 (char 72)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 12 | Category: multi_turn_context
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: I have a Whirlpool dishwasher
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': 'Whirlpool', 'current_issue': None}
+
+🎯 Router Agent analyzing: 'I have a Whirlpool dishwasher'
+  ⚠️ No tools called
+
+User: I have a Whirlpool dishwasher
+Assistant: Hello! I couldn't find any relevant information. Could you rephrase your question?
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+
+============================================================
+ Query: The door won't latch
+ Context: Appliance: dishwasher | Brand: Whirlpool
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': 'Whirlpool', 'current_issue': "door won't latch"}
+
+🎯 Router Agent analyzing: 'The door won't latch'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': "door won't latch", 'appliance_type': 'dishwasher'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'dishwasher door latch', 'brand': 'Whirlpool', 'appliance_type': 'dishwasher'}
+
+🔧 Searching repairs: 'door won't latch'
+  ✅ Loaded: KENMORE-DISHWASHER-BROKEN_DOOR_LATCH.json
+  ✅ Loaded: GE-DISHWASHER-BROKEN_DOOR_LATCH.json
+  ✅ Loaded: AMANA-DISHWASHER-BROKEN_DOOR_LATCH.json
+  ✅ Loaded: LG-DISHWASHER-BROKEN_DOOR_LATCH.json
+  ✅ Loaded: SAMSUNG-DISHWASHER-BROKEN_DOOR_LATCH.json
+
+🔍 Searching products: 'dishwasher door latch'
+  🧠 Using semantic search
+  ✅ Loaded: PS11751007
+  ✅ Loaded: PS11741367
+  ✅ Loaded: PS11751688
+  ✅ Loaded: PS11754317
+  ✅ Loaded: PS11747729
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 5
+   Blogs: 0
+
+ Generating response for: 'The door won't latch'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 1
+
+
+User: The door won't latch
+Assistant: Of course! A dishwasher door that won't latch is a common and usually straightforward problem to fix. For your Whirlpool dishwasher, the issue is almost certainly with one of the components in the latching mechanism.
+
+Here’s a breakdown of the likely causes, the parts you might need, and how to fix it.
+
+### What's Causing the Problem?
+
+The door latch system has a few key parts that work together. The failure is typically in one of these components:
+*   **The Latch Assembly:** The main mechanism on the top of the door that the handle engages.
+*   **The Latch Bolt:** The "hook" part of the assembly that physically catches on the door frame.
+*   **The Handle:** The part you pull on; if it's broken, it can't properly engage the latch.
+
+### Recommended Replacement Parts for Your Whirlpool Dishwasher
+
+Based on the parts I found, here are your best options, starting with the most likely and cost-effective solution:
+
+1.  **Dishwasher Door Latch w/Switches (WPW10275768) - $53.33**
+    *   **PartSelect Number:** PS11751688
+    *   **URL:** [View Part Details](https://www.partselect.com/PS11751688-Whirlpool-WPW10275768-Dishwasher-Door-Latch-w-Switches-No-Handle.htm)
+    *   **Why it's a top choice:** This is a complete latch assembly that includes the important safety switches. These switches tell the dishwasher the door is closed, so it's a very common point of failure. It's in stock and reasonably priced.
+    *   **Note:** This part does **not** include the handle.
+
+2.  **Dishwasher Door Latch And Switch Assembly (WPW10404412) - $63.47**
+    *   **PartSelect Number:** PS11754317
+    *   **URL:** [View Part Details](https://www.partselect.com/PS11754317-Whirlpool-WPW10404412-Dishwasher-Door-Latch-And-Switch-Assembly.htm)
+    *   **Why it's a good option:** Similar to the part above, this is another modern latch and switch assembly. It's also in stock and a direct competitor to the first option.
+    *   **Note:** This part also does **not** include the handle.
+
+3.  **Dishwasher Latch Handle (WP99002839) - $65.64**
+    *   **PartSelect Number:** PS11747729
+    *   **URL:** [View Part Details](https://www.partselect.com/PS11747729-Whirlpool-WP99002839-Dishwasher-Latch-Handle.htm)
+    *   **When to choose this:** If the physical handle on your dishwasher is cracked, loose, or feels broken when you pull it, this is the part you need.
+
+4.  **Dishwasher Door Latch Bolt (WP3380854) - $51.25**
+    *   **PartSelect Number:** PS11741367
+    *   **URL:** [View Part Details](https://www.partselect.com/PS11741367-Whirlpool-WP3380854-Dishwasher-Door-Latch-Bolt.htm)
+    *   **When to choose this:** If the main latch assembly seems fine but the small hook (the bolt) is broken or worn down, this is a more specific and slightly cheaper repair.
+
+**Part to Avoid Unless Necessary:**
+*   The **Dishwasher Door Latch Assembly (WPW10247175)** is quite expensive at **$203.08** and is a special order item. The other latch assemblies listed above are more modern, in-stock, and likely direct replacements for this older, costly part.
+
+### How to Fix It: Step-by-Step Guide
+
+This repair is consistently rated as **"REALLY EASY"** across all brands. The process for a Whirlpool will be very similar to the guides I found for other brands.
+
+**Here are the general steps:**
+
+1.  **SAFETY FIRST:** Unplug the dishwasher from the wall outlet or turn off the circuit breaker that powers it.
+2.  **Access the Latch:** The latch is located at the top of the dishwasher door, under a plastic cover or trim panel. This is usually held in place by a few screws.
+3.  **Remove the Old Latch:** Unscrew the latch assembly from the inside of the door. You may need to use a putty knife or flat-head screwdriver to gently pry off a cosmetic cover first.
+4.  **Disconnect Wires:** Carefully unplug the wiring harness connected to the latch switches. It's a good idea to take a photo with your
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 13 | Category: multi_turn_progressive
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: My refrigerator is leaking
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': None, 'current_issue': 'leaking'}
+
+🎯 Router Agent analyzing: 'My refrigerator is leaking'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'leaking', 'appliance_type': 'refrigerator'}
+
+🔧 Searching repairs: 'leaking'
+  ✅ Loaded: REFRIGERATOR.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'My refrigerator is leaking'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 1
+
+
+User: My refrigerator is leaking
+Assistant: Of course! A leaking refrigerator is a very common issue, and it's great that you're looking into it. Based on the repair information available, I can guide you through the most likely causes and what to do next.
+
+The good news is that the leak is often caused by a simple, clogged component that you can check and fix yourself.
+
+### Most Common Cause: A Clogged Defrost Drain
+
+The most frequent reason for a refrigerator leak is a clog in the defrost drain. Here’s a quick explanation of what happens:
+
+*   **How it works:** During normal operation, frost builds up on the freezer coils. The refrigerator automatically goes through a defrost cycle to melt this frost. The water from the melted frost is supposed to flow down a drain tube and into a pan at the bottom of the fridge, where it evaporates.
+*   **The Problem:** Over time, food particles, mold, or ice can clog this small drain tube. When it's clogged, the defrost water has nowhere to go and will overflow, eventually leaking onto your floor, often from the bottom of the refrigerator or inside the fresh food compartment.
+
+### How to Fix a Clogged Defrost Drain
+
+Here are the typical steps to clear the clog. **Always remember to unplug your refrigerator for safety before starting any repair.**
+
+1.  **Locate the Drain Hole:** Inside your freezer compartment (and sometimes the fresh food section), look at the back wall. You should see a small hole or channel—this is the drain.
+2.  **Clear the Clog:** You can use a turkey baster filled with hot water to flush the drain or a long, flexible bottle brush to gently break up the clog.
+3.  **Check for Proper Drainage:** After clearing it, pour a small amount of water into the drain to ensure it flows freely down the tube and out the back.
+
+### Your Next Steps
+
+The best way to tackle this is to follow a visual guide. We have a specific video that walks you through the entire process of troubleshooting a leaking fridge, which will show you exactly what to look for and how to clear the drain.
+
+**I highly recommend you watch this short video:**
+*   **[Troubleshooting A Leaking Fridge](https://www.youtube.com/watch?v=I4_tF7SIPuI)**
+
+This video is part of our larger refrigerator repair guide, which you can find here:
+*   **[Complete Refrigerator Repair Guide](https://www.partselect.com/Repair/Refrigerator/)**
+
+### Other Possible Causes
+
+While a clogged defrost drain is the most common culprit, the video and repair guide will also help you check for other issues, such as:
+*   A cracked or misaligned water filter
+*   A blocked or frozen water line (for ice makers and water dispensers)
+*   A damaged or cracked drain pan
+
+Start with the video guide, as it will help you quickly identify the exact source of the leak in your specific model. If you find you need a replacement part after diagnosing the issue, you can search for it using your refrigerator's model number on the main repair guide page.
+
+Let me know if the video helps you pinpoint the problem
+
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+
+============================================================
+ Query: It's a GE model
+ Context: Appliance: refrigerator | Issue: leaking
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': 'GE', 'current_issue': 'leaking'}
+
+🎯 Router Agent analyzing: 'It's a GE model'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'leaking', 'appliance_type': 'refrigerator'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'GE refrigerator leak repair parts', 'brand': 'GE', 'appliance_type': 'refrigerator'}
+
+🔧 Searching repairs: 'leaking'
+  ✅ Loaded: REFRIGERATOR.json
+
+🔍 Searching products: 'GE refrigerator leak repair parts'
+  🧠 Using semantic search
+  ✅ Loaded: PS2340317
+  ✅ Loaded: PS12345436
+  ✅ Loaded: PS12744312
+  ✅ Loaded: PS3503878
+  ✅ Loaded: PS5573614
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'It's a GE model'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 1
+
+
+User: It's a GE model
+Assistant: Of course! A leaking GE refrigerator is a very common issue, and the location of the leak is the biggest clue to what's causing it. Since you've confirmed the brand, I can provide more specific guidance.
+
+Let's break down the most common causes for a leaking refrigerator and how to diagnose them. I'll also include the relevant parts and repair guides I have available.
+
+### Common Causes of a Leaking Refrigerator
+
+Here are the most likely culprits, starting with the simplest and most common:
+
+1.  **Clogged or Frozen Defrost Drain:** This is the **#1 most common cause** of water leakage inside the refrigerator (usually at the bottom of the fridge compartment). Food particles or ice can clog the drain hole at the back of the fridge, causing defrost water to overflow and pool on the floor.
+    *   **How to Check:** Look for a small drain hole in the back wall of the refrigerator compartment (not the freezer). If you see water around it or ice blocking it, this is likely your issue.
+    *   **Fix:** You can often clear it by using a turkey baster with warm water or a pipe cleaner. There is a helpful video in our repair guide section that covers this.
+
+2.  **Faulty or Misaligned Water Filter:** A loose or incorrectly installed water filter, or a cracked filter housing, can cause water to leak, typically from the front-bottom grille.
+    *   **How to Check:** Ensure the water filter is pushed in all the way and locked into place. Check for cracks in the filter housing.
+
+3.  **Damaged or Clogged Water Supply Line:** If the leak is related to the ice maker or water dispenser, the water line itself could be cracked, kinked, or have a loose connection.
+    *   **How to Check:** Pull the refrigerator out from the wall and inspect the copper or plastic water line where it connects to the back of the fridge.
+
+4.  **Leaking Drain Pan:** The drain pan is located at the very bottom of the refrigerator, often under the kickplate. It can crack or overflow if the refrigerator is not level (causing water to slosh out) or if the defrost system isn't working correctly.
+    *   **How to Check:** Remove the front kickplate and look for the black plastic pan. Check for cracks and ensure the refrigerator is level.
+
+### Recommended First Step: Watch the Troubleshooting Video
+
+Before you consider buying any parts, I strongly recommend watching this short video from our repair guide. It walks you through the diagnostic process visually, which is often the easiest way to identify the problem.
+
+*   **Video:** [Troubleshooting A Leaking Fridge](https://www.youtube.com/watch?v=I4_tF7SIPuI)
+*   **Full Repair Guide:** [How To Repair A Broken Refrigerator](https://www.partselect.com/Repair/Refrigerator/)
+
+### Parts That *Might* Be Relevant
+
+Based on the products I found, here are the parts that could be related to a leak, depending on what you find during your diagnosis. **Please do not order these until you've identified the exact cause.**
+
+*   **For Door Seal Issues (if water is condensing and dripping from between the doors):**
+    *   **Refrigerator Flipper Assembly WR17X12584** - This part creates the seal between the two doors on a French-door model. If it's damaged, warm, moist air can get in, cause condensation, and lead to dripping.
+        *   **Price:** $229.74
+        *   **URL:** [View Part Details](https://www.partselect.com/PS2340317-GE-WR17X12584-Refrigerator-Flipper-Assembly.htm)
+
+*   **For Compressor Issues (a less common but serious cause of leaks):**
+    *   **REFRIGERATOR COMPRESSOR REPLACEMENT KIT WR87X26271** - If the compressor is failing, it can cause the entire cooling system to malfunction, potentially leading to ice blockages and overflows. This is a complex repair.
+        *   **Price:** $369.58
+        *   **URL:** [View Part Details](https://www.partselect.com/PS12345436-GE-WR87X26271-REFRIGERATOR-COMPRESSOR-REPLACEMENT-KIT.htm)
+
+### Your Action Plan:
+
+1.  **Unplug the refrigerator** for safety.
+2.  **Pull it out from the wall** to get a good view.
+3.  **Watch the troubleshooting video** linked above.
+4.  **Identify where the water is coming from:** Is it inside the fridge? Under it? From the front grille?
+
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+
+============================================================
+ Query: What parts do I need?
+ Context: Appliance: refrigerator | Brand: GE | Issue: leaking
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': 'GE', 'current_issue': 'leaking'}
+
+🎯 Router Agent analyzing: 'What parts do I need?'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'leaking', 'appliance_type': 'refrigerator'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'GE refrigerator leak repair parts', 'brand': 'GE', 'appliance_type': 'refrigerator'}
+
+🔧 Searching repairs: 'leaking'
+  ✅ Loaded: REFRIGERATOR.json
+
+🔍 Searching products: 'GE refrigerator leak repair parts'
+  🧠 Using semantic search
+  ✅ Loaded: PS2340317
+  ✅ Loaded: PS12345436
+  ✅ Loaded: PS12744312
+  ✅ Loaded: PS3503878
+  ✅ Loaded: PS5573614
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'What parts do I need?'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 1
+
+
+User: What parts do I need?
+Assistant: Of course! Since you're dealing with a leaking GE refrigerator, the specific parts you need depend entirely on where the leak is coming from. The parts list I found doesn't directly diagnose the leak, but I can use the available repair information to guide you.
+
+First, I highly recommend watching this short video on troubleshooting a leaking fridge. It will help you pinpoint the exact source of the water, which is the most critical step before buying any parts.
+
+**Troubleshooting Video:**
+*   **Title:** Troubleshooting A Leaking Fridge
+*   **Link:** [https://www.youtube.com/watch?v=I4_tF7SIPuI](https://www.youtube.com/watch?v=I4_tF7SIPuI)
+
+Once you've identified the leak source, you can match it to the likely cause and the part needed. Here are the most common scenarios for a leaking refrigerator:
+
+### 1. Clogged or Frozen Defrost Drain
+This is the **most common cause** of a leaking refrigerator. Food particles or ice can clog the drain line at the back of the freezer, causing water to overflow and leak onto the floor.
+*   **Likely Part:** You would typically need a **Defrost Drain Tube Kit** or a **Defrost Thermostat**. Unfortunately, a specific part number for this common repair kit was not in the product list I have access to for your model.
+
+### 2. Leaking Water Supply Line or Valve
+If the leak is coming from the back of the refrigerator or you notice water around your ice maker or water dispenser, the issue could be a cracked water line or a faulty water inlet valve.
+*   **Likely Part:** A **Water Inlet Valve**. Again, a specific part for your model was not listed in the results.
+
+### 3. Damaged Door Gasket
+If the door seal is torn or isn't sealing properly, warm, humid air can get inside and cause excessive condensation, which can then drip onto the floor.
+*   **Likely Part:** A **Refrigerator Door Gasket**. The product list did not include gaskets, but this is a very common replacement part.
+
+### Parts Available for Your GE Model
+
+While the parts below were found for GE refrigerators, they are for very specific components and are less likely to be the direct cause of a general "leaking" issue. I'm listing them for completeness, but they probably aren't your first suspects.
+
+*   **Refrigerator Flipper Assembly (WR17X12584)** - $229.74
+    *   This part creates a seal between the doors on a French-door model. If it's broken, it could lead to condensation, but it's not a primary cause of puddles on the floor.
+    *   **URL:** [https://www.partselect.com/PS2340317-GE-WR17X12584-Refrigerator-Flipper-Assembly.htm](https://www.partselect.com/PS2340317-GE-WR17X12584-Refrigerator-Flipper-Assembly.htm)
+
+*   **Compressor Replacement Kit (WR87X26271)** - $369.58
+    *   A failing compressor can cause cooling issues, but it doesn't typically cause water leaks. This is a major repair.
+    *   **URL:** [https://www.partselect.com/PS12345436-GE-WR87X26271-REFRIGERATOR-COMPRESSOR-REPLACEMENT-KIT.htm](https://www.partselect.com/PS12345436-GE-WR87X26271-REFRIGERATOR-COMPRESSOR-REPLACEMENT-KIT.htm)
+
+*   **Other Parts** (Doors, Shelves, Handles) - The other parts listed (door, slideout shelf, arc assembly) are for physical cabinet components and are unrelated to a water leak.
+
+### Next Steps & Recommendation
+
+1.  **Watch the Video:** Please start with the troubleshooting video linked above. It will save you time and money.
+2.  **Locate the Leak:** Check if the water is under the vegetable drawers (clogged drain), at the back of the fridge (water line), or around the door (bad gasket).
+3.  **Find the Exact Part:** Once you know the cause, you can search for the specific part using your refrigerator's complete model number. You can find this on a sticker inside the main refrigerator compartment or on the door frame.
+
+I apologize that the data I have doesn't include the most common parts for a leak, like the defrost drain kit or water valve. The best path forward is to diagnose the source first.
+
+Let me know if you find where the water is coming from, and I can try to help you find
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 14 | Category: multi_turn_issue_clarification
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: I need help with my dishwasher
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': None, 'current_issue': None}
+
+🎯 Router Agent analyzing: 'I need help with my dishwasher'
+  ⚠️ No tools called
+
+User: I need help with my dishwasher
+Assistant: Hello! I couldn't find any relevant information. Could you rephrase your question?
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+
+============================================================
+ Query: It won't drain
+ Context: Appliance: dishwasher
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': None, 'current_issue': 'not draining'}
+
+🎯 Router Agent analyzing: 'It won't drain'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'not draining', 'appliance_type': 'dishwasher'}
+
+🔧 Searching repairs: 'not draining'
+  ✅ Loaded: AMANA-DISHWASHER-NOT_DRAINING.json
+  ✅ Loaded: GE-DISHWASHER-NOT_DRAINING.json
+  ✅ Loaded: KENMORE-DISHWASHER-NOT_DRAINING.json
+  ✅ Loaded: BOSCH-DISHWASHER-NOT_DRAINING.json
+  ✅ Loaded: SAMSUNG-DISHWASHER-NOT_DRAINING.json
+
+ Data Retrieved:
+   Products: 0
+   Repairs: 5
+   Blogs: 0
+
+ Generating response for: 'It won't drain'
+ Response generated
+ Response generated!
+   UI Products: 0
+   Images: 0
+   Videos: 1
+
+
+User: It won't drain
+Assistant: Of course! A dishwasher that won't drain is a very common and often easy-to-fix problem. Since you didn't mention your dishwasher's brand, I've found several brand-specific repair guides that all point to the same common causes and solutions.
+
+Here’s a breakdown of what's likely wrong and how to fix it.
+
+### Common Causes of a Dishwasher Not Draining
+
+The issue is almost always a clog or a failure in the drainage system. The most common culprits are:
+
+1.  **A Clogged Drain Hose or Air Gap:** Food debris and grease can block the hose that carries water out of the dishwasher or the air gap on your sink.
+2.  **A Faulty Drain Pump:** The pump is the motor that pushes the water out. If it's broken or jammed, the water has nowhere to go.
+3.  **A Clogged or Faulty Check Valve/Flapper:** This is a small plastic piece that prevents dirty water from flowing back into the dishwasher. If it's stuck or broken, it can block the drain.
+4.  **A Clogged Filter or Drain Basket:** Most modern dishwashers have a filter at the bottom. If it's not cleaned regularly, it can become completely blocked.
+
+### How to Diagnose and Fix the Problem
+
+All the repair guides I found are rated **EASY** and follow similar steps. Here is a general procedure you can follow:
+
+**Step 1: Safety First**
+- Always start by turning off the power to the dishwasher at the circuit breaker to avoid any risk of electric shock.
+
+**Step 2: Check for Simple Clogs**
+- Remove the bottom rack and locate the filter and drain basket at the bottom of the tub. Remove any large debris.
+- Check the drain hose (usually connected from the dishwasher to the sink drain or garbage disposal) for kinks or clogs.
+- If your sink has an air gap (a small chrome cylinder next to the faucet), unscrew the cap and check for clogs.
+
+**Step 3: Inspect the Drain Pump**
+- The drain pump is typically located behind the kick plate at the bottom front of the dishwasher.
+- After ensuring the power is off, you can often feel for obstructions by reaching into the pump impeller (the fan-like part). A common cause is a small piece of glass, a cherry pit, or a piece of bone jamming the pump.
+
+**Step 4: Identify the Faulty Part**
+The guides consistently point to three common parts that may need replacement:
+*   **Drain Pump & Motor:** If the pump motor has failed.
+*   **Check Valve Flapper:** If it's broken or stuck in the closed position.
+*   **Piston & Nut Assembly:** This is often related to the fill and drain mechanism in the water inlet valve.
+
+### Helpful Video and Brand-Specific Guides
+
+I highly recommend watching this video, as it visually walks through the entire process of diagnosing and fixing a dishwasher that won't drain. The process is very similar across many major brands.
+
+**📹 Helpful Video:**
+- **Title:** How To Fix A Dishwasher That Won't Drain
+- **Link:** https://www.youtube.com/watch?v=9DqYkzF0qVM
+
+Here are the direct links to the brand-specific repair guides for your reference. Just click on your brand for more detailed, model-specific information:
+
+*   **Amana Dishwasher Repair Guide:** https://www.partselect.com/Repair/Dishwasher/Amana/Not-Draining/
+*   **GE Dishwasher Repair Guide:** https://www.partselect.com/Repair/Dishwasher/GE/Not-Draining/
+*   **Kenmore Dishwasher Repair Guide:** https://www.partselect.com/Repair/Dishwasher/Kenmore/Not-Draining/
+*   **Bosch Dishwasher Repair Guide:** https://www.partselect.com/Repair/Dishwasher/Bosch/Not-Draining/
+*   **Samsung Dishwasher Repair Guide:** https://www.partselect.com/Repair/Dishwasher/Samsung/Not-Draining/
+
+**Next Step:**
+If you can tell me the **brand and model number** of your dishwasher, I can look up the exact replacement parts you might need and find a more specific repair guide for your machine. The model number is usually located on the side of the door frame.
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+
+============================================================
+ Query: Show me the parts I need
+ Context: Appliance: dishwasher | Issue: not draining
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': None, 'current_issue': 'not draining'}
+
+🎯 Router Agent analyzing: 'Show me the parts I need'
+  ✅ Tool: search_products
+     Args: {'search_query': 'dishwasher drain pump', 'appliance_type': 'dishwasher'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'dishwasher drain hose', 'appliance_type': 'dishwasher'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'dishwasher drain valve', 'appliance_type': 'dishwasher'}
+
+🔍 Searching products: 'dishwasher drain pump'
+  🧠 Using semantic search
+  ✅ Loaded: PS11738151
+  ✅ Loaded: PS9492626
+  ✅ Loaded: PS11753379
+  ✅ Loaded: PS11756031
+  ✅ Loaded: PS16218652
+
+🔍 Searching products: 'dishwasher drain hose'
+  🧠 Using semantic search
+  ✅ Loaded: PS11756139
+  ✅ Loaded: PS11747697
+  ✅ Loaded: PS11760658
+  ✅ Loaded: PS9494138
+  ✅ Loaded: PS4222793
+
+🔍 Searching products: 'dishwasher drain valve'
+  🧠 Using semantic search
+  ✅ Loaded: PS11745603
+  ✅ Loaded: PS8769826
+  ✅ Loaded: PS11746141
+  ✅ Loaded: PS11749213
+  ✅ Loaded: PS11756139
+
+ Data Retrieved:
+   Products: 15
+   Repairs: 0
+   Blogs: 0
+
+ Generating response for: 'Show me the parts I need'
+ Response generated
+ Response generated!
+   UI Products: 15
+   Images: 6
+   Videos: 0
+
+
+User: Show me the parts I need
+Assistant: Of course! Since your dishwasher isn't draining, the most common culprits are the **drain pump** and the **drain hose**. A clogged or damaged hose or a failed pump motor are the typical reasons for this problem.
+
+However, to show you the *exact* parts you need, I must know your dishwasher's **brand and model number**. The parts I find are brand-specific, and using the wrong one won't fix your appliance.
+
+Based on the parts information I have, here is a general overview of the common parts used to fix a draining issue, along with their prices. **Please use this as a guide, but you must verify compatibility with your specific model.**
+
+### Common Parts for a Dishwasher Not Draining
+
+#### 1. Drain Pumps
+The pump is the motor that actively pushes water out of the dishwasher. If it fails, water will not drain at all.
+
+| Part Name | Brand | PartSelect Number | Price | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| Dishwasher Drain Pump W10876537 | Whirlpool | PS11738151 | $62.16 | [View Part](https://www.partselect.com/PS11738151-Whirlpool-W10876537-Dishwasher-Drain-Pump.htm) |
+| Dishwasher Drain Pump A00044305 | Frigidaire | PS9492626 | $24.14 | [View Part](https://www.partselect.com/PS9492626-Frigidaire-A00044305-Dishwasher-Drain-Pump.htm) |
+| Dishwasher Drain Pump WPW10348269 | Whirlpool | PS11753379 | $59.78 | [View Part](https://www.partselect.com/PS11753379-Whirlpool-WPW10348269-Dishwasher-Drain-Pump.htm) |
+| Dishwasher Drain Pump WPW10531320 | Whirlpool | PS11756031 | $55.23 | [View Part](https://www.partselect.com/PS11756031-Whirlpool-WPW10531320-Dishwasher-Drain-Pump.htm) |
+| Dishwasher Drain Pump 5304524920 | Frigidaire | PS16218652 | $185.94 | [View Part](https://www.partselect.com/PS16218652-Frigidaire-5304524920-Dishwasher-Drain-Pump.htm) |
+
+#### 2. Drain Hoses
+This is the tube that carries the water from the pump to your sink drain or garbage disposal. It can become kinked, clogged with debris, or cracked.
+
+| Part Name | Brand | PartSelect Number | Price | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| Dishwasher Drain Hose WPW10545278 | Whirlpool | PS11756139 | $48.81 | [View Part](https://www.partselect.com/PS11756139-Whirlpool-WPW10545278-Dishwasher-Drain-Hose.htm) |
+| Dishwasher Drain Hose 807117001 | Frigidaire | PS9494138 | $38.84 | [View Part](https://www.partselect.com/PS9494138-Frigidaire-807117001-Dishwasher-Drain-Hose.htm) |
+| Dishwasher Drain Hose AEM69493808 | LG | PS11760658 | $78.50 | [View Part](https://www.partselect.com/PS11760658-LG-AEM69493808-Dishwasher-Drain-Hose.htm) |
+| Dishwasher Drain Hose DD97-00137A | Samsung | PS4222793 | $77.73 | [View Part](https://www.partselect.com/PS4222793-Samsung-DD97-00137A-Dishwasher-Drain-Hose.htm) |
+
+### How to Find the Right Part for Your Dishwasher
+
+1.  **Locate Your Model Number:** The model number is the key to finding the correct part. It is usually found on a sticker on the top or side of the dishwasher door frame.
+2.  **Use the PartSelect Website:** Once you have your model number, you can enter it on the PartSelect website to see a complete list of compatible parts for your specific machine.
+
+### Next Steps for Your Repair
+
+Before you buy anything, it's a good idea to diagnose the problem:
+*   **Check for clogs:** The most common cause is a simple clog. First, check the bottom of the dishwasher for any large pieces of food debris or glass that might be blocking the drain. Also, check the drain hose for kinks or obstructions.
+*   **Listen for the pump:** Start a drain cycle and listen closely at
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 15 | Category: complex_multi_tool
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: My Frigidaire dishwasher is leaking, what parts do I need and how do I fix it?
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': 'Frigidaire', 'current_issue': 'leaking'}
+
+🎯 Router Agent analyzing: 'My Frigidaire dishwasher is leaking, what parts do I need and how do I fix it?'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'leaking', 'appliance_type': 'dishwasher'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'Frigidaire dishwasher leak repair parts', 'brand': 'Frigidaire', 'appliance_type': 'dishwasher'}
+
+🔧 Searching repairs: 'leaking'
+  ✅ Loaded: LEAKING - dishwasher.json
+  ✅ Loaded: AMANA-DISHWASHER-LEAKING.json
+  ✅ Loaded: GE-DISHWASHER-LEAKING.json
+  ✅ Loaded: BOSCH-DISHWASHER-LEAKING.json
+  ✅ Loaded: LG-DISHWASHER-LEAKING.json
+
+🔍 Searching products: 'Frigidaire dishwasher leak repair parts'
+  🧠 Using semantic search
+  ✅ Loaded: PS465964
+  ✅ Loaded: PS9494249
+  ✅ Loaded: PS11703834
+  ✅ Loaded: PS12071234
+  ✅ Loaded: PS9494138
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 5
+   Blogs: 0
+
+ Generating response for: 'My Frigidaire dishwasher is leaking, what parts do I need and how do I fix it?'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 1
+
+
+User: My Frigidaire dishwasher is leaking, what parts do I need and how do I fix it?
+Assistant: Of course! A leaking Frigidaire dishwasher is a common issue, and it's great that you're looking to fix it yourself. The key is to figure out *where* the leak is coming from, as this will determine which parts you need.
+
+Let's break down the common causes, the parts that might fix them, and the steps for the repair.
+
+### Step 1: Diagnose the Source of the Leak
+
+First, you need to find out where the water is coming from. Here’s how to do it:
+
+1.  **Dry Everything:** Completely dry the inside of the dishwasher, the door, and the floor around it with a towel.
+2.  **Run a Cycle:** Place a few cups upright on the bottom rack and start a wash cycle.
+3.  **Look and Listen:** Watch carefully for the first signs of water. Check these common leak locations:
+    *   **Around the Door:** Is water seeping out from the edges of the door? This points to a faulty **door seal**.
+    *   **Underneath the Door:** Check the **door bottom seal**.
+    *   **At the Bottom of the Tub:** Is water pooling in the bottom? This could be a cracked tub, a faulty **pump**, or a loose **drain hose** connection.
+    *   **Near the Detergent Dispenser:** A leak here would indicate a problem with the **dispenser assembly**.
+
+### Step 2: Identify the Parts You Might Need
+
+Based on the products found, here are the most likely parts for your Frigidaire dishwasher, depending on where the leak is:
+
+*   **If the leak is from the bottom of the door:** You likely need the **Door Bottom Seal**.
+    *   **Part:** Dishwasher Door Bottom Seal 5304500204
+    *   **Price:** $9.36
+    *   **Availability:** In Stock
+    *   **URL:** [https://www.partselect.com/PS11703834-Frigidaire-5304500204-Dishwasher-Door-Bottom-Seal.htm](https://www.partselect.com/PS11703834-Frigidaire-5304500204-Dishwasher-Door-Bottom-Seal.htm)
+
+*   **If the leak is from a cracked or disconnected hose at the bottom:** You might need the **Drain Hose**.
+    *   **Part:** Dishwasher Drain Hose 807117001
+    *   **Price:** $38.84
+    *   **Availability:** In Stock
+    *   **Description:** This 7.5-foot hose connects to the pump and can cause leaks if cracked or loose.
+    *   **URL:** [https://www.partselect.com/PS9494138-Frigidaire-807117001-Dishwasher-Drain-Hose.htm](https://www.partselect.com/PS9494138-Frigidaire-807117001-Dishwasher-Drain-Hose.htm)
+
+*   **If the leak is from the detergent dispenser:** You might need the **Dispenser Assembly**.
+    *   **Part:** Dishwasher Dispenser 5304509278
+    *   **Price:** $148.23
+    *   **Availability:** In Stock
+    *   **URL:** [https://www.partselect.com/PS12071234-Frigidaire-5304509278-Dishwasher-Dispenser.htm](https://www.partselect.com/PS12071234-Frigidaire-5304509278-Dishwasher-Dispenser.htm)
+
+**Other Common Causes (Parts not listed in the search results):**
+The repair guides also mention the **Pump** and the main **Door Gasket** as very common culprits for leaks. If your diagnosis points to one of these, you would need to search for the specific pump or full door gasket for your model number.
+
+### Step 3: Follow a Repair Guide
+
+This general repair guide and video are excellent resources that cover the repair process for a leaking dishwasher, regardless of the brand. The steps for accessing and replacing the parts are very similar.
+
+*   **Repair Guide:** How To Repair A Leaking Dishwasher
+    *   **URL:** [https://www.partselect.com/Repair/Dishwasher/Leaking/](https://www.partselect.com/Repair/Dishwasher/Leaking/)
+*   **Video Guide:** How To Repair A Leaking Dishwasher
+    *   **Video URL:** [https://www.youtube.com/watch?v=hBAfmgORE6Q](https://www.youtube.com/watch?v=hBAfmgORE6Q)
+
+### Summary and Recommendation
+
+1.  **Diagnose First:** Don't order parts until you know where the leak is coming from. The $
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 16 | Category: complex_comparison_install
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Compare Whirlpool door latches, which is the best one, and show me how to install it
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': 'Whirlpool', 'current_issue': 'door latch'}
+
+🎯 Router Agent analyzing: 'Compare Whirlpool door latches, which is the best one, and show me how to install it'
+  ✅ Tool: search_products
+     Args: {'search_query': 'Whirlpool door latch', 'brand': 'Whirlpool', 'appliance_type': 'refrigerator'}
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'door latch installation', 'appliance_type': 'refrigerator'}
+
+🔍 Searching products: 'Whirlpool door latch'
+  🧠 Using semantic search
+  ✅ Loaded: PS11739240
+  ✅ Loaded: PS12751853
+  ✅ Loaded: PS12751888
+  ✅ Loaded: PS11748572
+  ✅ Loaded: PS11755662
+
+🔧 Searching repairs: 'door latch installation'
+  ✅ Loaded: REFRIGERATOR.json
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'Compare Whirlpool door latches, which is the best one, and show me how to install it'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 1
+
+
+User: Compare Whirlpool door latches, which is the best one, and show me how to install it
+Assistant: Of course! Based on the parts and information available, I can provide a detailed comparison of the Whirldoor latches and guide you through the installation.
+
+First, let's clear up a crucial point. The search returned a mix of parts, but only one is a true **door latch**. The others are complete door assemblies and handles, which are much larger and more expensive replacements.
+
+### Comparison of Whirlpool Door Latch Parts
+
+Here is a breakdown of the relevant parts for a door latch issue:
+
+| Part Name | Part Number | Price | Key Details | Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **Refrigerator Spring Latch** | **WP2198608** | **$9.92** | The actual mechanical latch that clicks shut to hold the door closed. Sold individually. | **This is almost certainly the part you need.** It's the specific component that fails, is affordable, and is a common repair. |
+| Refrigerator Door Handle | WPW10498429 | $100.41 | The exterior handle you pull to open the door. "Handle only." | Replacing a broken or cracked exterior handle, not the internal latching mechanism. |
+| Refrigerator Door Handle | WPW10119651 | $110.34 | Another exterior handle option. "Screws NOT included." | Replacing a broken or cracked exterior handle. This one is a special order. |
+| Freezer Door Assembly | LW10636409 | $479.66 | The entire freezer door, including the frame, liner, and all components. | Major damage to the entire door structure, not just a faulty latch. |
+| Refrigerator Door Assembly | LW10858417 | $511.77 | The entire right-hand refrigerator door. | Major damage to the entire door structure. |
+
+---
+
+### Which is the Best Whirlpool Door Latch?
+
+**The best and most likely part you need is the Refrigerator Spring Latch (WP2198608).**
+
+**Why it's the best option:**
+*   **Cost-Effective:** At under $10, it's a fraction of the cost of the other components.
+*   **Targets the Root Cause:** If your door isn't staying closed or the latch feels loose, this small mechanical part is the usual culprit.
+*   **Simple Repair:** Replacing just the latch is a straightforward DIY job, unlike swapping an entire door.
+
+The other parts are for entirely different problems—cosmetic handle damage or severe structural issues with the door itself.
+
+**Source:** [Whirlpool WP2198608 Spring Latch - $9.92](https://www.partselect.com/PS11739240-Whirlpool-WP2198608-Refrigerator-Spring-Latch.htm)
+
+---
+
+### How to Install a Refrigerator Door Latch
+
+While I don't have a repair guide specifically for the latch, the process is generally universal for most refrigerators. Here are the detailed steps.
+
+**Safety First:** Always unplug the refrigerator before starting any repair to avoid the risk of electric shock.
+
+**Tools You'll Likely Need:**
+*   Phillips screwdriver
+*   Putty knife or a thin, stiff piece of plastic
+*   A small container for screws (so you don't lose them)
+
+#### Step-by-Step Installation Guide:
+
+1.  **Unplug the Refrigerator:** This is the most important safety step.
+
+2.  **Remove the Door Trim or Gasket:**
+    *   Open the refrigerator door. The latch is housed behind the front plastic trim that runs vertically along the door's edge.
+    *   Carefully pull the front trim piece away from the door. It is usually held in place by plastic clips. Using a putty knife can help you gently pry it loose without breaking the clips.
+    *   On some models, you may need to peel back the rubber door gasket (seal) from the top corner to access the screws holding the trim.
+
+3.  **Locate and Remove the Old Latch:**
+    *   Once the trim is off, you will see the latch mechanism mounted to the door liner.
+    *   It will be held in place by a few screws. Remove these screws.
+    *   You may need to disconnect any wiring harness if your latch has a switch that controls the interior light.
+
+4.  **Install the New Latch:**
+    *   Position the new latch (WP2198608) exactly where the old one was.
+    *   Reinstall the screws to secure it firmly.
+    *   If you disconnected any wires, plug them back into the new latch.
+
+5.  **Reassemble the Door:**
+    *   Carefully snap the front trim piece back onto the door, ensuring all the clips engage properly.
+    *   If
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 17 | Category: complex_troubleshooting
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: My refrigerator isn't cooling, troubleshoot the issue and recommend parts
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': None, 'current_issue': 'not cooling'}
+
+🎯 Router Agent analyzing: 'My refrigerator isn't cooling, troubleshoot the issue and recommend parts'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'not cooling', 'appliance_type': 'refrigerator'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'refrigerator cooling parts', 'appliance_type': 'refrigerator'}
+
+🔧 Searching repairs: 'not cooling'
+  ✅ Loaded: REFRIGERATOR.json
+
+🔍 Searching products: 'refrigerator cooling parts'
+  🧠 Using semantic search
+  ✅ Loaded: PS2003553
+  ✅ Loaded: PS11708993
+  ✅ Loaded: PS16591806
+  ✅ Loaded: PS11737116
+  ✅ Loaded: PS3617225
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'My refrigerator isn't cooling, troubleshoot the issue and recommend parts'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 1
+
+
+User: My refrigerator isn't cooling, troubleshoot the issue and recommend parts
+Assistant: Of course! A refrigerator not cooling is a common and serious issue. Let's work through a systematic troubleshooting process to help you diagnose the problem and identify the parts you might need.
+
+First, it's important to note that the specific products found in the search are for very particular components (like flipper assemblies, shelves, and ice makers) that are unlikely to be the cause of a general "not cooling" problem. The most relevant part from the list is the **Condenser Fan Motor Assembly**, which we'll discuss below.
+
+### Step-by-Step Troubleshooting for a Refrigerator Not Cooling
+
+Here is a logical order of checks you can perform, from the simplest to the more complex.
+
+**1. Check the Basics First**
+*   **Power Supply:** Ensure the refrigerator is plugged in and the outlet is working. Try plugging another appliance into the same outlet to test it.
+*   **Temperature Settings:** Someone may have accidentally changed the thermostat. Make sure it hasn't been turned to an "Off" or warm setting.
+*   **Circuit Breaker:** Check your home's circuit breaker or fuse box to see if the circuit for the kitchen has tripped.
+
+**2. Inspect for Simple Airflow Problems**
+*   **Overpacking:** An overly full refrigerator can block the internal air vents, preventing cold air from circulating. Try to leave some space around the vents.
+*   **Dirty Condenser Coils:** This is one of the most common causes of cooling issues. The condenser coils are usually located on the back of the fridge or behind a kickplate at the bottom front.
+    *   **What to do:** Unplug the refrigerator and pull it away from the wall. If the coils are covered in a thick layer of dust and pet hair, they can't release heat efficiently. Carefully vacuum them clean.
+*   **Blocked Vents:** Inside the fridge and freezer, ensure no food packages or boxes are blocking the cold air vents.
+
+**3. Listen for Unusual Noises**
+The sounds your refrigerator makes (or doesn't make) can be a big clue.
+*   **Do you hear the compressor running?** It's usually a low hum from the back. If it's silent, the problem could be with the compressor, start relay, or a control board.
+*   **Do you hear any fans running?**
+    *   **Evaporator Fan (inside the freezer):** If this fan fails, cold air won't be blown from the freezer into the refrigerator compartment. You might notice the freezer is somewhat cold, but the fridge is warm.
+    *   **Condenser Fan (at the back/bottom):** If this fan isn't running, the compressor can overheat and shut off, and the condenser coils can't cool properly. You might feel excessive heat coming from the bottom of the fridge.
+
+**4. Identify the Symptom More Precisely**
+*   **Is the freezer cold but the refrigerator is warm?** This strongly points to an issue with the **evaporator fan motor**, a damper control assembly that regulates airflow, or blocked vents between the two compartments.
+*   **Are both the refrigerator and freezer warm?** This indicates a problem with the refrigeration system itself. This could be:
+    *   A failed **compressor**.
+    *   A faulty **condenser fan motor** (prevents the system from expelling heat).
+    *   A clogged **defrost system** (if the evaporator coils are frozen solid, air can't flow over them).
+    *   A **sealed system problem** like a refrigerant leak (this is a complex and often expensive repair).
+
+### Recommended Parts Based on Troubleshooting
+
+Based on the common issues above, here are the parts you might need. **Always confirm the exact part number using your refrigerator's model number** before purchasing.
+
+**1. Condenser Fan Motor**
+This part was found in your product search and is a common culprit.
+*   **What it does:** It pulls air across the condenser coils to cool them down. If it fails, the refrigerator will stop cooling and the compressor may overheat.
+*   **From your list:** The **GE Refrigerator Condenser Fan Motor Assembly (WR60X25786)** is an example.
+    *   **Price:** $231.68
+    *   **URL:** [View Part Details](https://www.partselect.com/PS11737116-GE-WR60X25786-Refrigerator-Condenser-Fan-Motor-Assembly.htm)
+
+**2. Evaporator Fan Motor**
+This is a very frequent cause when the freezer is cold but the fridge is warm.
+*   **What it does:** It circulates cold air from the freezer evaporator coils into the refrigerator compartment.
+*   **How to Check:** Unplug the fridge, locate the fan in the freezer section (often behind
+
+Judge Scores: {'must_contain_score': 1.0, 'must_include_url_score': 1.0, 'context_retention_score': 1.0}
+
+============================================================
+Eval ID: 18 | Category: edge_case_nonsense
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: blah blah random nonsense
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': None, 'brand': None, 'current_issue': None}
+
+🎯 Router Agent analyzing: 'blah blah random nonsense'
+  ⚠️ No tools called
+
+User: blah blah random nonsense
+Assistant: Hello! I couldn't find any relevant information. Could you rephrase your question?
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 19 | Category: edge_case_impossible_part
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: I need a flux capacitor for my dishwasher
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'dishwasher', 'brand': None, 'current_issue': 'needs a flux capacitor'}
+
+🎯 Router Agent analyzing: 'I need a flux capacitor for my dishwasher'
+  ✅ Tool: search_products
+     Args: {'search_query': 'flux capacitor', 'appliance_type': 'dishwasher'}
+
+🔍 Searching products: 'flux capacitor'
+  🧠 Using semantic search
+  ✅ Loaded: PS11753080
+  ✅ Loaded: PS11755939
+  ✅ Loaded: PS11755940
+  ✅ Loaded: PS11746567
+  ✅ Loaded: PS11755937
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 0
+   Blogs: 0
+
+ Generating response for: 'I need a flux capacitor for my dishwasher'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 0
+
+
+User: I need a flux capacitor for my dishwasher
+Assistant: Thanks for reaching out! I searched for a "flux capacitor" for your dishwasher, but I don't see any parts with that exact name in our system. This might be a case of using a different term than the official part name, or it could be a reference to the movie "Back to the Future" (where the flux capacitor is a fictional time travel component).
+
+However, I did find several dishwasher capacitors and related parts that might be what you're actually looking for. Let me walk you through the most relevant options:
+
+## Most Likely Match: Dishwasher Motor Capacitor
+
+**Product: Dishwasher Capacitor WPW10334457**
+- **Part Number:** PS11753080
+- **Price:** $84.58
+- **Specs:** 250 max Volt, 23.5 MFD
+- **Availability:** Special Order
+- **URL:** https://www.partselect.com/PS11753080-Whirlpool-WPW10334457-Dishwasher-Capaci.htm
+
+This is an actual capacitor used in dishwasher motors - it helps start and run the motor by providing an electrical boost. If your dishwasher isn't starting properly or the motor seems weak, this could be the part you need.
+
+## Other Possibilities (Rinse Aid Caps)
+
+I also found several rinse aid dispenser caps, which are sometimes called "caps" and might be confused with "capacitors":
+
+1. **Dishwasher Rinse Aid Cap WPW10524920** - $32.40 (In Stock)
+   - URL: https://www.partselect.com/PS11755939-Whirlpool-WPW10524920-Dishwasher-Rinse-Aid-Cap.htm
+
+2. **Dishwasher Rinse-Aid Dispenser Cap WPW10524921** - $39.74 (In Stock)
+   - URL: https://www.partselect.com/PS11755940-Whirlpool-WPW10524921-Dishwasher-Rinse-Aid-Dispenser-Cap.htm
+
+3. **Dishwasher Rinse Aid Cap WP8564929** - $26.87 (In Stock)
+   - URL: https://www.partselect.com/PS11755937-Whirlpool-WPW10524911-Dishwasher-Rinse-Aid-Dispenser-Cap.htm
+
+## Next Steps
+
+To help you find the right part, could you tell me:
+- What specific problem is your dishwasher having?
+- What's your dishwasher's model number?
+- Are you looking for an electrical component or a plastic cap?
+
+The model number is usually located on the door frame or side of the dishwasher tub. Once I have that information, I can provide much more specific recommendations for the exact part you need!
+
+*Source: PartSelect product database*
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 20 | Category: edge_case_social
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Thanks!
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': None, 'brand': None, 'current_issue': None}
+
+🎯 Router Agent analyzing: 'Thanks!'
+  ⚠️ No tools called
+
+User: Thanks!
+Assistant: Hello! I couldn't find any relevant information. Could you rephrase your question?
+
+Error parsing judge response: Expecting property name enclosed in double quotes: line 3 column 4 (char 36)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 21 | Category: edge_case_empty
+Conversation reset
+ Conversation reset
+============================================================
+Eval ID: 22 | Category: edge_case_overload
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: Show me everything in your database
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': None, 'brand': None, 'current_issue': None}
+
+🎯 Router Agent analyzing: 'Show me everything in your database'
+  ⚠️ No tools called
+
+User: Show me everything in your database
+Assistant: Hello! I couldn't find any relevant information. Could you rephrase your question?
+
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 1.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 23 | Category: ambiguous_no_appliance
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: door latch
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': 'refrigerator', 'brand': None, 'current_issue': 'door latch'}
+
+🎯 Router Agent analyzing: 'door latch'
+  ✅ Tool: search_repairs
+     Args: {'issue_description': 'door latch', 'appliance_type': 'refrigerator'}
+  ✅ Tool: search_products
+     Args: {'search_query': 'refrigerator door latch', 'appliance_type': 'refrigerator'}
+
+🔧 Searching repairs: 'door latch'
+  ✅ Loaded: REFRIGERATOR.json
+
+🔍 Searching products: 'refrigerator door latch'
+  🧠 Using semantic search
+  ✅ Loaded: PS11739240
+  ✅ Loaded: PS12070986
+  ✅ Loaded: PS10060546
+  ✅ Loaded: PS12366335
+  ✅ Loaded: PS17203979
+
+ Data Retrieved:
+   Products: 5
+   Repairs: 1
+   Blogs: 0
+
+ Generating response for: 'door latch'
+ Response generated
+ Response generated!
+   UI Products: 5
+   Images: 6
+   Videos: 1
+
+
+User: door latch
+Assistant: Of course! It sounds like you're dealing with a refrigerator door latch issue. Based on the information available, I can provide you with a specific part that might be the solution, as well as some general repair guidance.
+
+### The Most Likely Part You Need
+
+Looking at your query, the most relevant and affordable part found is a **Refrigerator Spring Latch**.
+
+*   **Part Name:** Refrigerator Spring Latch WP2198608
+*   **PartSelect Number:** PS11739240
+*   **Manufacturer Part Number:** WP2198608
+*   **Brand:** Whirlpool
+*   **Price:** **$9.92**
+*   **Availability:** In Stock
+*   **URL:** [View the Spring Latch on PartSelect](https://www.partselect.com/PS11739240-Whirlpool-WP2198608-Refrigerator-Spring-Latch.htm)
+
+This is a very common and relatively inexpensive part that is often the culprit when a refrigerator door won't stay closed or the latch mechanism is broken.
+
+### Other Parts Found (For Context)
+
+The search also returned several complete refrigerator doors. These are much more expensive and are typically only needed if the door itself is damaged beyond repair, not just the latch.
+*   Frigidaire Refrigerator Door (PS12070986) - $391.22 (On Order)
+*   Frigidaire Refrigerator Door (PS10060546) - $246.45 (In Stock)
+*   Frigidaire Refrigerator Door (PS12366335) - $410.80 (In Stock)
+*   Whirlpool Freezer Door (PS17203979) - $1,080.86 (In Stock)
+
+### Next Steps & Repair Guidance
+
+Replacing a door latch is usually a straightforward repair you can do yourself. Here’s how to proceed:
+
+1.  **Confirm Your Model Number:** **This is the most important step.** The spring latch I listed is a Whirlpool part. To be 100% sure you're ordering the correct part for *your specific refrigerator*, you need to find the model number. It is usually located on a sticker inside the refrigerator (on the side wall, ceiling, or door frame) or on the grill at the bottom of the fridge.
+
+2.  **Use the Repair Resource:** We have a general refrigerator repair hub that can be very helpful. It includes troubleshooting videos that might show a latch replacement similar to yours.
+    *   **Repair Guide URL:** [Refrigerator Repair Hub at PartSelect](https://www.partselect.com/Repair/Refrigerator/)
+    *   **Featured Video:** [Troubleshooting A Leaking Fridge on YouTube](https://www.youtube.com/watch?v=I4_tF7SIPuI) (While this video is about leaks, the repair hub is a great starting point for all refrigerator issues).
+
+3.  **Find the Exact Part:** Once you have your model number, you can search for it on the PartSelect website to see a complete list of compatible parts, including the exact door latch for your model.
+
+**To get you the most accurate help, could you please provide your refrigerator's brand and model number?** With that, I can confirm if the spring latch is the right part or help you find the correct one.
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 24 | Category: ambiguous_vague_issue
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: not working
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': None, 'brand': None, 'current_issue': 'not working'}
+
+🎯 Router Agent analyzing: 'not working'
+  ⚠️ No tools called
+
+User: not working
+Assistant: Hello! I couldn't find any relevant information. Could you rephrase your question?
+
+Error parsing judge response: Expecting value: line 1 column 1 (char 0)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Eval ID: 25 | Category: ambiguous_general
+Conversation reset
+ Conversation reset
+
+============================================================
+ Query: fix my appliance
+ Context: No context yet
+============================================================
+Context updated: {'appliance_type': None, 'brand': None, 'current_issue': None}
+
+🎯 Router Agent analyzing: 'fix my appliance'
+  ⚠️ No tools called
+
+User: fix my appliance
+Assistant: Hello! I couldn't find any relevant information. Could you rephrase your question?
+
+Error parsing judge response: Unterminated string starting at: line 2 column 5 (char 6)
+Judge Scores: {'must_contain_score': 0.0, 'must_include_url_score': 0.0, 'context_retention_score': 0.0}
+
+============================================================
+Evaluation Summary:
+{
+  "must_contain_avg": 0.4482758620689655,
+  "must_include_url_avg": 0.5172413793103449,
+  "context_retention_avg": 0.4827586206896552
+}

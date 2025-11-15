@@ -1,0 +1,368 @@
+[
+  {
+    "id": 1,
+    "category": "product_search_specific",
+    "turns": [
+      {"user": "I need a Whirlpool dishwasher door latch"},
+      {"assistant_expected": "Here are the Whirlpool dishwasher door latches available: [Product name, part number PS11754317, price, and URL]"}
+    ],
+    "criteria": {
+      "must_contain": ["Whirlpool", "door latch", "PS11754317", "price", "$"],
+      "must_include_url": true,
+      "expected_tools": ["search_products"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 2,
+    "category": "product_search_general",
+    "turns": [
+      {"user": "Show me refrigerator water filters"},
+      {"assistant_expected": "Here are refrigerator water filters available: [Multiple filter options with brands, prices, and compatibility information]"}
+    ],
+    "criteria": {
+      "must_contain": ["water filter", "refrigerator", "price"],
+      "must_include_url": true,
+      "expected_tools": ["search_products"],
+      "min_products": 3,
+      "relevance": true
+    }
+  },
+  {
+    "id": 3,
+    "category": "product_search_specific_part",
+    "turns": [
+      {"user": "What's the price of part number PS11754317?"},
+      {"assistant_expected": "Part number PS11754317 is a Whirlpool Dishwasher Door Latch And Switch Assembly, priced at $[price], available at [URL]"}
+    ],
+    "criteria": {
+      "must_contain": ["PS11754317", "price", "Whirlpool", "door latch"],
+      "must_include_url": true,
+      "expected_tools": ["search_products"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 4,
+    "category": "product_comparison",
+    "turns": [
+      {"user": "Compare GE vs Whirlpool refrigerator door handles"},
+      {"assistant_expected": "Here's a comparison of GE and Whirlpool refrigerator door handles: [Product details for both brands including features, prices, compatibility, and recommendations]"}
+    ],
+    "criteria": {
+      "must_contain": ["GE", "Whirlpool", "compare", "price", "door handle"],
+      "must_include_url": true,
+      "expected_tools": ["search_products"],
+      "min_products": 2,
+      "relevance": true
+    }
+  },
+  {
+    "id": 5,
+    "category": "repair_guidance",
+    "turns": [
+      {"user": "My dishwasher won't start"},
+      {"assistant_expected": "A dishwasher that won't start typically has issues with: door latch, timer or electronic control, motor relay, or thermal fuse. [Include repair guide link and troubleshooting steps]"}
+    ],
+    "criteria": {
+      "must_contain": ["door latch", "control", "won't start"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs"],
+      "should_include_video": true,
+      "relevance": true
+    }
+  },
+  {
+    "id": 6,
+    "category": "repair_guidance_specific",
+    "turns": [
+      {"user": "Refrigerator is too cold"},
+      {"assistant_expected": "A refrigerator that's too cold usually indicates problems with: air inlet damper, temperature sensor/thermistor, main control board, or cold control. [Include repair steps and guide link]"}
+    ],
+    "criteria": {
+      "must_contain": ["too cold", "temperature", "control", "damper"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 7,
+    "category": "repair_guidance_common",
+    "turns": [
+      {"user": "Dishwasher leaking water"},
+      {"assistant_expected": "Dishwasher leaks are commonly caused by: faulty pump, door gasket, water inlet valve, or spray arm issues. [Include repair guide with multiple brand options and troubleshooting steps]"}
+    ],
+    "criteria": {
+      "must_contain": ["leak", "pump", "gasket", "water inlet valve"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 8,
+    "category": "repair_guidance_brand_specific",
+    "turns": [
+      {"user": "How do I fix a noisy GE dishwasher?"},
+      {"assistant_expected": "A noisy GE dishwasher is typically caused by: pump issues, worn wash arm bearing ring, or spray arm problems. [Include GE-specific repair guide with video]"}
+    ],
+    "criteria": {
+      "must_contain": ["GE", "noisy", "pump", "spray arm"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs"],
+      "should_include_video": true,
+      "relevance": true
+    }
+  },
+  {
+    "id": 9,
+    "category": "blog_how_to",
+    "turns": [
+      {"user": "How do I clean my Bosch dishwasher?"},
+      {"assistant_expected": "To clean your Bosch dishwasher: clean the filter, spray arms, door seals, and run a cleaning cycle with vinegar and baking soda. [Include detailed blog article link]"}
+    ],
+    "criteria": {
+      "must_contain": ["Bosch", "clean", "filter", "spray arm"],
+      "must_include_url": true,
+      "expected_tools": ["search_blogs"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 10,
+    "category": "blog_general",
+    "turns": [
+      {"user": "Can I put a lock on my refrigerator?"},
+      {"assistant_expected": "Yes, you can put a lock on your refrigerator. There are several types available including adhesive locks, padlocks, and combination locks. [Include installation guide and lock types]"}
+    ],
+    "criteria": {
+      "must_contain": ["lock", "refrigerator", "install", "safety"],
+      "must_include_url": true,
+      "expected_tools": ["search_blogs"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 11,
+    "category": "blog_error_code",
+    "turns": [
+      {"user": "What does the 22E error mean on my Samsung fridge?"},
+      {"assistant_expected": "The 22E error code on Samsung refrigerators indicates an evaporator fan issue. [Include troubleshooting steps, how to fix, and parts needed like evaporator fan motor]"}
+    ],
+    "criteria": {
+      "must_contain": ["22E", "Samsung", "evaporator fan", "error"],
+      "must_include_url": true,
+      "expected_tools": ["search_blogs", "search_repairs"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 12,
+    "category": "multi_turn_context",
+    "turns": [
+      {"user": "I have a Whirlpool dishwasher"},
+      {"assistant_expected": "Great! I can help you with your Whirlpool dishwasher. What issue are you experiencing or what do you need help with?"},
+      {"user": "The door won't latch"},
+      {"assistant_expected": "For a Whirlpool dishwasher with a door latch problem, you'll need the Door Latch And Switch Assembly. [Include Whirlpool-specific door latch products like PS11754317 and repair guidance]"}
+    ],
+    "criteria": {
+      "must_contain": ["Whirlpool", "door latch", "PS11754317"],
+      "must_include_url": true,
+      "expected_tools": ["search_products", "search_repairs"],
+      "context_retention": true,
+      "relevance": true
+    }
+  },
+  {
+    "id": 13,
+    "category": "multi_turn_progressive",
+    "turns": [
+      {"user": "My refrigerator is leaking"},
+      {"assistant_expected": "Refrigerator leaks can be caused by several issues including door gaskets, water inlet valve, or ice maker assembly. Can you tell me the brand of your refrigerator?"},
+      {"user": "It's a GE model"},
+      {"assistant_expected": "For a GE refrigerator that's leaking, [include GE-specific troubleshooting and repair information]"},
+      {"user": "What parts do I need?"},
+      {"assistant_expected": "Based on the leak issue in your GE refrigerator, you'll likely need: door gaskets, water inlet valve, or ice maker assembly. [Include specific GE parts with prices and URLs]"}
+    ],
+    "criteria": {
+      "must_contain": ["GE", "leak", "parts", "door gasket", "water inlet valve"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs", "search_products"],
+      "context_retention": true,
+      "relevance": true
+    }
+  },
+  {
+    "id": 14,
+    "category": "multi_turn_issue_clarification",
+    "turns": [
+      {"user": "I need help with my dishwasher"},
+      {"assistant_expected": "I'd be happy to help with your dishwasher! What specific issue are you experiencing?"},
+      {"user": "It won't drain"},
+      {"assistant_expected": "A dishwasher that won't drain typically has issues with: drain pump, check valve, piston assembly, or blocked drain hose. [Include repair guide]"},
+      {"user": "Show me the parts I need"},
+      {"assistant_expected": "For a dishwasher that won't drain, here are the common parts needed: [drain pump assemblies, check valves, and related components with prices and compatibility]"}
+    ],
+    "criteria": {
+      "must_contain": ["drain", "pump", "dishwasher", "parts"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs", "search_products"],
+      "context_retention": true,
+      "relevance": true
+    }
+  },
+  {
+    "id": 15,
+    "category": "complex_multi_tool",
+    "turns": [
+      {"user": "My Frigidaire dishwasher is leaking, what parts do I need and how do I fix it?"},
+      {"assistant_expected": "For a leaking Frigidaire dishwasher: [Include repair guide with troubleshooting steps for pump, door gasket, water inlet valve, spray arm] and [specific Frigidaire-compatible parts with prices and URLs]"}
+    ],
+    "criteria": {
+      "must_contain": ["Frigidaire", "leak", "repair", "parts", "pump", "gasket"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs", "search_products"],
+      "should_include_video": true,
+      "relevance": true
+    }
+  },
+  {
+    "id": 16,
+    "category": "complex_comparison_install",
+    "turns": [
+      {"user": "Compare Whirlpool door latches, which is the best one, and show me how to install it"},
+      {"assistant_expected": "Here are the available Whirlpool door latches: [comparison of features, prices, compatibility]. The best option for most models is [specific recommendation]. Installation involves: [include repair guide or blog article with installation steps]"}
+    ],
+    "criteria": {
+      "must_contain": ["Whirlpool", "door latch", "compare", "install", "best"],
+      "must_include_url": true,
+      "expected_tools": ["search_products", "search_repairs", "search_blogs"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 17,
+    "category": "complex_troubleshooting",
+    "turns": [
+      {"user": "My refrigerator isn't cooling, troubleshoot the issue and recommend parts"},
+      {"assistant_expected": "For a refrigerator not cooling, check these components: [evaporator fan motor, condenser fan motor, compressor, temperature control, defrost system]. [Include diagnostic steps from repair guide] and [specific parts like fan motors, thermostats, control boards with prices]"}
+    ],
+    "criteria": {
+      "must_contain": ["not cooling", "troubleshoot", "fan motor", "compressor", "parts"],
+      "must_include_url": true,
+      "expected_tools": ["search_repairs", "search_products", "search_blogs"],
+      "relevance": true
+    }
+  },
+  {
+    "id": 18,
+    "category": "edge_case_nonsense",
+    "turns": [
+      {"user": "blah blah random nonsense"},
+      {"assistant_expected": "I'm here to help with appliance parts and repairs. Could you please clarify what you need assistance with? For example, are you looking for a specific part, troubleshooting an appliance issue, or seeking repair guidance?"}
+    ],
+    "criteria": {
+      "must_contain": ["help", "clarif"],
+      "should_not_contain": ["error", "crash"],
+      "graceful_handling": true,
+      "relevance": false
+    }
+  },
+  {
+    "id": 19,
+    "category": "edge_case_impossible_part",
+    "turns": [
+      {"user": "I need a flux capacitor for my dishwasher"},
+      {"assistant_expected": "I couldn't find a flux capacitor in our parts inventory. Could you provide more details about the issue you're experiencing with your dishwasher? I can help you find the correct part you need."}
+    ],
+    "criteria": {
+      "must_contain": ["couldn't find", "help"],
+      "should_not_contain": ["error", "crash"],
+      "graceful_handling": true,
+      "no_results_ok": true,
+      "relevance": false
+    }
+  },
+  {
+    "id": 20,
+    "category": "edge_case_social",
+    "turns": [
+      {"user": "Thanks!"},
+      {"assistant_expected": "You're welcome! Is there anything else I can help you with regarding appliance parts or repairs?"}
+    ],
+    "criteria": {
+      "must_contain": ["welcome"],
+      "graceful_handling": true,
+      "relevance": false
+    }
+  },
+  {
+    "id": 21,
+    "category": "edge_case_empty",
+    "turns": [
+      {"user": ""},
+      {"assistant_expected": "Please enter a question or let me know what you need help with."}
+    ],
+    "criteria": {
+      "should_not_contain": ["error", "crash"],
+      "graceful_handling": true,
+      "ui_validation": true,
+      "relevance": false
+    }
+  },
+  {
+    "id": 22,
+    "category": "edge_case_overload",
+    "turns": [
+      {"user": "Show me everything in your database"},
+      {"assistant_expected": "I have access to thousands of appliance parts, repair guides, and articles. Could you narrow down what you're looking for? For example, what type of appliance or specific issue are you dealing with?"}
+    ],
+    "criteria": {
+      "must_contain": ["narrow", "specific"],
+      "should_not_contain": ["error", "crash"],
+      "graceful_handling": true,
+      "relevance": false
+    }
+  },
+  {
+    "id": 23,
+    "category": "ambiguous_no_appliance",
+    "turns": [
+      {"user": "door latch"},
+      {"assistant_expected": "I found door latches for various appliances. Could you specify which appliance you need a door latch for? For example: dishwasher, refrigerator, or another appliance?"}
+    ],
+    "criteria": {
+      "must_contain": ["door latch", "specify", "appliance"],
+      "expected_tools": ["search_products"],
+      "clarification_request": true,
+      "relevance": true
+    }
+  },
+  {
+    "id": 24,
+    "category": "ambiguous_vague_issue",
+    "turns": [
+      {"user": "not working"},
+      {"assistant_expected": "I'd like to help you troubleshoot. Could you tell me: 1) What type of appliance isn't working? 2) What specific symptoms are you seeing (e.g., won't turn on, making noise, leaking)?"}
+    ],
+    "criteria": {
+      "must_contain": ["appliance", "symptom"],
+      "clarification_request": true,
+      "relevance": false
+    }
+  },
+  {
+    "id": 25,
+    "category": "ambiguous_general",
+    "turns": [
+      {"user": "fix my appliance"},
+      {"assistant_expected": "I can help you fix your appliance! Please provide more details: 1) What type of appliance (dishwasher, refrigerator, etc.)? 2) What problem are you experiencing? 3) What brand is it?"}
+    ],
+    "criteria": {
+      "must_contain": ["details", "type", "problem"],
+      "clarification_request": true,
+      "relevance": false
+    }
+  }
+]
