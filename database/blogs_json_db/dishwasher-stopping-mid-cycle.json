@@ -1,0 +1,113 @@
+{
+  "url": "https://www.partselect.com/blog/dishwasher-stopping-mid-cycle/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/dishwasher-stopping-mid-cycle/",
+  "meta_description": "Get your dishwasher back to normal by checking these three most common problem areas.",
+  "og_title": "Why Is My Dishwasher Stopping Mid-Cycle?",
+  "og_description": "Does your dishwasher shut down before your dishes are even finished cleaning? Check these three most common problem areas to fix this issue.",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59209/dishwasher-stopping-mid-cycle-open-graph.png",
+  "twitter_title": "Why Is My Dishwasher Stopping Mid-Cycle?",
+  "twitter_description": "A dishwasher failing mid-cycle is a very frustrating issue, but the solution can often be simple. Follow these steps to fix your problem.",
+  "twitter_image": "dishwasher-stopping-mid-cycle-card.png",
+  "twitter_hashtags": [
+    "repair"
+  ],
+  "header_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59209/dishwasher-stopping-mid-cycle-header.png",
+  "title": "Why Is My Dishwasher Stopping Mid-Cycle?",
+  "subtitle": "These three common problem areas may be the reason!",
+  "table_of_contents": [
+    {
+      "text": "Reason One: Door Latch Assembly",
+      "is_subsection": true
+    },
+    {
+      "text": "Reason Two: Door Catch",
+      "is_subsection": true
+    },
+    {
+      "text": "Reason Three: Control Board",
+      "is_subsection": true
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "Reason One: Door Latch Assembly",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This is the most common cause of a dishwasher stopping mid-cycle. The Door Latch Assembly  is used to hold the door closed during the cycle to keep water from leaking, and it contains one or two switches that supply power to the controls. If the latch assembly is broken or damaged it won’t keep the door closed, and therefore your system will shut down.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Reason Two: Door Catch",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The catch is a part of your dishwasher frame which connects to the Door Latch Assembly. If this is broken the same problem will occur. Namely that the door won’t stay closed and the machine will shut down. To check the catch, you can simply look at it, and ensure that it is firmly attached to the tub. Some models have adjustable \"mounting screws\". Check your owners manual to find out if you have this kind of model, and how to access the mounting screws. If you have this kind of model, adjust the screws until the door is held securely. If the part appears broken, replace it.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Reason Three: Control Board",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If your assembly and door catch are working properly then it’s possible that the internal electronic components of the washer to fail and prevent your dishwasher from changing cycles. In this case, it will likely need to be replaced. Contact your manufacturer for details on how to replace or repair this issue.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Take a look at these common problem areas to see what may be going wrong with your washer. If you need to make some repairs and are looking for parts, take a look at our dishwasher parts.",
+          "links": [
+            {
+              "text": "dishwasher parts.",
+              "url": "https://www.partselect.com/Dishwasher-Parts.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "March 03, 2020",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [
+    {
+      "title": "5 Appliance Myths Busted",
+      "description": "Don't be scared by superstition. Let us prove (or disprove) some of the mos...",
+      "url": "/blog/5-appliance-myths-busted/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59207/5-Appliance-Myths-Busted-card.png"
+    },
+    {
+      "title": "Surprising Dishwasher-Safe Items",
+      "description": "Your dishwasher can handle way more than just dishes. Try cleaning your spo...",
+      "url": "/blog/dishwasher-safe-items/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59115/you-cleaned-what-in-your-dishwasher-card.png"
+    },
+    {
+      "title": "Why Is My Refrigerator Freezing My Food?",
+      "description": "If your refrigerator is freezing food, then it's not doing its job - there'...",
+      "url": "/blog/fridge-freezing-food/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58696/why-is-my-fridge-freezing-card.png"
+    }
+  ],
+  "social_sharing": {
+    "twitter_message": "Check these three common problem areas to get your dishwasher back to normal.",
+    "twitter_hashtags": "repair",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "Don't be stuck with sud-filled dishes. Fix your malfunctioning dishwasher by following these steps.",
+    "pinterest_image": "dishwasher-stopping-mid-cycle-open-graph.png"
+  }
+}

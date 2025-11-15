@@ -1,0 +1,220 @@
+{
+  "url": "https://www.partselect.com/blog/how-to-reset-ge-dishwasher/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/how-to-reset-ge-dishwasher/",
+  "meta_description": "Learn how to reset your GE dishwasher to fix any part or power related issues that it may be experiencing, to get your dishwasher back to working condition!",
+  "og_title": "How to Reset a GE Dishwasher Explained",
+  "og_description": "Need to get your GE dishwasher working again? We have the guide to show you how to reset it and get it back to working properly!",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125400/How-to-Reset-a-GE-Dishwasher-open-graph.png",
+  "twitter_title": "How to Reset a GE Dishwasher Explained",
+  "twitter_description": "Need to get your GE dishwasher working again? We have the guide to show you how to reset it and get it back to working properly!",
+  "twitter_image": "How-to-Reset-a-GE-Dishwasher-card.png",
+  "twitter_hashtags": [
+    "GE",
+    "dishwasher",
+    "diy",
+    "repair",
+    "fix"
+  ],
+  "header_image": null,
+  "title": "How to Reset Your GE Dishwasher",
+  "subtitle": "We walk you through 4 different reset methods step-by-step",
+  "table_of_contents": [
+    {
+      "text": "Why Do I Need to Reset My GE Dishwasher?",
+      "is_subsection": true
+    },
+    {
+      "text": "How Do You Reset a GE Dishwasher?",
+      "is_subsection": false
+    },
+    {
+      "text": "GE Dishwasher Reset Button",
+      "is_subsection": true
+    },
+    {
+      "text": "Disconnect and Reconnect Power to GE Dishwasher",
+      "is_subsection": true
+    },
+    {
+      "text": "GE Dishwasher Kick Plate Reset Switch or Button",
+      "is_subsection": true
+    },
+    {
+      "text": "Enabling Service Mode on Your GE Dishwasher",
+      "is_subsection": true
+    },
+    {
+      "text": "GE Dishwasher is Reset But Still Not Working",
+      "is_subsection": false
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "Why Do I Need to Reset My GE Dishwasher?",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you're experiencing issues with the power in your home, or if your dishwasher has a history of issues – part or software – resetting can often be the only option you have to restore functionality. Your dishwasher may also be stuck on a washing cycle and the only way to stop it is by disconnecting and reconnecting its power or pushing that reset button on the touchpad.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How Do You Reset a GE Dishwasher?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Some of these methods are not only easier but more accessible to most GE dishwasher models, so make sure to check your user manual for every available option:",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "GE Dishwasher Reset Button",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Most modern GE dishwasher models will come with a built-in reset button or feature for you as the user to press whenever necessary. However, this feature can sometimes only be as useful if you have the user manual for your dishwasher, so ensure you have that handy.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Disconnect and Reconnect Power to GE Dishwasher",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Depending on your setup at home, turning off power to your dishwasher and restoring it soon after by way of the circuit breaker can prove to be the most efficient way to reset it; although you may prefer unplugging and replugging it. Either way, disconnecting its power source can sometimes reset the circuit board and system as a whole and fix any issues you were previously having.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "GE Dishwasher Kick Plate Reset Switch or Button",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This varies from model to model, once again, but your model may have a reset switch for the motor and/or system as a whole underneath and behind a kick plate at the bottom of the dishwasher. This kick plate can be easily removed by unthreading a number of screws with a wrench or screwdriver, locating the switch or button, and activating it. Just make sure the power is connected when you reset it with this method!",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Enabling Service Mode on Your GE Dishwasher",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Service mode, also known as diagnostic or test mode, can prove to be a useful feature with a variety of GE dishwasher models. Service mode can either be used to diagnose the parts within the dishwasher, like the pump, heating element, or detergent dispenser, or it can be used to reset the dishwasher as a whole. If you discover any parts that are broken or not working properly, check out our PartSelect GE dishwasher inventory. Your GE dishwasher may operate differently, but the following guide is a general idea of how to enter service mode and reset it:",
+          "links": [
+            {
+              "text": "PartSelect GE dishwasher inventory",
+              "url": "https://www.partselect.com/GE-Dishwasher-Parts.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Hold 'Start' and 'Select Cycle' for 5 seconds until the touchpad lights up.",
+              "bold_parts": null
+            },
+            {
+              "text": "Hold 'Select Cycle' for another 5 seconds. The 'Lock Controls' light may or may not light up. At this point, your dishwasher is now in Service Mode if a light is blinking.",
+              "bold_parts": null
+            },
+            {
+              "text": "If you don't see any blinking lights, hold 'Select Cycle' for another 5 seconds and let go once the blinking begins.",
+              "bold_parts": null
+            },
+            {
+              "text": "In service mode, you can diagnose each part of the dishwasher that corresponds to the light blinks in your user manual. Press 'Select Cycle' to cycle through each part, and the light should blinking a different number each time.",
+              "bold_parts": null
+            },
+            {
+              "text": "To begin resetting the dishwasher, hold the 'Start' button for 5 seconds until its button lights up.",
+              "bold_parts": null
+            },
+            {
+              "text": "Once again hold the 'Select Cycle' and 'Start' button for 5 seconds.",
+              "bold_parts": null
+            },
+            {
+              "text": "After 5 seconds the touchpad should light up to indicate it's reset, and you can resume using your GE dishwasher as normal.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "GE Dishwasher is Reset But Still Not Working",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Is your GE dishwasher still not working, despite being reset with one of the previously mentioned methods? Or are you having issues with your GE dishwasher where it no longer powers up or responds to any inputs at all? If so, it may be a more deep-rooted issue involving the control board of your dishwasher. Luckily, we have an entire GE dishwasher no power or lights guide on not only what your options are, but how to fix your GE dishwasher to get it back to normal working condition as soon as possible!",
+          "links": [
+            {
+              "text": "GE dishwasher no power or lights guide",
+              "url": "https://www.partselect.com/blog/ge-dishwasher-no-power-no-lights/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For all other error/fault code articles, stay tuned to our PartSelect blog where you can also find helpful and informative guides for every section of your home.",
+          "links": [
+            {
+              "text": "PartSelect blog",
+              "url": "https://www.partselect.com/blog/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "October 17, 2023",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [
+    {
+      "title": "How to Fix a GE Dishwasher with No Power or Lights",
+      "description": "GE dishwasher not turning on, or has no lights? We'll tell you how to diagn...",
+      "url": "/blog/ge-dishwasher-no-power-no-lights/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125393/Solving-a-GE-Dishwasher-That-Has-No-Power-or-Lights-card.png"
+    },
+    {
+      "title": "Why Is My Dishwasher Stopping Mid-Cycle?",
+      "description": "If your dishwasher is stopping mid-cycle it could be due to a number of com...",
+      "url": "/blog/dishwasher-stopping-mid-cycle/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59209/dishwasher-stopping-mid-cycle-card.png"
+    },
+    {
+      "title": "What's Making My Dishwasher Noisy?",
+      "description": "Learn how to diagnose and repair a dishwasher that makes a lot of noise whi...",
+      "url": "/blog/fix-noisy-dishwasher/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59123/why-is-my-dishwasher-so-noisy-card.png"
+    }
+  ],
+  "social_sharing": {
+    "twitter_message": "Need to reset your GE dishwasher to fix any issues it's having? Look no further than our comprehensive guide!",
+    "twitter_hashtags": "GE, dishwasher, diy, repair, fix",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "Need to get your GE dishwasher working again? We have the guide to show you how to reset it and get it back to working properly!",
+    "pinterest_image": "How-to-Reset-a-GE-Dishwasher-open-gaph.png"
+  }
+}

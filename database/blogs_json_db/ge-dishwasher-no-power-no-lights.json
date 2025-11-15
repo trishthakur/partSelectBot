@@ -1,0 +1,403 @@
+{
+  "url": "https://www.partselect.com/blog/ge-dishwasher-no-power-no-lights/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/ge-dishwasher-no-power-no-lights/",
+  "meta_description": "Learn what to do when you GE dishwasher won't turn on, or has no touchpad lights working. Our DIY repair guide will help you troubleshoot these power problems!",
+  "og_title": "GE Dishwasher Not Turning On? Let's Fix It!",
+  "og_description": "Is your GE dishwasher having issues turning on or lighting up? We have the answers for you, to help you fix it!",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125393/Solving-a-GE-Dishwasher-That-Has-No-Power-or-Lights-open-graph.png",
+  "twitter_title": "How to Fix a GE Dishwasher That Won't Turn On",
+  "twitter_description": "GE dishwasher has no power, and doesn't light up? Let's fix that to get your dishwasher back to normal!",
+  "twitter_image": "Solving-a-GE-Dishwasher-That-Has-No-Power-or-Lights-card.png",
+  "twitter_hashtags": [
+    "GE",
+    "dishwasher",
+    "diy",
+    "repair",
+    "appliance",
+    "technician"
+  ],
+  "header_image": null,
+  "title": "How to Fix a GE Dishwasher with No Power or Lights",
+  "subtitle": "A GE Dishwasher Troubleshooting Guide",
+  "table_of_contents": [
+    {
+      "text": "Why Does Your GE Dishwasher Have No Power or Lights?",
+      "is_subsection": false
+    },
+    {
+      "text": "GE Dishwasher Has No Power or Lights - What First?",
+      "is_subsection": true
+    },
+    {
+      "text": "GE Dishwasher Power Issues",
+      "is_subsection": false
+    },
+    {
+      "text": "Check Your Wall Outlet",
+      "is_subsection": true
+    },
+    {
+      "text": "GE Dishwasher No Power or Lights",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Diagnose Your GE Dishwasher",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Fix Your GE Dishwasher Control Board",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Fix Your GE Dishwasher Touchpad",
+      "is_subsection": true
+    },
+    {
+      "text": "GE Dishwasher Still Has No Power or Lights",
+      "is_subsection": false
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "Why Does Your GE Dishwasher Have No Power or Lights?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Your GE dishwasher can have issues with its power and lights for a few reasons, but it's either a general part that's broken or not working correctly, or an issue with your dishwasher's control board or user-interface panel. Some of these parts may be easier to work with than others, but the entire repair process is actually quite simple, and you can do it with only a few tools!",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "GE Dishwasher Has No Power or Lights - What First?",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "First, it's important to double check the easier things first, before you start disassembling your dishwasher and replacing a part that was never broken to begin with. That said, start with the following items before moving on:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Check Door Latch: The door latch on some GE dishwashers can wear down over extended periods of time, which can lead it not working properly and resulting in your dishwasher not starting. To check your dishwasher's door latch, open the door and try to close it - if it doesn't latch properly, it will need replacing.",
+              "bold_parts": [
+                "Check Door Latch:"
+              ]
+            },
+            {
+              "text": "Disable Child-Lock: Certain GE dishwasher models have a child-lock feature, which prevents the dishwasher from turning on or starting while engaged. This feature can be deactivated, but the process is unique to each model, so you will need to refer to your user manual to deactivate it. Once the child lock is disabled, your dishwasher will power on and light up as normal.",
+              "bold_parts": [
+                "Disable Child-Lock:"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "GE Dishwasher Power Issues",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The main issue with your GE dishwasher's power is probably related to how it manages power. This involves the wall outlet, power supply, control board, and user-interface panel. Each of these components affects the dishwasher's performance, with some being more significant than others. Don't worry, we're here to guide you on what needs fixing and how to do it!",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Check Your Wall Outlet",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "It's important to make sure the wall outlet that's delivering power to your GE dishwasher is compatible and safe. That's why using a tool like a non-contact voltage tester is important, to ensure the current of the electricity coming out of the outlet for your dishwasher is sufficient. If the voltage is too low, consider using another wall outlet to supply its power.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Checking the fit of the outlet is also important, because often our appliances that stay in the same place can slip out of their wall outlet. If you notice the outlet causes the dishwasher's plug to slip out easily, consider replacing it with the proper safety equipment required.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "GE Dishwasher No Power or Lights",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If your GE dishwasher shows no signs of power and its lights do not activate, there is definitely something wrong between the control board and the user-interface panel - both of which can be diagnosed and replaced if necessary. The following guides will show you how to diagnose this issue so you can replace the appropriate part.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Diagnose Your GE Dishwasher",
+      "level": 3,
+      "content": [
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Make sure you have power to the dishwasher and it is plugged into the wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a screwdriver or wrench to remove the kick-plate at the front of your dishwasher.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a multimeter to test the terminals to the power supply - if it reads approximately 120 volts, your dishwasher is fine. If not, there is likely an issue with your fuse box and home electricity.",
+              "bold_parts": null
+            },
+            {
+              "text": "To be safe, turn your circuit breaker off or unplug your dishwasher momentarily while handling sensitive electrical equipment.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a screwdriver to unthread the screws holding the control panel.",
+              "bold_parts": null
+            },
+            {
+              "text": "Disengage the wire harness attaching to the control panel.",
+              "bold_parts": null
+            },
+            {
+              "text": "Open the control panel and locate the 5 pins on the far left side of the circuit board, facing you.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use your multimeter and touch one probe to the 2nd pin and the 5th pin from the left.",
+              "bold_parts": null
+            },
+            {
+              "text": "If your multimeter reads on or around 14 volts, the issue will lie with the user-interface panel. However, if it does not, the control board will need replacing.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Fix Your GE Dishwasher Control Board",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you've tested your control board and it does not read on or around 14 volts, it needs replacing immediately, to get your dishwasher back to normal and get your dishes clean again! Luckily, we have a huge inventory of  GE dishwasher control and circuit boards, and the guide you need to find out how to replace it:",
+          "links": [
+            {
+              "text": "GE dishwasher control and circuit boards",
+              "url": "https://www.partselect.com/General-Electric-Dishwasher-Circuit-Boards-and-Touch-Pads.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Follow the steps above to access your control board housing.",
+              "bold_parts": null
+            },
+            {
+              "text": "Disconnect any wire harnesses connected to the circuit board and unthread any screws securing it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove the circuit board from its housing and install the new one.",
+              "bold_parts": null
+            },
+            {
+              "text": "Secure the new circuit board by threading any screws and plugging in the appropriate wire harnesses.",
+              "bold_parts": null
+            },
+            {
+              "text": "Reseat the control circuit board back into position and thread the securing screws for it.",
+              "bold_parts": null
+            },
+            {
+              "text": "If you want to test the dishwasher, you can plug it back in to the wall outlet or restore power.",
+              "bold_parts": null
+            },
+            {
+              "text": "With the dishwasher plugged in and power restored, reinstall the kick-plate and test the dishwasher fully.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Fix Your GE Dishwasher Touchpad",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If your GE dishwasher has no lights when powered on, but does have power or if the main circuit board carries 14 volts, the issue is most likely a bad user-interface panel and touchpad. These panels are replaceable and can be interchanged, but will require time and tools to do so.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Thankfully, we have an abundance of GE dishwasher touchpads, as well as GE dishwasher panels (if necessary), all within our PartSelect inventory, and the following guide to give you a general overview of how to replace them:",
+          "links": [
+            {
+              "text": "GE dishwasher touchpads",
+              "url": "https://www.partselect.com/General-Electric-Dishwasher-Circuit-Boards-and-Touch-Pads.htm"
+            },
+            {
+              "text": "GE dishwasher panels",
+              "url": "https://www.partselect.com/General-Electric-Dishwasher-Panels.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Disconnect your dishwasher from the wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove the kick-plate at the bottom of your dishwasher.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the wire harness connecting to the control board underneath your dishwasher, and disconnect it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate and unthread any securing screws at the bottom of your dishwasher.",
+              "bold_parts": null
+            },
+            {
+              "text": "Lift up on the door and carefully remove it from the body of the dishwasher.",
+              "bold_parts": null
+            },
+            {
+              "text": "Unthread and remove the screws at the bottom and inside portion of the door.",
+              "bold_parts": null
+            },
+            {
+              "text": "Simultaneously lift up on the inside portion and push down on the handle of the dishwasher door to separate it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the user-interface circuit board and touch pad, and unthread it to remove it.",
+              "bold_parts": null
+            },
+            {
+              "text": "If you want to, you can test the circuit for continuity with a multimeter.",
+              "bold_parts": null
+            },
+            {
+              "text": "Separate the circuit board from the housing, which may require a flat-head screwdriver or thin metal pick.",
+              "bold_parts": null
+            },
+            {
+              "text": "Ground yourself to a nearby metal surface, before touching the circuit.",
+              "bold_parts": null
+            },
+            {
+              "text": "Replace the circuit in the user-interface panel housing.",
+              "bold_parts": null
+            },
+            {
+              "text": "Depending on your model, you may need to change the personality settings of the interface, so refer to the guide of the new circuit.",
+              "bold_parts": null
+            },
+            {
+              "text": "If your user-interface panel needs replacing, use a screwdriver and/or flat tool to remove the old one and replace it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Reassemble the user-interface circuit board housing and install it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Reassemble the dishwasher door, securing both halves together and rethreading the screws in.",
+              "bold_parts": null
+            },
+            {
+              "text": "Seat the door back onto its hinges, and feed the wire harness down towards the control board at the bottom to plug it in.",
+              "bold_parts": null
+            },
+            {
+              "text": "Rethread any more securing screws underneath the door and install the kick-plate.",
+              "bold_parts": null
+            },
+            {
+              "text": "Plug your dishwasher back in to the wall outlet, and use your dishwasher like normal.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "GE Dishwasher Still Has No Power or Lights",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you've reached this point, hopefully your dishwasher is back to running as normal! However, if after replacing both or either the main circuit board and user-interface your GE dishwasher does not power on or light up, there is likely a power supply issue either in the dishwasher itself or within your home - both of which unfortunately will likely require the service of a professional technician.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If you need any other repair resources, our PartSelect Repair Center is filled with tutorials and videos to help you troubleshoot and diagnose whatever issue you may be having with your dishwasher - or other appliances! And for all other fault and error code troubleshooting guides, as well as our general home improvement guides, stay tuned to our PartSelect blog.",
+          "links": [
+            {
+              "text": "PartSelect Repair Center",
+              "url": "https://www.partselect.com/Repair/Dishwasher/"
+            },
+            {
+              "text": "PartSelect blog.",
+              "url": "https://www.partselect.com/blog/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "October 05, 2023",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [
+    {
+      "title": "GE Microwave Error Code PF and How To Fix",
+      "description": "Do you see code 'PF' or '888' on your GE microwave? Here's what it means an...",
+      "url": "/blog/ge-microwave-pf-code/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125382/GE-PF-Microwave-Fault-Code-Guide-card.png"
+    },
+    {
+      "title": "How to Fix a Dishwasher that Won't Start",
+      "description": "Do you know how to diagnose and fix your dishwasher in a pinch? Testing the...",
+      "url": "/blog/fix-dishwasher-that-wont-start/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59221/Dishwasher-Wont-Start-card.png"
+    },
+    {
+      "title": "Surprising Dishwasher-Safe Items",
+      "description": "Your dishwasher can handle way more than just dishes. Try cleaning your spo...",
+      "url": "/blog/dishwasher-safe-items/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59115/you-cleaned-what-in-your-dishwasher-card.png"
+    }
+  ],
+  "social_sharing": {
+    "twitter_message": "GE dishwasher not turning on? Let's fix it by replacing its door latch, circuit board or user-interface!",
+    "twitter_hashtags": "GE, dishwasher, diy, repair, appliance, technician",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "GE dishwasher having issues turning on or lighting up? We have the answers for you, to help you fix it!",
+    "pinterest_image": "Solving-a-GE-Dishwasher-That-Has-No-Power-or-Lights-open-graph.png"
+  }
+}

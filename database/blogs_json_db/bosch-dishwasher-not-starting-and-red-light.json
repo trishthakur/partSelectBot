@@ -1,0 +1,368 @@
+{
+  "url": "https://www.partselect.com/blog/bosch-dishwasher-not-starting-and-red-light/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/bosch-dishwasher-not-starting-and-red-light/",
+  "meta_description": "A non-starting Bosch dishwasher with a blinking red light can indicate a door latch issue. Learn the causes and how to fix it yourself with this practical guide.",
+  "og_title": "Bosch Dishwasher Has a Red Light and Won't Start? Do This.",
+  "og_description": "Is your Bosch dishwasher stuck with a blinking red light and refusing to start? It could be a sign of a door latch malfunction. Tackle this problem with this guide.",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125565/Bosch-Dishwasher-Wont-Start-Red-Light-Flashing-open-graph.png",
+  "twitter_title": "Bosch Dishwasher Has a Red Light and Won't Start? Do This.",
+  "twitter_description": "Is your Bosch dishwasher stuck with a blinking red light and refusing to start? It could be a sign of a door latch malfunction. Tackle this problem with this guide.",
+  "twitter_image": "Bosch-Dishwasher-Wont-Start-Red-Light-Flashing-card.png",
+  "twitter_hashtags": [
+    "bosch",
+    "dishwasher",
+    "flashing red light",
+    "not starting"
+  ],
+  "header_image": null,
+  "title": "Bosch Dishwasher Has a Red Light and Won't Start? Do This.",
+  "subtitle": "Quick Fixes for a Blinking Red Light and a Non-Starting Dishwasher",
+  "table_of_contents": [
+    {
+      "text": "What Does a Flashing Red Light Mean on a Bosch Dishwasher That Won't Start?",
+      "is_subsection": false
+    },
+    {
+      "text": "Why Is Your Bosch Dishwasher Not Starting?",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Fix a Bosch Dishwasher That Is Not Starting",
+      "is_subsection": false
+    },
+    {
+      "text": "Resetting a Bosch Dishwasher",
+      "is_subsection": true
+    },
+    {
+      "text": "Disabling the Child Lock on a Bosch Dishwasher",
+      "is_subsection": true
+    },
+    {
+      "text": "Inspecting, Testing, and Replacing the Door Latch Assembly on a Bosch Dishwasher",
+      "is_subsection": true
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "What Does a Flashing Red Light Mean on a Bosch Dishwasher That Won't Start?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Your dishwasher can come with some helpful indicator lights. One of them is the InfoLight, a small red light projected onto the floor while the dishwasher is running. This lets you check the dishwasher's status when it is operating silently. Normally, this light should turn off when the cycle completes or when the dishwasher is not in use. However, if you notice the InfoLight flashing or staying on when the appliance is idle, it may indicate that the door isn't securely latched. Be sure to listen for a distinct clicking sound and feel for resistance when you close the door.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "The dishwasher may also have an LED light in the lower right corner of the control panel. This light turns red while the dishwasher is running, showing that it's in the middle of a cycle. After the cycle is complete, the light changes to green and stays on for two hours. However, if you notice it flashing, it could indicate a problem with the water supply. Be sure to check that the water supply to the dishwasher is turned on.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Why Is Your Bosch Dishwasher Not Starting?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "When your dishwasher refuses to start, whether it is accompanied by indicator lights or not, these common causes could be at play:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Power Supply Issues: Sometimes, the problem can be as simple as a tripped or overloaded circuit breaker. Make sure the dishwasher’s plug is securely connected and inspect your home’s electrical panel.",
+              "bold_parts": [
+                "Power Supply Issues:"
+              ]
+            },
+            {
+              "text": "Control Panel Malfunctions: The issue may lie with the dishwasher's control panel, particularly the main control board. This board is responsible for sending signals to various components of the dishwasher to initiate the cycle. If these signals are incorrect or interrupted, the dishwasher won’t start.",
+              "bold_parts": [
+                "Control Panel Malfunctions:"
+              ]
+            },
+            {
+              "text": "Door Latch Failure: The door latch prevents the dishwasher from running if the door isn't properly locked. If the door latch is found to be faulty, it needs to be replaced.",
+              "bold_parts": [
+                "Door Latch Failure:"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Fix a Bosch Dishwasher That Is Not Starting",
+      "level": 2,
+      "content": []
+    },
+    {
+      "heading": "Resetting a Bosch Dishwasher",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Resetting your dishwasher can often resolve non-starting issues by clearing temporary glitches and restoring the machine's default settings. Here’s what you need to do:",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "On your dishwasher's control panel, locate the ‘Start’ button.",
+              "bold_parts": null
+            },
+            {
+              "text": "Press and hold the ‘Start’ button for about 5 seconds. After releasing the button, wait for a moment. The dishwasher should reset itself.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "For older Bosch models, find the ‘Power’ button, which may be used instead of the ‘Start’ button.",
+              "bold_parts": null
+            },
+            {
+              "text": "Press the ‘Power’ button to turn off the machine, then press it again to turn it back on.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If the standard reset methods don’t work on your Bosch dishwasher, a hard reset might be necessary. This process involves cutting off and then restoring the power supply to the dishwasher, which can reset its internal systems.",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Find the circuit breaker in your home that controls the power supply to your dishwasher.",
+              "bold_parts": null
+            },
+            {
+              "text": "Switch off the circuit breaker for the dishwasher. By doing this, you're cutting off the power supply to the machine.",
+              "bold_parts": null
+            },
+            {
+              "text": "Leave the circuit breaker off for about 5 minutes. This brief period is critical as it allows the dishwasher’s systems to fully reset.",
+              "bold_parts": null
+            },
+            {
+              "text": "Flip the circuit breaker back on to restore power to the dishwasher.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "After completing these steps, try starting your dishwasher again. Often, a hard reset can fix minor issues. However, if your dishwasher still won't start, it could be a sign of a more complex problem.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Disabling the Child Lock on a Bosch Dishwasher",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An engaged child lock on your Bosch dishwasher can be a sneaky culprit behind the appliance not starting. This safety feature, designed to prevent unintended use, can render the control panel inactive, leading to what appears to be a non-starting problem. To disable it, this is how it's done:",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Look for the button on your dishwasher's control panel that's marked with a padlock or child symbol. The position of this button can vary depending on your Bosch model.",
+              "bold_parts": null
+            },
+            {
+              "text": "Press and hold the child lock button for a few seconds, usually around 3 to 5 seconds. You should hear a beep or see a light indicator, signaling that the child lock has been deactivated.",
+              "bold_parts": null
+            },
+            {
+              "text": "Once the child lock is off, try pressing other buttons on the control panel to ensure they are responsive.",
+              "bold_parts": null
+            },
+            {
+              "text": "Now that the control panel is active again, select your desired wash cycle and start the dishwasher as usual.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Remember, the child lock feature is there for safety, so it's a good idea to activate it again if necessary once you've started your dishwasher.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Inspecting, Testing, and Replacing the Door Latch Assembly on a Bosch Dishwasher",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The door latch on your Bosch dishwasher does two important things: it keeps the door shut tight so no water leaks out, and electronically communicates with the dishwasher's control system. When you close the door and it clicks, the engaged latch tells the system that it's safe to start the wash cycle. If the latch is malfunctioning, this signal isn't sent, preventing the dishwasher from starting as a safety precaution. When troubleshooting the assembly, always refer to your Bosch dishwasher’s manual for specific instructions related to your model. To get started, do the following:",
+          "links": [
+            {
+              "text": "door latch",
+              "url": "https://www.partselect.com/Bosch-Dishwasher-Parts.htm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The door latch is a small, typically metallic mechanism located at the top center of the dishwasher door. It features a handle or lever that clicks into place, securing the door when closed and engaging with the corresponding latch on the dishwasher frame.",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Before anything else, ensure your safety by turning off the dishwasher at the circuit breaker.",
+              "bold_parts": null
+            },
+            {
+              "text": "Examine the latch for any visible signs of damage or wear. Look for any bends, breaks, or rust that could hinder its function.",
+              "bold_parts": null
+            },
+            {
+              "text": "Sometimes, food particles or other debris can obstruct the latch mechanism. Using a soft, damp cloth, gently clean around the latch mechanism. Be careful not to use too much water, as this could seep into the electrical components.",
+              "bold_parts": null
+            },
+            {
+              "text": "If there’s hardened debris or grime, lightly scrub the area with a soft-bristled toothbrush to loosen and remove it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Once cleaned, dry the latch area thoroughly with a cloth to prevent any moisture buildup.",
+              "bold_parts": null
+            },
+            {
+              "text": "Gently close the dishwasher door to see if the latch clicks into place properly. A proper latch should be smooth with a distinct click sound.",
+              "bold_parts": null
+            },
+            {
+              "text": "Ensure that the latch aligns correctly with the catch on the dishwasher frame. Misalignment can prevent proper latching and, consequently, stop the dishwasher from starting.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Even if it seems to latch properly, it's essential to test its functionality to determine if it needs replacing:",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "With the dishwasher disconnected from the power source, open the door and locate the latch assembly, typically at the top. You might need to remove the inner door panel to reach the latch’s electrical components.",
+              "bold_parts": null
+            },
+            {
+              "text": "Set your multimeter to the continuity setting, indicated by a wave-like symbol or the word \"CONT.\"",
+              "bold_parts": null
+            },
+            {
+              "text": "Touch the multimeter probes to the terminals of the latch assembly. A functioning latch should show continuity, often indicated by a beep or a reading near zero on the multimeter.",
+              "bold_parts": null
+            },
+            {
+              "text": "No continuity (no beep or a non-zero reading) suggests a malfunction in the latch, implying it may require replacement.",
+              "bold_parts": null
+            },
+            {
+              "text": "If the test fails, verify that all connections to the latch are secure and intact, as loose wiring can also cause issues.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If the door latch assembly on your Bosch dishwasher failed the continuity test, it's time to replace it. Here are the steps to replace it:",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Carefully remove the old door latch assembly. This might involve disconnecting a few wires, so it's a good idea to take a picture or note down wire placements for easy reassembly.",
+              "bold_parts": null
+            },
+            {
+              "text": "Take the new door latch assembly and connect it to the door. Make sure to reconnect any wires exactly as they were on the old latch, referring to your photo or notes.",
+              "bold_parts": null
+            },
+            {
+              "text": "Once connected, secure the new latch in place. Ensure it is properly aligned and screwed in tightly.",
+              "bold_parts": null
+            },
+            {
+              "text": "Before reassembling everything, test the door to ensure the new latch clicks into place and holds the door securely.",
+              "bold_parts": null
+            },
+            {
+              "text": "Put back any components or panels you removed during the process. Ensure everything is back in its place and securely fastened.",
+              "bold_parts": null
+            },
+            {
+              "text": "Once everything is reassembled, reconnect the dishwasher to the power source and perform a test run to ensure the issue is resolved.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Replacing the door latch assembly is a detailed process, so if you're not comfortable with appliance repair, consider consulting a professional. Using the correct replacement parts and following these steps carefully will help ensure your Bosch dishwasher runs smoothly again.",
+          "links": null
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "January 12, 2024",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [
+    {
+      "title": "How to Load Your Dishwasher",
+      "description": "We share tips and tricks on how to make sure your dishes come out clean and...",
+      "url": "/blog/how-to-load-your-dishwasher/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/70560/How-to-Properly-Load-Your-Dishwasher-card.png"
+    },
+    {
+      "title": "Why Is My Dishwasher Stopping Mid-Cycle?",
+      "description": "If your dishwasher is stopping mid-cycle it could be due to a number of com...",
+      "url": "/blog/dishwasher-stopping-mid-cycle/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59209/dishwasher-stopping-mid-cycle-card.png"
+    },
+    {
+      "title": "What's Making My Dishwasher Noisy?",
+      "description": "Learn how to diagnose and repair a dishwasher that makes a lot of noise whi...",
+      "url": "/blog/fix-noisy-dishwasher/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59123/why-is-my-dishwasher-so-noisy-card.png"
+    }
+  ],
+  "social_sharing": {
+    "twitter_message": "When your Bosch dishwasher sees red and refuses to clean, read this guide and latch onto these easy fixes!",
+    "twitter_hashtags": "bosch, dishwasher, flashing red light, not starting",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "Is your Bosch dishwasher stuck with a blinking red light and refusing to start? It could be a sign of a door latch malfunction. Tackle this problem with this guide.",
+    "pinterest_image": "Bosch-Dishwasher-Wont-Start-Red-Light-Flashing-open-graph.png"
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "url": "https://www.partselect.com/blog/refrigerator-tripping-breaker/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/refrigerator-tripping-breaker/",
+  "meta_description": "Learn how to troubleshoot and fix a refrigerator that keeps tripping your circuit breaker, whether it's a bad outlet or breaker, or a part like the compressor.",
+  "og_title": "Why Your Refrigerator Keeps Tripping the Breaker",
+  "og_description": "Learn how you can troubleshoot and fix your refrigerator if it keeps tripping your circuit breaker, and find out whether it's a bad outlet or breaker, or a part like its compressor.",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125584/Refrigerator-Keeps-Tripping-the-Electricity-open-graph.png",
+  "twitter_title": "Why Your Refrigerator Keeps Tripping the Breaker",
+  "twitter_description": "Find out how to troubleshoot and fix your refrigerator if it keeps tripping your circuit breaker, and find out whether it's a bad outlet or breaker, or a part like its compressor.",
+  "twitter_image": "Refrigerator-Keeps-Tripping-the-Electricity-card.png",
+  "twitter_hashtags": [
+    "refrigerator",
+    "fridge",
+    "diy",
+    "repair",
+    "fix",
+    "breaker",
+    "circuitry",
+    "troubleshoot"
+  ],
+  "header_image": null,
+  "title": "Why Your Refrigerator is Tripping the Breaker",
+  "subtitle": "Let's Fix a Refrigerator Circuit Trip!",
+  "table_of_contents": [
+    {
+      "text": "What You Need to Know about Electrical Circuits",
+      "is_subsection": false
+    },
+    {
+      "text": "Why is My Refrigerator Tripping the Breaker?",
+      "is_subsection": false
+    },
+    {
+      "text": "How To Find Out if Your Refrigerator is Tripping the Breaker",
+      "is_subsection": false
+    },
+    {
+      "text": "Inspect the Wall Outlet",
+      "is_subsection": true
+    },
+    {
+      "text": "Troubleshoot Power Issues With Your Refrigerator",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Fix a Refrigerator that Keeps Shorting",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Replace a Refrigerator's Defrost Timer or Heater",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Replace a Refrigerator Compressor's Capacitor",
+      "is_subsection": true
+    },
+    {
+      "text": "Why Your Outlet Keeps Tripping",
+      "is_subsection": false
+    },
+    {
+      "text": "Improperly Routed Wire Harness",
+      "is_subsection": true
+    },
+    {
+      "text": "Issues with GFCI Outlets",
+      "is_subsection": true
+    },
+    {
+      "text": "What to Do if Your Outlet Keeps Tripping",
+      "is_subsection": false
+    },
+    {
+      "text": "Switch the Refrigerator Outlet",
+      "is_subsection": true
+    },
+    {
+      "text": "Use an Extension Cord",
+      "is_subsection": true
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "What You Need to Know about Electrical Circuits",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The first step in understanding the why your refrigerator is tripping your circuit breaker is having a solid understanding of each of the affected components that we'll be talking about in this guide. The following is a glossary of parts and terms to provide you with the knowledge you need to get to work.",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Circuit: A closed path that allows electricity to flow from one point to another.",
+              "bold_parts": [
+                "Circuit"
+              ]
+            },
+            {
+              "text": "Circuit Breaker: A safety device designed to interrupt and protect an electrical circuit within equipment and prevent the risk of fire. The breakers within a circuit can be reset to continue the flow of electricity.",
+              "bold_parts": [
+                "Circuit Breaker"
+              ]
+            },
+            {
+              "text": "Fuse: A closed path device that allows electricity to flow between two points, but will break and need replacing after one surge or trip.",
+              "bold_parts": [
+                "Fuse"
+              ]
+            },
+            {
+              "text": "Fuse Box/Breaker Panel/Junction Box: A electrical panel that contains either fuses or circuit breakers for a building. They are designed to provide protection to individual power circuits from being overloaded or shorting to the ground.",
+              "bold_parts": [
+                "Fuse Box/Breaker Panel/Junction Box"
+              ]
+            },
+            {
+              "text": "Wire Harness: An assembly of cables which transmit electrical power.",
+              "bold_parts": [
+                "Wire Harness"
+              ]
+            },
+            {
+              "text": "Wall Outlet: An electrical socket that connects an electrical device to an electricity supply.",
+              "bold_parts": [
+                "Wall Outlet"
+              ]
+            },
+            {
+              "text": "Multimeter: An instrument for measuring electrical properties, like voltage, resistance, and current.",
+              "bold_parts": [
+                "Multimeter"
+              ]
+            },
+            {
+              "text": "Circuit Tripping: When a circuit breaker detects an electrical issue, like an overload or short, and interrupts the flow of electricity to protect the circuit.",
+              "bold_parts": [
+                "Circuit Tripping"
+              ]
+            },
+            {
+              "text": "GFCI Outlet: Ground Fault Circuit Interrupter (GFCI) outlets are an advanced safety device made to monitor and protect a circuit from water or dampness.",
+              "bold_parts": [
+                "GFCI Outlet"
+              ]
+            },
+            {
+              "text": "AFCI Outlet: Arc Fault Circuit Interrupter (AFCI) outlets are electrical devices designed to protect a circuit from electrical fires that stem from arcing faults (discharge of electricity between two conductors).",
+              "bold_parts": [
+                "AFCI Outlet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Why is My Refrigerator Tripping the Breaker?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The simplest and most common reason a refrigerator, or any appliance, would trip a circuit breaker or fuse box is because it's overloading the overall circuit. Overloading a circuit or fuse means that one appliance or device is drawing too much power it at one given time, compared to the rated capacity of the circuit or fuse. Normally when wiring homes, refrigerators are put on their own designated outlet due to the amount of power they pull, in an effort to curb this from happening. Manufacturers even state that a refrigerator must be on its own independent household circuit, so no other appliance or electrical device should be on the same circuit.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "But there are other reasons why a circuit trips, such as faulty wiring from the outlet itself or the refrigerator connected to it, or if an older model refrigerator simply loses its power efficiency over time.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How To Find Out if Your Refrigerator is Tripping the Breaker",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "When starting a repair journey like this, it's important to exercise caution whenever dealing with parts in and outside of your refrigerator, especially anything that has an electric current. Remembering to use proper protective equipment, such as insulated work gloves or safety glasses, is important to your safety and wellbeing, and to the overall result of the repair.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Inspect the Wall Outlet",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The first place to inspect if you suspect your refrigerator is tripping your circuit breaker is the wall outlet. To do this, you will need a voltage tester/multimeter that can display the output of the power at the outlet itself. That way you can find out if the outlet is outputting the proper voltage for the fridge and any other appliances that may be connected.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "When doing this, you should start by looking for visual indications of a problem, specifically signs of arcing or burning around the outlet, because those are clear indications of an issue with the outlet and the power cord of your refrigerator. A worn or defective outlet can cause electricity to arc and potentially burn the outlet, and if there are any damaged or exposed wires on the power cord, the outlet can cause issues with it, too. The power cord for your refrigerator can be replaced if it is found to be the cause of the refrigerators issue.",
+          "links": [
+            {
+              "text": "power cord",
+              "url": "https://www.partselect.com/Refrigerator-Power-Cords.htm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Wall outlets are designed to grip the prongs of the cord, and if the prongs are worn or damaged, that grip is lost. If the connection is loose, eventually it will melt the cord and any other plastic (i.e. the outlet cover) in the process. If the connection is poor enough between the prongs and the outlet, electricity will jump the gap and create a spark or arc, which burns even more and accelerates the failure. Test the voltage coming out of the outlet with a voltage tester to ensure you have the proper level between 110-120V. A low voltage will make starting the motor more difficult and could trop a breaker or fuse.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If the power cord is severely damaged and wires are exposed, it'll need to be replaced as soon as possible with an OEM cord. To do this, you will need work gloves, and a set of pliers. All you need to do is unplug your fridge and pull it out from the wall until you can access it, then unscrew any cover on the rear of the appliance. Follow the cord to where it connects and remove the clamp securing it. Connect the new one and reinstall the clamp, as well as the rear cover of the fridge, before you plug it back in.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Troubleshoot Power Issues With Your Refrigerator",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you don't see any issues with your outlet or the surrounding area, it's time to test your refrigerator to see whether the tripping problem is being caused by the appliance. We recommend  testing the defrost timer and run capacitor in your refrigerator as your next steps, because it they are more likely to be causing the problem, than the breaker or fuse in your home. It makes sense to test and rule these out before exploring more serious electrical inspections. To troubleshoot your refrigerator, you will need a clamp multimeter and a line splitting tool to test the current within its power cord.",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "First, you will want to move your refrigerator to a different outlet. This can be an outlet nearby,  just as long as your refrigerator is on a different circuit. However, you can also plug your fridge into an extension cord instead of moving it, but the cord needs to be properly rated for 15 or 20A.",
+              "bold_parts": null
+            },
+            {
+              "text": "Ensure your refrigerator is plugged in directly to the line splitting tool and turned on.",
+              "bold_parts": null
+            },
+            {
+              "text": "Plug the line splitting tool into your home's outlet and set your clamp on multimeter, capable of reading household currents, up with the refrigerator's power cord. A line splitting tool is a device that separates hot from neutral and ground wires, so you can measure the current being drawn.",
+              "bold_parts": null
+            },
+            {
+              "text": "Set all temperature settings in the fridge to their lowest (coldest); this is to ensure it does not turn off during testing.",
+              "bold_parts": null
+            },
+            {
+              "text": "Using the clamp multimeter, check the current (amperage) being used by the fridge.",
+              "bold_parts": null
+            },
+            {
+              "text": "If the current being used by the fridge exceeds 15A, the electrical problem lies within the refrigerator.",
+              "bold_parts": null
+            },
+            {
+              "text": "If the current is less than 15A, put your refrigerator into defrosting mode. Models with timers can be advanced to initiate a defrost, whereas electronic control boards will require a specific set of steps to initiate a defrost cycle for testing. Since these steps can vary by make and manufacturer, you will need to find this information in your owner's manual or online.",
+              "bold_parts": null
+            },
+            {
+              "text": "Check the current reading again with your multimeter and if it exceeds 15A, the problem is with the fridge.",
+              "bold_parts": null
+            },
+            {
+              "text": "If after you've tested the fridge, the current does not exceed 15A, the circuitry issue is with your home. This could be an issue with a weak break, or a worn fuse holder, if your home has screw-in fuses.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Fix a Refrigerator that Keeps Shorting",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For a refrigerator that's pulling too much power from the wall outlet and overloading the circuit, you will need to troubleshoot and potentially replace one of two parts in your fridge; the compressor's run capacitor, or the defrost timer or control board (depending on your fridge model). If your fridge model is from before 2000 you will likely have a defrost timer, if your model is from 2000-2015 you could have either, and if your fridge was made in the last 10 years (2015 onwards), it likely has a defrost unit within the control board. As we explain below, these parts are essential to the overall function of the refrigerator, and when they fail they can cause the trip you are experiencing. We walk you through how to identify which of these parts is causing the problem in your refrigerator, and we explain how to replace them to get your appliance running!",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Replace a Refrigerator's Defrost Timer or Heater",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The defrost timer and control board and heater are, as their name implies, responsible for the cooling and defrosting process of the refrigerator, which are determined either by a length of time, continuous or while the compressor runs, or by the number of times the doors are opened. They're also two of the most common reasons for a fridge to experience a short or interrupted circuit, due to the heater or timer/control board failing and pulling too much power, and overloading and tripping the outlet. Continue reading to find out how to replace or test your defrost timer or heater!",
+          "links": [
+            {
+              "text": "defrost timer and control board",
+              "url": "https://www.partselect.ca/Refrigerator-Timers.htm"
+            },
+            {
+              "text": "heater",
+              "url": "https://www.partselect.ca/Refrigerator-Elements-and-Burners.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Unplug your refrigerator from its wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Open your freezer compartment and locate the heater. It's usually behind the back panel of the freezer section.",
+              "bold_parts": null
+            },
+            {
+              "text": "Anything in the way will need to be removed, like the food items and contents of your freezer, and parts like the ice maker, and then finally the cover panel. This will all depend on your model and the features it includes.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a screwdriver to unthread any securing screws or clips, and then remove the cover.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a set of pliers to disconnect the wires for the heater.",
+              "bold_parts": null
+            },
+            {
+              "text": "Using a multimeter, set it to RX1 and place a lead on each of the terminals. If the reading is zero or infinity, replace it. If not, reinstall it and test your defrost timer instead.",
+              "bold_parts": null
+            },
+            {
+              "text": "If your defrost heater was the issue, remove the old one and replace it with the new one, and then carefully reassemble your freezer compartment.",
+              "bold_parts": null
+            },
+            {
+              "text": "Then plug your fridge back in and monitor it.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If the defrost heater is not the issue, you will need to inspect and potentially replace the defrost timer or control board, depending on your refrigerator model. If your model has a control board instead of a timer, you will need to test the relay board. A relay board will either be built into the back of the fridge (and can only be accessed by pulling the fridge out from the wall) or will be in the same place as the control board.",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "To find the timer or control board in your fridge you will need to locate the control panel, since these parts are attached to the control panel. Depending on the model, it'll be in a number of places. The most common location for control panels would be in the back of the appliance near the top, or on the ceiling of the fridge compartment, behind the kick plate at the bottom of your fridge, or down by the compressor at the rear of the fridge.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a screwdriver to unthread the control panel and open it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Disconnect the wire harness of the control panel to the fridge.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a screwdriver to disconnect the defrost timer and heater from its assembly.",
+              "bold_parts": null
+            },
+            {
+              "text": "Whether you have a timer or control board, testing it for continuity is the same. Using a multimeter, set it to the X1 setting for Ohm's and connect a probe to each terminal. If there is no continuity, replace the timer immediately.",
+              "bold_parts": null
+            },
+            {
+              "text": "Install the new timer and any wires connected to it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Connect the control panel's wire harness to the fridge and rethread the securing screws.",
+              "bold_parts": null
+            },
+            {
+              "text": "Plug your fridge back in and monitor it.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Note: To ensure that your relay or control board is bad/faulty, have them diagnosed by a qualified technician before purchasing a new one to replace it.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Replace a Refrigerator Compressor's Capacitor",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A fridge compressor's capacitor, also known as a relay, is what assists in turning the compressor on and off, depending on the cooling needed. But if the capacitor fails from old age or an electrical surge, it will no longer operate properly and it will overload its outlet, which leads to a short and tripped circuit. If you listen carefully, a failed capacitor will cause the compressor to click when it overloads the circuit. The capacitor will be located at the bottom rear portion of the refrigerator, and can be tested and replaced easily with a set of pliers, screwdriver, wrench, multimeter, and work gloves. Read along and we'll explain exactly how to fix your compressor.",
+          "links": [
+            {
+              "text": "capacitor",
+              "url": "https://www.partselect.ca/Refrigerator-Compressors.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Unplug your refrigerator from the wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Pull your fridge out from the wall, and remove its back panel with a screwdriver or wrench.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the capacitor and discharge any potentially stored electricity from it. This can be done by putting a metal object, like a screwdriver, across the two terminals of the capacitor.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove any harnesses connected to it with a set of pliers.",
+              "bold_parts": null
+            },
+            {
+              "text": "Carefully remove the old capacitor.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a multimeter in Ohms mode to test it for continuity by touching the probes to the terminals. Ideally the resistance will rise and then fall back to zero, but if it rises and stays, the capacitor is shorted. If it does not rise at all, it is open and needs to be replaced.",
+              "bold_parts": null
+            },
+            {
+              "text": "To replace it, simply install the new capacitor in the old one's place, and reinstall the wiring harnesses by plugging them onto the capacitor.",
+              "bold_parts": null
+            },
+            {
+              "text": "Replace the back panel of the fridge, and plug it back in. Let it run for a few minutes and take note of anything that happens.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Why Your Outlet Keeps Tripping",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Now that we have ruled out the refrigerator and the outlet it's plugged into, there are a couple more complex issues that could be causing the power to continually trip. We'll walk you through each of those reasons, and what your next steps should be.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Improperly Routed Wire Harness",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Electrical wiring can be complicated, especially for an appliance like a refrigerator. This becomes even more of a nuisance when the problem with an appliance like a refrigerator lies within its wire harnesses. Even though it's a rarity, an incorrectly or improperly routed wire that comes into contact with another wire, can cause one or both to melt and cause a short within the refrigerator's circuit as a result. And in some cases, rodents will find their way into the compressor compartment and chew on the wires, creating a possibility of shorting or overheating. The only way you'd be able to find this issue, however, is by visually inspecting your refrigerator's wires and ensuring such a short does not exist. If you're not comfortable investigating your fridge's circuitry, consider contacting a repair technician to investigate your refrigerator for a short or other issue with its circuitry.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Issues with GFCI Outlets",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Depending on how recently your home was built, a GFCI (Ground Fault Circuit Interrupter) outlet in your home may be tripping from a grounding issue. A grounding issue, or 'fault', happens when the electrical current from your home follows an unintended path to the ground (i.e. damaged wiring, moisture infiltration, etc.). It's worth noting though, that GFCI outlets are not commonly used for circuits with a fridge because they need to be accessible, so you can quickly and easily access them if they trip. This outlet can be replaced with an AFCI outlet, however, it's important to get a qualified electrician's opinion on your home's electrical layout before doing anything yourself.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "What to Do if Your Outlet Keeps Tripping",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you've inspected your fridge's wiring and your GFCI outlet has no indications of any damage or issue and is still tripping, there are a couple of ways to circumvent your outlet tripping and to get your fridge back and operational again, without needing any tools.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Switch the Refrigerator Outlet",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "One proven way to identify any electrical issues you're having with a refrigerator, or any appliance, is to switch its outlet. Whether it's some electrical interference, or if the outlet itself just isn't grabbing and supporting the refrigerator's power cord for any number of reasons, switching the outlet it's plugged into can allow your refrigerator to run, and pinpoint the problem to the outlet itself.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Use an Extension Cord",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Adding on to the idea of switching outlets, if you need an extension cord to reach a different outlet, use one! But make sure of the extension cord's current rating. The cord will need to have a rating for 15 or 20A to handle the electric current from the wall outlet to the refrigerator without issue. If you've been using an extension cord for your refrigerator and it's not rated to handle 15 or 20A, replace it with one that can immediately. Using an extension cord with too low of an amperage compared to the amperage necessary for the appliance will cause an overload, and lead to the outlet tripping and potentially causing a fire.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Now that your refrigerator is fully back and operational, hopefully you can get back to being able to properly store your food and keep it fresh for longer, without the worry of your fridge turning off or circuit tripping. If you're looking for any other guides, for the appliances you own and may be having issues with, or if you are just searching for unique DIY things to do in your living space, take a look at the other PartSelect blog articles!",
+          "links": [
+            {
+              "text": "PartSelect blog articles",
+              "url": "https://www.partselect.com/blog/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "April 10, 2024",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [
+    {
+      "title": "How to Easily Fix a Broken Refrigerator Ice Maker",
+      "description": "Is your refrigerator's ice maker broken and not working properly? Let's get...",
+      "url": "/blog/fix-broken-refrigerator-ice-maker/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125403/Fixing-a-Broken-Refrigerator-Ice-Maker-card.png"
+    },
+    {
+      "title": "Why is my Refrigerator Not Cooling?",
+      "description": "If your refrigerator is not cooling, check these common parts. We'll walk y...",
+      "url": "/blog/refrigerator-not-cooling/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/73098/Refrigerator-Not-Cooling-card.png"
+    },
+    {
+      "title": "Troubleshooting Frost Buildup in your Fridge/Freezer",
+      "description": "Keep your freezer ice-cold and free of frost by checking these most common ...",
+      "url": "/blog/fridge-frost-buildup-troubleshoot/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59219/Controlling-Frost-Buildup-card.png"
+    }
+  ],
+  "social_sharing": {
+    "twitter_message": "Refrigerator tripping your circuit breaker? FInd out why, and whether the cause is a bad outlet or breaker, or a part like its compressor.",
+    "twitter_hashtags": "refrigerator, fridge, diy, repair, fix, breaker, circuitry, troubleshoot",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "Learn how you can troubleshoot and fix your refrigerator if it keeps tripping your circuit breaker, and find out whether it's a bad outlet or breaker, or a part like its compressor.",
+    "pinterest_image": "Refrigerator-Keeps-Tripping-the-Electricity-open-graph.png"
+  }
+}

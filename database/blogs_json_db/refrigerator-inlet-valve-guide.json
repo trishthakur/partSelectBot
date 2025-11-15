@@ -1,0 +1,707 @@
+{
+  "url": "https://www.partselect.com/blog/refrigerator-inlet-valve-guide/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/refrigerator-inlet-valve-guide/",
+  "meta_description": "Inlet valves control the flow of water in certain fridges. Having water or ice problems? We'll show you how to locate, test, and replace your water inlet valve.",
+  "og_title": "How To Test and Replace the Inlet Valve in Your Refrigerator?",
+  "og_description": "If you are having issues with the ice maker or water dispenser in your fridge it could be the water inlet valve. Learn all about this part, what it controls, the issues it might cause, and how to fix it!",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/159481/How-To-Test-and-Replace-the-Inlet-Valve-in-Your-Refrigerator-open-graph.png",
+  "twitter_title": "How To Test and Replace the Inlet Valve in Your Refrigerator?",
+  "twitter_description": "The water inlet valve controls the flow of water in your refrigerator. Learn all about the inlet valve, how it works, and how to test and replace it!",
+  "twitter_image": "How-To-Test-and-Replace-the-Inlet-Valve-in-Your-Refrigerator-card.png",
+  "twitter_hashtags": [],
+  "header_image": null,
+  "title": "How To Test and Replace the Inlet Valve in Your Refrigerator",
+  "subtitle": "The Quick and Simple Guide to Your Refrigerator's Inlet Valve",
+  "table_of_contents": [
+    {
+      "text": "What is an inlet valve and how does it work?",
+      "is_subsection": false
+    },
+    {
+      "text": "How a refrigerator water inlet valve works:",
+      "is_subsection": true
+    },
+    {
+      "text": "Where is the inlet valve?",
+      "is_subsection": false
+    },
+    {
+      "text": "How does the refrigerator inlet valve fail",
+      "is_subsection": false
+    },
+    {
+      "text": "Mechanical failure of the inlet valve",
+      "is_subsection": true
+    },
+    {
+      "text": "Electronic failure of the inlet valve",
+      "is_subsection": true
+    },
+    {
+      "text": "Signs your refrigerator inlet valve is faulty",
+      "is_subsection": false
+    },
+    {
+      "text": "Ice maker issues you might notice:",
+      "is_subsection": true
+    },
+    {
+      "text": "Water dispenser issues you might notice:",
+      "is_subsection": true
+    },
+    {
+      "text": "How to test a refrigerator inlet valve",
+      "is_subsection": false
+    },
+    {
+      "text": "Required Supplies",
+      "is_subsection": true
+    },
+    {
+      "text": "Before you get started",
+      "is_subsection": true
+    },
+    {
+      "text": "Step One: Testing the water supply",
+      "is_subsection": true
+    },
+    {
+      "text": "Step Two: Visual inspection of the inlet valve",
+      "is_subsection": true
+    },
+    {
+      "text": "Step Three: Testing the valve for continuity",
+      "is_subsection": true
+    },
+    {
+      "text": "When and how to replace a refrigerator inlet valve",
+      "is_subsection": false
+    },
+    {
+      "text": "How to replace a refrigerator inlet valve:",
+      "is_subsection": true
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "What is an inlet valve and how does it work?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The water inlet valve on your refrigerator, also known as a solenoid valve, regulates the flow of water into the refrigerator for the ice maker and water dispenser. Understanding what a solenoid is and how it works is key to understanding how the inlet valve functions. Essentially a solenoid is an electrical coil that acts as a switch, when electricity flows through it the switch opens, and when there is no electricity, it closes.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "This valve is integral to controlling the flow of water, it operates much like a faucet, opening and closing valves, the only difference is that it is electronically controlled. When your fridge needs water to fill the ice cube tray, or to fill your cup with water, it signals to the valve that water is needed via an electrical current. That signal is what energizes the solenoid that is in the valve. The signal is constant so as long as the signal is present and the valve is open and water is flowing. When the signal stops the valve closes and the flow of water into the appliance is cutoff.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How a refrigerator water inlet valve works:",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This step-by-step breakdown walks you through how the water inlet valve controls the flow of water in your refrigerator. Every time you fill a glass with water, or the ice maker makes another batch the inlet valve is a vital part of the process. Learn how the inlet valve opens and closes, and how it knows when to do that.",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "The process begins anytime you are pouring a glass of water from the water dispenser, or the ice maker needs to fill up the tray with water.",
+              "bold_parts": null
+            },
+            {
+              "text": "When those switches are engaged or activated the control board knows water is needed, and sends signal to the inlet valve via electric current.",
+              "bold_parts": null
+            },
+            {
+              "text": "The electrical current activates the solenoid and creates a magnetic field.",
+              "bold_parts": null
+            },
+            {
+              "text": "The magnetic field pulls the plunger inside the valve to allow water to flow.",
+              "bold_parts": null
+            },
+            {
+              "text": "When the fridge has enough water, the electric current is cut off and the solenoid is no longer magnetic.",
+              "bold_parts": null
+            },
+            {
+              "text": "A spring helps push the plunger back into place, this closes the valve and stops the flow of water.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where is the inlet valve?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Not all refrigerators have a water inlet valve. Your appliance will only have one if it includes an ice maker or a water dispenser. While the exact placement can vary by model, the inlet valve is usually located at the back of the refrigerator near the bottom, where the household water supply connects to the appliance.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "You won’t be able to see this part just by pulling your refrigerator away from the wall. To reach it, you’ll need to remove the lower rear access panel, which is typically a thin sheet of metal or cardboard held in place with screws. This panel protects important and valuable parts, helps reduce dust buildup, minimizes operational noise, and ensures proper ventilation and airflow.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Once the access panel is removed, you’ll need to locate the inlet valve. Following the water supply line will usually lead you directly to it. The valve is typically secured to the refrigerator cabinet or frame with a metal bracket. The valve itself is made of plastic and is often blue, green, or white.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How does the refrigerator inlet valve fail",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Due to the fact the inlet valve is an electromechanical device, it can fail in a couple of different ways. As outlined above, the electrical portion tells the valve when to open and close, and the mechanical portion handles the opening and closing of the parts within the valve. If your inlet valve is faulty, it may be due to either an electrical failure or a mechanical failure. Below, we’ll outline both.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Mechanical failure of the inlet valve",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mechanical failure is a physical problem with the part and how it functions. Parts within the inlet valve like screens, seals, diaphragms, can get clogged with dirt, debris, and mineral build up. Over time these parts can also deteriorate, wear out, or crack. If any one of these individual parts cannot do its job, the valve will not function properly.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Here are the most common mechanical failures the water inlet valve can experience:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Dirt, debris, or buildup causing the valve to become stuck in the open or closed position.",
+              "bold_parts": null
+            },
+            {
+              "text": "Cracks or damage to the parts, which can cause leaks and reduce water pressure.",
+              "bold_parts": null
+            },
+            {
+              "text": "Worn or failing seals and diaphragms.",
+              "bold_parts": null
+            },
+            {
+              "text": "Clogged screens that can no longer filter properly, restricting water flow.",
+              "bold_parts": null
+            },
+            {
+              "text": "Blockages from internal buildup inside the valve, reducing water flow or preventing the valve from moving.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mechanical issues can affect your refrigerator’s ability to fill with water, and they don’t always present as a single problem. You might notice that it fills slowly, doesn’t fill at all, or overfills due to poor regulation. Any time the water levels for these features are off, it’s a sign that the flow of water is not being properly controlled, and the inlet valve could be the cause.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Electronic failure of the inlet valve",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The water inlet valve is controlled by a solenoid, when it is active the valve is open, and it releases water from the supply line into the refrigerator. If a solenoid no longer has continuity, it will no longer be able to do its job, and the mechanical parts within the valve will not be engaged. It is not uncommon for a solenoid to fail or wear out over time.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Some common electrical issues are:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "One or more solenoid coils in the valve have burnt out.",
+              "bold_parts": null
+            },
+            {
+              "text": "There is a shorted coil within the valve.",
+              "bold_parts": null
+            },
+            {
+              "text": "A broken or damaged wire in the solenoid coil.",
+              "bold_parts": null
+            },
+            {
+              "text": "Any corrosion or damage to the terminals on the valve.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Signs your refrigerator inlet valve is faulty",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If the inlet valve on your refrigerator is failing that will manifest itself as issues with your ice maker and water dispenser. The water inlet valve supplies the refrigerator with the water it needs for these features to operate. The failure of this part might not be sudden, in the lead up to failure you might notice these features only working intermittently and it could be a sign the part is beginning to fail. Any time you notice performance issues with your ice maker or water dispenser it could be a sign that there are issues with the inlet valve.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Ice maker issues you might notice:",
+      "level": 3,
+      "content": [
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "No ice being produced.",
+              "bold_parts": null
+            },
+            {
+              "text": "Ice cubes are smaller than normal.",
+              "bold_parts": null
+            },
+            {
+              "text": "Hollow or irregularly shaped ice cubes.",
+              "bold_parts": null
+            },
+            {
+              "text": "Overfilling of the icemaker, leading to ice cubes to freeze together, or creating ice at the bottom of the freezer.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Water dispenser issues you might notice:",
+      "level": 3,
+      "content": [
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "No water being dispensed and no sound coming from the dispenser, which may indicate a faulty solenoid valve.",
+              "bold_parts": null
+            },
+            {
+              "text": "No water being dispensed but a clicking or humming sound is heard, meaning the signal is reaching the valve but it is failing to open and allow water through.",
+              "bold_parts": null
+            },
+            {
+              "text": "Weak or low water flow from the dispenser, even when the water filter is clear and not causing the issue.",
+              "bold_parts": null
+            },
+            {
+              "text": "Water dispenser dripping water when not engaged. If your dispenser is dripping you will notice water pooling in the drip tray or running down the fridge door. This happens when the valve does not close completely due to wear over time or debris that is preventing the plunger from sealing completely.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Finally, a failing inlet valve can lead to water leaking from your fridge, often it is localized to the area around the valve itself. Which means if there is a leak behind your refrigerator it is very likely the inlet valve is the source.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to test a refrigerator inlet valve",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "When you are testing the water inlet valve you are going to do it in phases, and we will walk you through that here. You will start by checking the household water supply line, if there are no issues with the water supply to the fridge that will tell you the issue is with the valve. Then testing the solenoid portion of the valve with a multimeter will tell you if the issue is electronic or not. If it is not then you have a mechanical issue with your valve.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Required Supplies",
+      "level": 3,
+      "content": [
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Screwdriver",
+              "bold_parts": null
+            },
+            {
+              "text": "Wrench",
+              "bold_parts": null
+            },
+            {
+              "text": "Multimeter",
+              "bold_parts": null
+            },
+            {
+              "text": "Bucket",
+              "bold_parts": null
+            },
+            {
+              "text": "Towel",
+              "bold_parts": null
+            },
+            {
+              "text": "Gloves",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Before you get started",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "There are some other causes of ice maker and water dispenser issues. Before you pull out your refrigerator and get to work you might want to do a few small checks to rule out any other explanations for these problems.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If your ice maker is not making any ice at all, before you jump to any conclusions about the water supply and the inlet valve, you should check the bail arm on your ice maker. If it is stuck in the engaged position the ice maker will not make ice, as it thinks the ice bin is full of ice and no additional ice is needed. This simple check could save you a lot of trouble.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If the issue you are having is related to the flow of water from the dispenser, if it is slow and lacks pressure you should first rule out any issues with the water filter. If it is clogged, or if it has not been replaced in a long time, that could be the reason there is restricted flow of water in your refrigerator.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Step One: Testing the water supply",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The first step in the troubleshooting process will be to test the water supply, to make sure that the pressure and flow of water from your house to your refrigerator is sufficient. If it is not, the problem lies in the water supply rather than the inlet valve.",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Turn off your refrigerator. The time spent doing the inspection is not too long, so if you leave the door closed the appliance will maintain the temperature and your food will be safe.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the water supply line that runs to your refrigerator and shut off the supply.",
+              "bold_parts": null
+            },
+            {
+              "text": "Place a towel on the floor below where the water line enters the fridge, just in case any water spills out.",
+              "bold_parts": null
+            },
+            {
+              "text": "Most models you should be able to remove the water supply line without removing the access panel on the lower portion of your refrigerator.",
+              "bold_parts": null
+            },
+            {
+              "text": "Disconnect the water supply line from the inlet valve and point the supply line into a bucket.",
+              "bold_parts": null
+            },
+            {
+              "text": "Turn the water supply on briefly to check and evaluate the flow. If the flow of water is normal and consistent you can rule out issues with the water supply, and you will need to keep investigating issues with the inlet valve. If the flow of water from the water supply line is weak, or there is no water at all, the issue is the with water supply to the refrigerator not the inlet valve.",
+              "bold_parts": null
+            },
+            {
+              "text": "Turn the water supply off again before moving on.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you have ruled out water supply issues and have turned the water supply off, it is time to move on to the next steps of the investigation. At this point, you know there could be a problem with the inlet valve, and you will need to access and inspect the part.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Step Two: Visual inspection of the inlet valve",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The next step in the testing process involves removing the inlet valve from your refrigerator. Follow these step-by-step instructions to get that done:",
+          "links": null
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "You will now need to remove the inlet valve for inspection and that starts with removing the lower access panel on your refrigerator. It should be as simple as removing the screws holding it in place.",
+              "bold_parts": null
+            },
+            {
+              "text": "In the previous step you will have removed the water supply line for the external water supply, you now need to remove any fill tubes which are attached to the outlets on the valve and supply the ice maker and water dispenser. If there is more than one outlet tube you should label them so you can properly reattach them later in the process.",
+              "bold_parts": null
+            },
+            {
+              "text": "How you remove the tubes depends on the type of connection to the valve. There are two main types. If the valve has quick connects, press in on the collar while pulling the tube out. If it uses a fitting, loosen the plastic nut before pulling the tube out.",
+              "bold_parts": null
+            },
+            {
+              "text": "The valve has electrical connections, so the solenoid can function, the number of connections depends on the valve. For instance, single solenoid valves often have two wires connected to the terminals, while double solenoids have four. Before removing the wires, you should take a picture of the connections to make reinstalling the valve easier. When you remove the connections do not pull on the wires, as this can cause damage, you want to pull on the metal connector. We recommend using needle nose pliers to grasp the connector and gently pull to remove it.",
+              "bold_parts": null
+            },
+            {
+              "text": "You now need to remove any screws or nuts holding the valve in place on the mounting bracket. There are usually one or two depending on the size and placement of the valve.",
+              "bold_parts": null
+            },
+            {
+              "text": "You can now remove the valve from the refrigerator.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you have removed the inlet valve from the refrigerator you will want to visually inspect the part for any issues. Here are some of the things you will be looking for:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Cracks to the casing of the valve that might result in leaks.",
+              "bold_parts": null
+            },
+            {
+              "text": "Mineral buildup or dirt clogging the filter screen.",
+              "bold_parts": null
+            },
+            {
+              "text": "Any worn out or damaged seals, diaphragms, or fittings.",
+              "bold_parts": null
+            },
+            {
+              "text": "Corrosion, discoloration, or damage on the electrical terminals.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have made it this far and still have found no obvious faults or issues with the inlet valve you will want to test the valve for continuity.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Step Three: Testing the valve for continuity",
+      "level": 3,
+      "content": [
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "To test for continuity, you will need to set your multimeter to the R X 1 ohms setting. If your multimeter is analog, you will need to pinch the probes together and adjust the needle to 0.",
+              "bold_parts": null
+            },
+            {
+              "text": "Touch the probes of the multimeter to the terminals on the inlet valve and check reading. Some multimeters will make a sound to indicate if there is continuity.",
+              "bold_parts": null
+            },
+            {
+              "text": "The exact values you are looking for could be printed on the side of the valve, or in the owner's manual, but a good rule of thumb is that for a working solenoid the reading should be between 500 and 1,500 ohms. If you get no reading, also known as infinite resistance, that means the solenoid is burnt out and the valve is faulty. If you get a very low reading of less than 100 ohms the solenoid coil has been shorted, and your valve needs to be replaced. If you get a reading in the 200-500 ohms range it is more of a grey area, this may be an acceptable range for some specific models, but it is rare.",
+              "bold_parts": null
+            },
+            {
+              "text": "You will need to test each solenoid, so repeat this process for any solenoid on the valve. You can tell how many solenoids are present by counting the sets of metal prongs, the electrical terminals, since each set corresponds to a solenoid that needs to be tested.",
+              "bold_parts": null
+            },
+            {
+              "text": "If any of the solenoids fail this test, the valve will need to be replaced.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If a solenoid fails the continuity test, it confirms an electrical fault, and the inlet valve will need to be replaced. If all solenoids test within the proper range, then the inlet valve is not the source of the problem.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "When and how to replace a refrigerator inlet valve",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "With any electrical faults it is obvious the valve would need to be replaced, but it is also our recommendation that the same is true for mechanical faults. Trying to clean and replace the internal parts of the valve is not a long-term reliable solution and comes with increased risk of failure.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Your water inlet valve should be replaced if you have done the above troubleshooting and you have found:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "That the water supply is good, but there is no water flowing in the appliance.",
+              "bold_parts": null
+            },
+            {
+              "text": "That the solenoid has no continuity or underperformed in the continuity test.",
+              "bold_parts": null
+            },
+            {
+              "text": "If your valve does not open even when you know it is receiving voltage.",
+              "bold_parts": null
+            },
+            {
+              "text": "If you found any visible damage to the valve itself, the screen, the seals, etc.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have already done the hard work of removing this part for testing, there is no reason you cannot do the replacement yourself. It is simple and you'll save significantly on the price of hiring a repair person. You simply need to use the model number on your refrigerator to find the refrigerator inlet valve designed to fit your model. You will then need to connect the wires to the new part, connect the water line, install it on the mounting bracket and connect the supply line.",
+          "links": [
+            {
+              "text": "refrigerator inlet valve",
+              "url": "https://www.partselect.com/Refrigerator-Valves.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to replace a refrigerator inlet valve:",
+      "level": 3,
+      "content": [
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Pull out refrigerator, unplug the appliance, turn off water supply and disconnect the water supply line from the refrigerator. To avoid any mess, it can help to have a bucket to place the end of the water supply line in.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove the lower access panel by removing the screws.",
+              "bold_parts": null
+            },
+            {
+              "text": "Snap a picture of the fill tubes and electrical connections to make installing the new inlet valve easier.",
+              "bold_parts": null
+            },
+            {
+              "text": "Before removing anything, place a towel on the floor underneath the valve, this will help collect any water that comes out of the valve or fill tubes as you remove them.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove the fill valves, either by pressing the collar and pulling the tube out, or loosening plastic retaining nut and pulling the tube out.",
+              "bold_parts": null
+            },
+            {
+              "text": "Disconnect the electrical connections from the terminals of the valve. Do not pull on the wires, use needle nose pliers to grasp the metal connectors and gently pull.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove screws or nuts holding the valve to the mounting bracket and lift the valve out of the refrigerator.",
+              "bold_parts": null
+            },
+            {
+              "text": "Place the new inlet valve on the bracket in the same position you found the old one you just removed.",
+              "bold_parts": null
+            },
+            {
+              "text": "Secure it to the bracket but reattach the screws.",
+              "bold_parts": null
+            },
+            {
+              "text": "Using the photo you took, connect the wires to the terminals on your new inlet valve.",
+              "bold_parts": null
+            },
+            {
+              "text": "Attach the fill tubes to the valve, again this will either be via quick connect functionality or with a plastic retaining nut. Make sure the tubes are snug and securely attached to the valve to avoid any leaks.",
+              "bold_parts": null
+            },
+            {
+              "text": "The water supply line should be attached to the new valve at this time, and once it is secure you should turn the water supply on to ensure there are no leaks from any of the connections. You would want to address that now before putting everything else back in place.",
+              "bold_parts": null
+            },
+            {
+              "text": "You should check the functionality before reinstalling the access panel. To do so you will want to plug in the refrigerator and push it in far enough to access the water dispenser. When you are working on the inlet valve it allows air to enter the water supply lines in your fridge, to purge the air out you will need to fill 2 to 3 glasses of water. This also ensures proper water flow from the dispenser before moving onto next steps. If it is working as expected, and you are able to fill up those glasses of water, you have successfully installed the new inlet valve.",
+              "bold_parts": null
+            },
+            {
+              "text": "To complete the job, reattach the lower access panel with the screws you removed earlier, use the towel to wipe up any water that may have spilled, push the fridge back into place, and enjoy a job well done!",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Without a properly working inlet valve, your refrigerator cannot provide the ice and water you rely on. Once the problem is confirmed and the valve is replaced, your fridge will return to normal operation with steady water flow, consistent ice production, and fewer worries about leaks. It may be a small component, but it plays a big role in keeping your refrigerator dependable and convenient every day.",
+          "links": null
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "September 18, 2025",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [
+    {
+      "title": "How to Easily Fix a Broken Refrigerator Ice Maker",
+      "description": "Is your refrigerator's ice maker broken and not working properly? Let's get...",
+      "url": "/blog/fix-broken-refrigerator-ice-maker/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125403/Fixing-a-Broken-Refrigerator-Ice-Maker-card.png"
+    },
+    {
+      "title": "How to Clean Your Refrigerator Condenser Coils",
+      "description": "Your refrigerator condenser coils need to be cleaned at least once a year d...",
+      "url": "/blog/condenser-coil-cleaning/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/72955/Cleaning-Your-Refrigerators-Parts-card.png"
+    },
+    {
+      "title": "Why is My Refrigerator So Noisy?",
+      "description": "A strange noise coming from the appliance could suggest that one or more pa...",
+      "url": "/blog/why-is-my-fridge-noisy/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58703/noisy-fridge-card.png"
+    }
+  ],
+  "social_sharing": {
+    "twitter_message": "Everything you need to know about refrigerator water inlet valves. Learn how the valve works, what problems a faulty valve creates, and how easy it is replace. Get the water flowing properly in your fridge today!",
+    "twitter_hashtags": "",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "A complete guide to refrigerator water inlet valves. Learn all about the part that controls the flow of water to your ice maker and water dispenser.",
+    "pinterest_image": "How-To-Test-and-Replace-the-Inlet-Valve-in-Your-Refrigerator-open-graph.png"
+  }
+}

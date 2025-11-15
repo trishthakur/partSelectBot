@@ -1,0 +1,508 @@
+{
+  "url": "https://www.partselect.com/blog/frigidaire-refrigerator-sy-ef-error-code/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/frigidaire-refrigerator-sy-ef-error-code/",
+  "meta_description": "The SY EF/5Y EF code on your Frigidaire fridge is a 'System Evaporator Fault.' This guide shows you how to troubleshoot the parts in the evaporator fan circuit.",
+  "og_title": "What the Frigidaire Fridge SY EF / 5Y EF Codes Mean",
+  "og_description": "No more cold shoulders from your Frigidaire refrigerator! With this repair guide, you'll understand that 'SY EF' or '5Y EF' error and know just how to set things right.",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125384/Frigidaire-SY-EF-Refrigerator-Fault-Code-Guide-open-graph.png",
+  "twitter_title": "What the Frigidaire Fridge SY EF / 5Y EF Codes Mean",
+  "twitter_description": "No more cold shoulders from your Frigidaire refrigerator! With this repair guide, you'll understand that 'SY EF' or '5Y EF' error and know just how to set things right.",
+  "twitter_image": "Frigidaire-SY-EF-Refrigerator-Fault-Code-Guide-card.png",
+  "twitter_hashtags": [
+    "frigidaire",
+    "refrigerators",
+    "sy ef",
+    "5y ef",
+    "repair guide",
+    "troubleshooting"
+  ],
+  "header_image": null,
+  "title": "What the Frigidaire Fridge SY EF / 5Y EF Codes Mean",
+  "subtitle": "Simple Fixes for a Frigidaire Fridge That Will Not Cool",
+  "table_of_contents": [
+    {
+      "text": "What Does the SY EF / 5Y EF Error Mean on a Frigidaire Refrigerator?",
+      "is_subsection": false
+    },
+    {
+      "text": "What Will You Notice With the SY/5Y EF Error?",
+      "is_subsection": true
+    },
+    {
+      "text": "What Is the SY/5Y EF Error Caused By?",
+      "is_subsection": true
+    },
+    {
+      "text": "Troubleshooting Guide to Fix a SY/5Y EF Error on a Frigidaire Refrigerator",
+      "is_subsection": false
+    },
+    {
+      "text": "Safety Precautions",
+      "is_subsection": true
+    },
+    {
+      "text": "Things to Check",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Troubleshoot the Evaporator Fan to Fix a SY/5Y EF Error",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Inspect and Replace the Evaporator Fan on a Frigidaire Refrigerator",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Troubleshoot the Evaporator Fan Motor to Fix a SY/5Y EF Error",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Inspect the Evaporator Fan Motor on a Frigidaire Refrigerator",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Test and Replace the Evaporator Fan Motor on a Frigidaire Refrigerator",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Troubleshoot the Main Control Board to Fix a SY/5Y EF Error",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Inspect the Main Control Board on a Frigidaire Refrigerator",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Test and Replace the Main Control Board on a Frigidaire Refrigerator",
+      "is_subsection": true
+    },
+    {
+      "text": "Preventing Future SY/5Y EF Errors on a Frigidaire Refrigerator",
+      "is_subsection": false
+    },
+    {
+      "text": "Maintain Proper Ventilation",
+      "is_subsection": true
+    },
+    {
+      "text": "Inspect the Door Gaskets",
+      "is_subsection": true
+    },
+    {
+      "text": "Defrost the Freezer When Needed",
+      "is_subsection": true
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "What Does the SY EF / 5Y EF Error Mean on a Frigidaire Refrigerator?",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These codes are short for 'System Evaporator Fault.' It will show up as 'Sy EF' or '5y EF' on the display. These codes might look slightly different because of how they appear on the screen, but they are the same error code!",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Your fridge has a team of parts that work together to keep things cold: there's an evaporator fan, a motor that powers this fan, some wiring, and the fridge's main control board. But if you see these codes light up, it's the fridge's way of saying something's not right with any of those parts.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "What Will You Notice With the SY/5Y EF Error?",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If these codes flash up, your fridge has a few ways of letting you know it's not feeling chill:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Fridge Is Not Keeping Cold: Whether it's the fridge or freezer section, things just aren’t as chilly. Your ice cream's gone mushy, or your beverages aren’t refreshing anymore.",
+              "bold_parts": [
+                "Fridge Is Not Keeping Cold:"
+              ]
+            },
+            {
+              "text": "Ice Buildup on the Fan Blades: You could spot frost or even thick ice chunks forming around the fan area, making it harder for the fan to move freely.",
+              "bold_parts": [
+                "Ice Buildup on the Fan Blades:"
+              ]
+            },
+            {
+              "text": "Odd Noises Coming from the Fridge: You might hear beeping, ticking, or grinding sounds you haven’t noticed before. The fan and the motor might chirp or squeal.",
+              "bold_parts": [
+                "Odd Noises Coming from the Fridge:"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "What Is the SY/5Y EF Error Caused By?",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Every problem has a cause, and this one's no different:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Evaporator Fan Motor Issues: The fan motor is the heart of the fan. If it gets blocked, freezes up, or stops, the fan can’t circulate cold air around.",
+              "bold_parts": [
+                "Evaporator Fan Motor Issues:"
+              ]
+            },
+            {
+              "text": "Communication Issues: The control board acts as the fridge's brain. If it can’t talk properly to the motor, things can go a little haywire.",
+              "bold_parts": [
+                "Communication Issues:"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Troubleshooting Guide to Fix a SY/5Y EF Error on a Frigidaire Refrigerator",
+      "level": 2,
+      "content": []
+    },
+    {
+      "heading": "Safety Precautions",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Before we get started with fixing things, make sure to unplug your fridge first. And pop on some gloves; they’ll help keep your hands safe from cuts or nicks while you're poking around inside.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Things to Check",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sometimes, you can get rid of the SY EF error by fixing these common mistakes. Be sure you're not making these slip-ups:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Are the Vents Clear? If you have food boxes blocking the vents, it can stop the cold air from moving around your fridge. Rearrange, organize, and remove some of the things that might be in the way.",
+              "bold_parts": [
+                "Are the Vents Clear?"
+              ]
+            },
+            {
+              "text": "Is the Fridge Door Closing Properly? The gaskets, those rubber strips around the door edges, help keep it sealed. If they're damaged, warm air can sneak in. If yours looks worn or ripped, it might be time for a new one.",
+              "bold_parts": [
+                "Is the Fridge Door Closing Properly?"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Troubleshoot the Evaporator Fan to Fix a SY/5Y EF Error",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If it’s time to bust out your handy toolbox, you will want to take a close look at your evaporator fan first. The evaporator fan circulates cold air within the refrigerator to keep everything evenly chilled and frost-free. If it malfunctions or is blocked, it can mess with the airflow, setting off that SY EF alert.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Inspect and Replace the Evaporator Fan on a Frigidaire Refrigerator",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Grab your fridge manual for help on reaching the fan. For many Frigidaire fridges, the fan's behind the wall in the freezer. Begin by emptying out shelves, drawers, or baskets. It's often as easy as lifting and sliding them out. If there's a bar on rollers, remove it. If your fridge has an ice maker, unscrew it and unplug the connecting wires. Keep going until you reach the evaporator cover.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Before moving on, check the cover for ice, especially around any screw holes or vents. Ice here suggests there might be more behind. Don't force the cover off, as it could break. If there’s ice, let your fridge warm up for 48 hours or see if your manual tells you how to use the defrost setting. Place a towel at the bottom of the fridge for any melting water. If there's no ice, then go on and take off that cover. That's where you'll spot the fan.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Now that you can see the fan, look for its wire connector and inspect it for any obvious wear and tear. If the fan is nestled inside a protective casing, remove the rings or brackets that might be holding it in place. The fan blades should be free and able to spin. If they’re blocked, broken, or icy, it's likely time for a replacement.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If a new fan is in order, fit it onto the motor’s shaft, then put everything back, starting with the evaporator cover and working your way out.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Explore our genuine OEM evaporator fans.",
+          "links": [
+            {
+              "text": "evaporator fans.",
+              "url": "https://www.partselect.com/Refrigerator-Fans-and-Blowers.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Troubleshoot the Evaporator Fan Motor to Fix a SY/5Y EF Error",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If the fan is in good shape, then its motor could be causing trouble. The motor powers the fan's rotation, and if it’s not working, the fan can’t do its job. This can make your fridge warm and cause the SY EF error.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Inspect the Evaporator Fan Motor on a Frigidaire Refrigerator",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You're already near the fan blades, so the motor is close by. Try spinning the fan with your hand. If it's hard to move, the motor might be the issue.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Take off the blade and anything around the motor. Check the motor for any damage, like frayed wires or burn marks.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Test and Replace the Evaporator Fan Motor on a Frigidaire Refrigerator",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Your fridge fan uses a 12-volt motor. To see if it's working, use a multimeter set to volts DC. Follow your fridge's manual to find the right terminals to test the fan motor. It should show 12 volts. If it's under 8 volts, the motor needs replacing.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If you're switching out the motor, take any mounts from your old motor and attach them to the new one. Fit the new motor in place, making sure it's held firm with its bracket. Slide the fan blade back and reconnect the wiring. After that, reassemble everything in order.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Explore our genuine OEM evaporator fan motors.",
+          "links": [
+            {
+              "text": "evaporator fan motors.",
+              "url": "https://www.partselect.com/Refrigerator-Motors.htm\"target=\"_blank\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Troubleshoot the Main Control Board to Fix a SY/5Y EF Error",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The main control board is like the fridge's brain. It manages many tasks. If it can't communicate with parts like the fan, the SY EF error might show up because the fridge can't control temperatures properly.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Inspect the Main Control Board on a Frigidaire Refrigerator",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If your fridge has doors side-by-side, open both of them. If your freezer is on top, pull out the drawer. Remove the lower grill or kick plate from the base of the fridge.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Use a big, flat screwdriver to gently push down and pull the board's cover forward. Remember how the wires are connected. Taking a picture with your phone can help you remember. Once you know how the wires go, unplug them. Then, remove the plug from the test port. After that, you can take out the old board.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Test and Replace the Main Control Board on a Frigidaire Refrigerator",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "With your trusty multimeter, you can test the control board. Here’s a quick rundown of the wires on the board:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Brown Wire: It's the common or ground wire. It ensures that electricity flows smoothly through the system and safely returns to the source, completing the circuit.",
+              "bold_parts": [
+                "Brown Wire:"
+              ]
+            },
+            {
+              "text": "Blue Wire: It tells the main board how fast the fan is spinning. If the fan's too fast or slow, the blue wire sends a signal to adjust it.",
+              "bold_parts": [
+                "Blue Wire:"
+              ]
+            },
+            {
+              "text": "Yellow Wire: It controls the fan's speed. The control board can adjust the voltage on this wire to make the fan spin faster or slower.",
+              "bold_parts": [
+                "Yellow Wire:"
+              ]
+            },
+            {
+              "text": "Red Wire: It supplies a steady 12 VDC, making sure all parts of the fridge have the power they need to work right.",
+              "bold_parts": [
+                "Red Wire:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A working board will show 12 to 14 VDC between the brown and red wires on your multimeter. For brown to yellow and brown to blue, it should read 8 to 14 VDC.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If you're putting in a new board, slide it in and reconnect all the wires. Don’t forget to put the test port plug back! Slide everything back in place and clip the grille back.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "If all this seems overwhelming, it might be time to call in a pro for some help.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Explore our genuine OEM main control boards.",
+          "links": [
+            {
+              "text": "main control boards.",
+              "url": "https://www.partselect.com/Refrigerator-Circuit-Boards-and-Touch-Pads.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Preventing Future SY/5Y EF Errors on a Frigidaire Refrigerator",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To avoid the SY EF message popping up again, here's what you should do:",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Maintain Proper Ventilation",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Your fridge needs room to breathe, just like you! Check where the vents are on your fridge. They could be between the freezer and fridge sections or at the back. Make sure they aren't blocked, so cold air flows easily.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Inspect the Door Gaskets",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The doors have soft rubber seals called gaskets. They keep the cold in when the doors are shut. Look to see they're clean and not damaged. If warm air sneaks in, the fridge has to work more, and you might get frost inside.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "To remove a fridge door gasket, start at one corner and gently pull it away from its track, working your way around the door. If your new seal looks bent or twisted when you first take it out, soak it in warm water or use a hairdryer on a low setting to make it pliable. Once it's more flexible, install it in the door, making sure that it lies flat and seals well.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Defrost the Freezer When Needed",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you see a lot of ice building up in the freezer, it's time for a defrost. Too much ice blocks the air and makes the fan work harder.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "Check your user manual. Your fridge may have a special defrost setting, sometimes called “forced defrost”. On a few models, pressing the ‘+’ and ‘-’ buttons at the same time for about 10 seconds will do the trick. This heats up the ice maker, freezer, and fresh food areas.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "And just like that, with a pinch of patience and a sprinkle of elbow grease, you've cracked the SY EF code! Here's to enjoying a fridge that's as cool and composed as you are.",
+          "links": null
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "September 28, 2023",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [
+    {
+      "title": "Why is my Refrigerator Not Cooling?",
+      "description": "If your refrigerator is not cooling, check these common parts. We'll walk y...",
+      "url": "/blog/refrigerator-not-cooling/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/73098/Refrigerator-Not-Cooling-card.png"
+    },
+    {
+      "title": "How to Clean a Smelly Fridge",
+      "description": "Tips for freshening up the interior and stainless steel exterior of your re...",
+      "url": "/blog/cleaning-a-smelly-fridge/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/73071/How-to-Clean-Your-Smelly-Stainless-Steel-Fridge-card.png"
+    },
+    {
+      "title": "Troubleshooting Frost Buildup in your Fridge/Freezer",
+      "description": "Keep your freezer ice-cold and free of frost by checking these most common ...",
+      "url": "/blog/fridge-frost-buildup-troubleshoot/",
+      "image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/59219/Controlling-Frost-Buildup-card.png"
+    }
+  ],
+  "social_sharing": {
+    "twitter_message": "Frigidaire refrigerator acting frosty with an 'SY EF' or '5Y EF' error code? Warm up to our guide and melt away those woes!",
+    "twitter_hashtags": "frigidaire, refrigerators, sy ef, 5y ef, repair guide, troubleshooting",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "No more cold shoulders from your Frigidaire refrigerator! With this repair guide, you'll understand that 'SY EF' or '5Y EF' error and know just how to set things right.",
+    "pinterest_image": "Frigidaire-SY-EF-Refrigerator-Fault-Code-Guide-open-graph.png"
+  }
+}

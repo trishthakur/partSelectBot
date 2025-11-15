@@ -1,0 +1,462 @@
+{
+  "url": "https://www.partselect.com/blog/refrigerator-humming-noise/",
+  "page_type": "blog_article",
+  "canonical_url": "https://www.partselect.com/blog/refrigerator-humming-noise/",
+  "meta_description": "Learn more about why hearing humming, buzzing, and rattling noises from your refrigerator aren't as bad as you think, but some noises should make you concerned!",
+  "og_title": "Why is Your Fridge Making Humming Noises?",
+  "og_description": "Refrigerators make several different noises and most of them are normal - but some are not! Find out which are actually damaging your fridge right now!",
+  "og_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/125542/Fixing-a-Humming-Noise-in-a-Refrigerator-open-graph.png",
+  "twitter_title": null,
+  "twitter_description": "Refrigerators make several different noises and most of them are normal - but some are not! Find out which are actually damaging your fridge right now!",
+  "twitter_image": "Fixing-a-Humming-Noise-in-a-Refrigerator-card.png",
+  "twitter_hashtags": [
+    "refrigerator",
+    "fridge",
+    "diy",
+    "ge",
+    "electrolux",
+    "appliances",
+    "repair"
+  ],
+  "header_image": null,
+  "title": "Why is Your Fridge Making Humming Noises?",
+  "subtitle": "Fix the hum in your fridge!",
+  "table_of_contents": [
+    {
+      "text": "Refrigerator Noise Meanings",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Fix a Refrigerator Evaporator Fan to Solve Loud Humming Noises",
+      "is_subsection": false
+    },
+    {
+      "text": "Remove Food Items from Evaporator Fan",
+      "is_subsection": true
+    },
+    {
+      "text": "Thaw and Remove Ice from Evaporator Fan",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Replace an Evaporator Fan Motor",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Fix the Defrost System to Solve Frost Buildup",
+      "is_subsection": false
+    },
+    {
+      "text": "How to Replace a Defrost Thermostat to Fix Refrigerator Frost Buildup",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Replace a Defrost Heater to Fix Refrigerator Frost Buildup",
+      "is_subsection": true
+    },
+    {
+      "text": "How to Replace a Defrost Timer to Fix Refrigerator Frost Buildup",
+      "is_subsection": true
+    },
+    {
+      "text": "What to Do If Your Refrigerator Continues to Hum Loudly",
+      "is_subsection": false
+    }
+  ],
+  "content_sections": [
+    {
+      "heading": "Refrigerator Noise Meanings",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Occasional, low noises coming from your refrigerator are completely normal, and nothing to be concerned about – but there are definitely some noises that you will want to take more seriously than others. Here is a list of most refrigerator noises you'll hear, and what they mean:",
+          "links": null
+        },
+        {
+          "type": "unordered_list",
+          "items": [
+            {
+              "text": "Quiet Hum/Buzz: A low, quiet or subtle hum/buzz is a normal occurrence for most refrigerator models. This hum may be accompanied by a winding noise when the compressor turns on.",
+              "bold_parts": [
+                "Quiet Hum/Buzz:"
+              ]
+            },
+            {
+              "text": "Loud Hum/Buzz: A louder hum or buzz may be an indication that the compressor is being overworked, meaning it could be dirty and needs cleaning, or if there is something warm left in the refrigerator and now the motor has to overcompensate to keep the fridge cool. It may also be the ice maker trying to produce ice, but if you don't have a water line connected to your fridge, ensure this is turned off.",
+              "bold_parts": [
+                "Loud Hum/Buzz:"
+              ]
+            },
+            {
+              "text": "Very Loud Hum: If your refrigerator is consistently producing a loud hum or buzz noise from its bottom and/or rear side, it means the compressor is likely failing and in need of service or replacement. A hum of this level will usually only come from an older refrigerator model, since most fridge models last between 15-20 years.",
+              "bold_parts": [
+                "Very Loud Hum:"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Fix a Refrigerator Evaporator Fan to Solve Loud Humming Noises",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If the evaporator fan in your refrigerator is blocked by ice, if its airway is blocked by food items, or if its motor is bad and needs replacing, your refrigerator will begin to hum or buzz loudly. Luckily, the evaporator can be fixed, and doing so is a repair that anyone can do!",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Remove Food Items from Evaporator Fan",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Depending on your refrigerator model, food items can block and clog the airway of the evaporator fan, preventing it from properly distributing cool air within the cabinet of the refrigerator and causing both the compressor and evaporator to work harder and hum or buzz distinctly loud. Simply moving food out of the way of the fan and clearing off any built-up frost should fix the humming and noise issue.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "Thaw and Remove Ice from Evaporator Fan",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Evaporator fans help maintain the internal temperature in your refrigerator. They pull warm air from the appliance through the evaporator coils to cool it. Depending on the model of refrigerator, the evaporator fan motor may also be used to circulate that cooled air. However, if the defrost system malfunctions or if any parts within it don't work properly, the fan mechanism will experience frost buildup and produce a humming or buzzing noise. If your refrigerator is experiencing defrost issues and significant frost buildup, we have a general how-to guide on how to fix it!",
+          "links": [
+            {
+              "text": "general how-to guide",
+              "url": "https://www.partselect.com/blog/frigidaire-refrigerator-h1-hi-error-code/"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Locate the evaporator fan. The evaporator fan is normally located in the freezer cabinet or compartment.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove any food items or shelves blocking the fan.",
+              "bold_parts": null
+            },
+            {
+              "text": "Unthread and remove any panels covering the fan.",
+              "bold_parts": null
+            },
+            {
+              "text": "Once you gain access to the fan, use a hair dryer or similar tool to thaw any built-up ice or frost around the fan.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use a towel to soak up and remove any moisture from the fan area.",
+              "bold_parts": null
+            },
+            {
+              "text": "Once all ice or frost is melted, ensure the fan moves freely before reinstalling the cover panel.",
+              "bold_parts": null
+            },
+            {
+              "text": "If the fan does not move freely, you will likely need to replace the evaporator fan motor.",
+              "bold_parts": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "How to Replace an Evaporator Fan Motor",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If the evaporator fan blade does not move freely within the evaporator mechanism, it means that the motor is bad or broken and needs replacing in order to function properly. Fortunately, we have a huge inventory of OEM refrigerator evaporator fan motors, and the guide you need to properly replace it:",
+          "links": [
+            {
+              "text": "OEM refrigerator evaporator fan motors",
+              "url": "https://www.partselect.com/Refrigerator-Motors.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Locate your refrigerator's evaporator fan and gain access to it by removing any food items or shelves in front of it and unthreading any cover panels.",
+              "bold_parts": null
+            },
+            {
+              "text": "Disconnect any wire harnesses to the fan motor and unthread its housing to remove it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove the fan's blade and and unthread the motor from its housing.",
+              "bold_parts": null
+            },
+            {
+              "text": "Install the new motor and ensure it's secure within its housing.",
+              "bold_parts": null
+            },
+            {
+              "text": "Seat and install the housing within the appropriate compartment.",
+              "bold_parts": null
+            },
+            {
+              "text": "Connect the necessary wire harnesses and screws.",
+              "bold_parts": null
+            },
+            {
+              "text": "Reconnect any cover panels and install previously removed shelves and their food items.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Below is a general video guide showing how to replace a refrigerator evaporator fan motor.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Fix the Defrost System to Solve Frost Buildup",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The defrost system within your refrigerator, made up of the defrost timer, thermostat, and heater, is designed to melt ice and frost buildup within the cooling systems of the fridge. This is done to ensure your food items are kept cold at all times, without the risk of frost or ice building up and causing issues. If either of these parts fails or stops working properly, ice and frost will buildup and the evaporator fan will eventually begin making a humming or buzzing noise.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Replace a Defrost Thermostat to Fix Refrigerator Frost Buildup",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For this repair, you will need a screwdriver, and you may require a wire stripper and crimper, heat-shrinking tubes, a heat gun, and a new defrost thermostat which you can find in our wide range of OEM refrigerator thermostats.",
+          "links": [
+            {
+              "text": "OEM refrigerator thermostats",
+              "url": "https://www.partselect.com/Refrigerator-Thermostats.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Disconnect your fridge from its wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the evaporator fan and remove any shelves and food items to access it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Unthread any cover panels to the evaporator.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the thermostat within the evaporator assembly.",
+              "bold_parts": null
+            },
+            {
+              "text": "If the thermostat has an easy-access plug, unplug it and and plug in the new thermostat and skip to step . If not, cut the old wire and remove it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Strip a small part of the wire from the wiring harness from the fridge and from the new thermostat.",
+              "bold_parts": null
+            },
+            {
+              "text": "Attach the new wire leads together and crimp them, and apply heat shrink tubing over each connected wire.",
+              "bold_parts": null
+            },
+            {
+              "text": "With all wires connected properly, secure them as they were and resecure the evaporator cover.",
+              "bold_parts": null
+            },
+            {
+              "text": "Plug your refrigerator back in and leave it to see whether the frost returns.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Below is a general video guide on how to replace the defrost thermostat.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Replace a Defrost Heater to Fix Refrigerator Frost Buildup",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you've replaced the defrost thermostat and frost is continuing to buildup, it's likely an issue with the defrost heater, which is supposed to activate and melt any and all ice or frost. Replacing this part is not difficult, and likely will only require a screwdriver and a new defrost heater which you can find in our selection of OEM refrigerator elements and burners.",
+          "links": [
+            {
+              "text": "OEM refrigerator elements and burners.",
+              "url": "https://www.partselect.com/Refrigerator-Elements-and-Burners.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Disconnect your refrigerator from its wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the defrost evaporator coil assembly in your refrigerator. This is normally located in the freezer compartment. You may need to empty the compartment to access the evaporator assembly.",
+              "bold_parts": null
+            },
+            {
+              "text": "Unthread and remove the cover panel of the evaporator assembly.",
+              "bold_parts": null
+            },
+            {
+              "text": "Depending on your model, the visual appearance and complexity of your defrost heater may differ. However, you simply need to disconnect any wire harnesses connected between the heater and the evaporator assembly.",
+              "bold_parts": null
+            },
+            {
+              "text": "Unthread or simply pull the heater carefully out of the evaporator assembly to remove it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Take the new heater and install it by securing it onto the evaporator assembly.",
+              "bold_parts": null
+            },
+            {
+              "text": "Connect any and all necessary wires to the new heater.",
+              "bold_parts": null
+            },
+            {
+              "text": "Ensure everything is secured properly before reinstalling the cover panel.",
+              "bold_parts": null
+            },
+            {
+              "text": "Reconnect the refrigerator to power and monitor it to check for frost or ice buildup.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Below is a general video guide for how to replace a refrigerator defrost heater.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "How to Replace a Defrost Timer to Fix Refrigerator Frost Buildup",
+      "level": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you've replaced your refrigerator's defrost thermostat and heater, and you are still finding frost buildup around the evaporator fan causing it to hum, the defrost timer is likely bad and not running for as long as necessary. For this repair, you will need a screwdriver and a new defrost timer, which you can conveniently find in our inventory of OEM refrigerator timers!",
+          "links": [
+            {
+              "text": "OEM refrigerator timers",
+              "url": "https://www.partselect.com/Refrigerator-Timers.htm"
+            }
+          ]
+        },
+        {
+          "type": "ordered_list",
+          "items": [
+            {
+              "text": "Disconnect your refrigerator from its wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Locate the defrost timer. It is usually located in the ceiling of the fridge's interior, although if it's elsewhere you may need your user manual for assistance.",
+              "bold_parts": null
+            },
+            {
+              "text": "Use your screwdriver to remove the defrost timer's housing to access it.",
+              "bold_parts": null
+            },
+            {
+              "text": "Remove the wire harness of the old timer and unthread it to remove it completely.",
+              "bold_parts": null
+            },
+            {
+              "text": "(Optional) You can test the timer using a multimeter, to check for continuity. A beep or a visual indication of continuity means it is still working, whereas no response means it is bad and needs replacement.",
+              "bold_parts": null
+            },
+            {
+              "text": "Install the new defrost timer by connecting any wire harnesses and securing it within the housing.",
+              "bold_parts": null
+            },
+            {
+              "text": "Reassemble the defrost timer housing and connect the fridge to the wall outlet.",
+              "bold_parts": null
+            },
+            {
+              "text": "Monitor your fridge and freezer for any more frost buildup.",
+              "bold_parts": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Below is a general video guide on how to replace the defrost timer.",
+          "links": null
+        }
+      ]
+    },
+    {
+      "heading": "What to Do If Your Refrigerator Continues to Hum Loudly",
+      "level": 2,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you've replaced the evaporator fan motor, defrost timer, thermostat, and heater, and your refrigerator is continuing to produce loud or abnormal humming or buzzing noises, it is likely an issue with its compressor. Compressor repairs are quite costly and difficult to do, even for repair-savvy individuals, because of the hazardous and toxic materials, like refrigerant, used within refrigerators – this is why we recommend compressor repairs be left to qualified repair technicians.",
+          "links": null
+        },
+        {
+          "type": "paragraph",
+          "text": "For all other refrigerator or non-refrigerator-related repair and home improvement blog articles, stay tuned to our PartSelect blog! And for the appliances and equipment in your home that need repairing, we have you covered with OEM parts at PartSelect.com!",
+          "links": [
+            {
+              "text": "PartSelect blog",
+              "url": "https://www.partselect.com/blog/"
+            },
+            {
+              "text": "PartSelect.com",
+              "url": "https://www.partselect.com/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": {
+    "name": "CONTENT TEAM",
+    "profile_url": "/blog/authors/content-team/",
+    "profile_image": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/content/58701/ps-profile-photo.png",
+    "bio": "The PartSelect Content Team has a passion for DIY and we pride ourselves on being a resource for quality, expert content to help you accomplish any DIY project. Alongside our expert repair technicians, our team of experienced technical writers works to provide safe and reliable information on all tasks and jobs around your home. We spend time learning about the problems and projects that our customers are working on, and we make it our job to answer key questions and provide resources for every step along the way. Repairs and DIY projects are what we do, and the PartSelect Content Team wants to help you do them, too.",
+    "published_date": "November 17, 2023",
+    "written_by_text": "WRITTEN BYCONTENT TEAM"
+  },
+  "related_articles_title": "RELATED ARTICLES",
+  "related_articles": [],
+  "social_sharing": {
+    "twitter_message": "Ever wondered why your refrigerator makes so much noise, and what those noises mean? We'll tell you all you need to know, so you can always feel reassured!",
+    "twitter_hashtags": "refrigerator, fridge, diy, ge, electrolux, appliances, repair",
+    "twitter_via": "PartSelect",
+    "pinterest_message": "Refrigerators make several different noises and most of them are normal - but some are not! Find out which are actually damaging your fridge right now!",
+    "pinterest_image": "Fixing-a-Humming-Noise-in-a-Refrigerator-open-graph.png"
+  }
+}
