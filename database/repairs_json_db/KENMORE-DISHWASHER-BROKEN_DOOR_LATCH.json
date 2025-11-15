@@ -1,0 +1,53 @@
+{
+  "url": "https://www.partselect.com/Repair/Dishwasher/Kenmore/Door-Latch-Failure/",
+  "page_type": "repair",
+  "page_title": "How To Fix A Broken Kenmore Dishwasher Door Latch",
+  "breadcrumb": "REPAIR > KENMORE DISHWASHER > BROKEN DOOR LATCH",
+  "brand": "KENMORE",
+  "appliance_type": "DISHWASHER",
+  "symptom": "BROKEN DOOR LATCH",
+  "main_video_id": "2Jy2G2FNSWg",
+  "main_video_url": "https://www.youtube.com/watch?v=2Jy2G2FNSWg",
+  "main_video_thumbnail": null,
+  "main_video_title": "How To Fix A Broken Kenmore Dishwasher Door Latch",
+  "difficulty_rating": "Rated as REALLY EASY",
+  "total_repair_stories": "1239 repair stories",
+  "total_videos": "4 step by step videos",
+  "quick_navigation": [
+    {
+      "part_name": "Door Latch Assembly",
+      "anchor_id": "DoorLatch"
+    }
+  ],
+  "common_failing_parts": [
+    {
+      "part_name": "Door Latch Assembly",
+      "section_id": "DoorLatch",
+      "description": [
+        "If your door latch is not working properly, the first thing to inspect should be the door catch. The door catch is attached to the top of the Kenmore Dishwasher tub and is normally adjustable. If not adjusted properly it can cause the door latch to not activate and will prevent the Kenmore Dishwasher from working, or it may not close the door tight enough to prevent a leak. The door latch may also be worn and no longer creates a tight fit, in which case the door latch will need to be replaced.",
+        "How to test a Kenmore Dishwasher door latch assembly with a multimeter:"
+      ],
+      "troubleshooting_steps": [
+        "Verify that you have unplugged your Kenmore Dishwasher before beginning.",
+        "The door latch assembly is most often found inside the inner door panel, near the top of the door. Remove your inner door panel and locate the door latch assembly.",
+        "Inspect the door catch to verify that it is mechanically activating the switches. If it is, remove the switches in order to test them for continuity.",
+        "Set your multimeter to Rx1 and touch the terminals with the probes. You are testing for continuity and should receive a reading of exactly or nearly zero.",
+        "If your test produces any other reading, you will need a replacement door latch assembly."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Latches.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Latches",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2180047_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2100170_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1145447_1_N.JPG"
+      ]
+    },
+    {
+      "part_name": "More Repair Parts",
+      "section_id": null
+    }
+  ],
+  "data_modeltype": "Dishwasher",
+  "data_page_type": "Repair",
+  "data_page_name": "Repair"
+}

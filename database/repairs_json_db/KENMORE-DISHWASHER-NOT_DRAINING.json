@@ -1,0 +1,178 @@
+{
+  "url": "https://www.partselect.com/Repair/Dishwasher/Kenmore/Not-Draining/",
+  "page_type": "repair",
+  "page_title": "How To A Fix Kenmore Dishwasher That Won't Drain",
+  "breadcrumb": "REPAIR > KENMORE DISHWASHER > NOT DRAINING",
+  "brand": "KENMORE",
+  "appliance_type": "DISHWASHER",
+  "symptom": "NOT DRAINING",
+  "main_video_id": "9DqYkzF0qVM",
+  "main_video_url": "https://www.youtube.com/watch?v=9DqYkzF0qVM",
+  "main_video_thumbnail": null,
+  "main_video_title": "How To A Fix Kenmore Dishwasher That Won't Drain",
+  "difficulty_rating": "Rated as EASY",
+  "total_repair_stories": "564 repair stories",
+  "total_videos": "7 step by step videos",
+  "quick_navigation": [
+    {
+      "part_name": "Piston & Nut Assembly",
+      "anchor_id": "PistonAndNut"
+    },
+    {
+      "part_name": "Drain Pump & Motor",
+      "anchor_id": "DrainPumpAnd"
+    },
+    {
+      "part_name": "Check Valve Flapper",
+      "anchor_id": "CheckValve"
+    },
+    {
+      "part_name": "Belt",
+      "anchor_id": "Belt"
+    },
+    {
+      "part_name": "Timer",
+      "anchor_id": "Timer"
+    },
+    {
+      "part_name": "Drain Hose",
+      "anchor_id": "DrainHose"
+    }
+  ],
+  "common_failing_parts": [
+    {
+      "part_name": "Piston & Nut Assembly",
+      "section_id": "PistonAndNut",
+      "description": [
+        "Some models of Kenmore Dishwashers utilize a check valve as part of the drain pump. Within the check valve, there is the piston and nut assembly. If your Kenmore Dishwasher is not draining water properly, the piston and nut assembly could be the source of the problem.",
+        "How to inspect a Kenmore Dishwasher piston & nut assembly:"
+      ],
+      "troubleshooting_steps": [
+        "Disconnect your appliance from the power source.",
+        "Locate your piston & nut assembly. It likely will be found on the bottom of the tub, beneath the sump cover.",
+        "Inspect your piston & nut assembly to determine if it is functioning properly. The assembly should move up and down freely. When the piston is in the down position, it should form a tight seal. If it is not forming a complete seal, the Kenmore Dishwasher will not completely pump out the water.",
+        "If you find any issues while performing the inspection, you will need a replacement piston & nut assembly."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Parts.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Parts",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/260690_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/260690_4_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/260690_2_N.JPG"
+      ]
+    },
+    {
+      "part_name": "Drain Pump & Motor",
+      "section_id": "DrainPumpAnd",
+      "description": [
+        "All Kenmore Dishwashers will have a method to drain the water. Most models will have a single motor driven pump with two separate compartments, one for circulation and one for drain, each with its own impeller. Other types will have a separate drain pump, and some will utilize the main circulating pump in conjunction with a drain solenoid and diverter valve or flapper. On models that use a separate drain pump, you should check to see if there is any obstruction to the input and output of the pump and also verify that there is power getting to the pump motor during the drain portion of the cycle.",
+        "How to test a Kenmore Dishwasher pump with a multimeter:"
+      ],
+      "troubleshooting_steps": [
+        "Before beginning, ensure that you have disconnected your appliance from the power source.",
+        "Locate and remove your Kenmore Dishwasher pump. It likely will be found behind the lower access panel.",
+        "Once you have removed it, using a multimeter on Rx1 mode, touch the pump’s terminals with the probes. You are testing for continuity and should receive a reading of zero or nearly zero. Next, you should test the ground connection by touching one of the probes to the bare metal housing while leaving one on a terminal. This test should not produce any reading.",
+        "If the results of your tests are different from the above, you will need a replacement pump."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Pumps.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Pumps",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1156759_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2358460_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1021347_1_N.jpg"
+      ]
+    },
+    {
+      "part_name": "Check Valve Flapper",
+      "section_id": "CheckValve",
+      "description": [
+        "Some Kenmore Dishwasher models will use a check valve in the drain outlet. The check valve is used to allow water to flow in one direction but will prevent the dirty water from re-entering the Kenmore Dishwasher. If you suspect that the drain hose has a restriction or if you find that wastewater is getting back into the Kenmore Dishwasher tub, then the check valve is most likely the problem.",
+        "How to inspect the check valve flapper in a Kenmore Dishwasher:"
+      ],
+      "troubleshooting_steps": [
+        "To ensure your safety, unplug your Kenmore Dishwasher before beginning this inspection.",
+        "Locate your check valve flapper in order to inspect it. In most models, it will be found on the outlet port of the drain pump or housing. You will need to remove the lower access panel in order to inspect it.",
+        "Visually inspect the flapper for any signs of wear or damage. You should also check to see if there is any dirt or debris preventing the flapper from moving freely, remove anything you may find.",
+        "If your valve is damaged, or if you find no objects preventing it from opening properly, you will need a replacement check valve flapper."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Parts.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Parts",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/258169_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099292_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/258167_1_N.JPG"
+      ]
+    },
+    {
+      "part_name": "Belt",
+      "section_id": "Belt",
+      "description": [
+        "Some older Kenmore Dishwashers may use a belt driven pump. If the belt has come off or is slipping, then the pump that drains the Kenmore Dishwasher won’t function properly.",
+        "How to inspect a Kenmore Dishwasher belt:"
+      ],
+      "troubleshooting_steps": [
+        "Similar to other Kenmore Dishwasher inspections, disconnect your appliance from the power source before beginning.",
+        "Your Kenmore Dishwasher belt will be found behind the lower access panel, attached to a pulley on the pump assembly and to another pulley on the motor assembly. Remove the belt in order to closely inspect it.",
+        "Looking for any signs of burning, stretching, cracking, damage, or wear, inspect the belt.",
+        "If you find any issues while inspecting it, you will need a replacement belt."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Parts.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Parts",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/346995_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1617491_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/346995_3_N.JPG"
+      ]
+    },
+    {
+      "part_name": "Timer",
+      "section_id": "Timer",
+      "description": [
+        "Some Kenmore Dishwashers will use a mechanical timer to operate the cycles. The timer controls the main pump motor as well as the drain solenoid or separate drain pump motor if your model has that style. The timer is normally located in the control panel at the top of the Kenmore Dishwasher door. You will require a wiring diagram and schematic to identify the correct timer contacts that control the drain cycle. These can then be checked for continuity with a multi-meter and if defective then the timer will need to be replaced.",
+        "How to test a Kenmore Dishwasher timer with a multimeter:"
+      ],
+      "troubleshooting_steps": [
+        "Unplug your Kenmore Dishwasher before beginning this test.",
+        "Your timer will likely be found either in the control panel or behind the lower kickplate. Locate and remove your appliance’s timer in order to test it.",
+        "If your model has multiple sets of contacts/wires, you will need to refer to your owner’s manual to determine which sets to test.",
+        "Remove the timer from your appliance, set your multimeter to Rx1000, and touch the contacts/wires with the probes. In most models, a functional timer will produce a reading of 2000-3500 ohms of resistance, but this varies from model to model. Please refer to your owner's manual to determine what reading you should see.",
+        "If the results of your test are different than the manufacturer’s guidelines, you will need a replacement timer."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Timers.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Timers",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099805_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/959249_4_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/260113_3_N.JPG"
+      ]
+    },
+    {
+      "part_name": "Drain Hose",
+      "section_id": "DrainHose",
+      "description": [
+        "A Kenmore Dishwasher will not drain properly if it has a restricted or clogged drain hose. Restrictions typically appear most often at the outlet from the pump or drain housing where a check valve may be located, at the input to the household drain system or anywhere that a kink may have formed in the drain hose. If food debris has caused a restriction, then you should check the condition of the food chopper as a possible source of the problem.",
+        "How to inspect a Kenmore Dishwasher drain hose:"
+      ],
+      "troubleshooting_steps": [
+        "Verify that the water and power sources have been disconnected from your Kenmore Dishwasher before beginning this inspection.",
+        "Remove the lower access panel of your appliance and locate the drain. It will be connected to a pump below the lower spray arm.",
+        "Remove the hose in order to inspect the drain hose closely. You are looking for any visible signs of cracking, damage or wear. You should also attempt to run water through the hose to determine if there is a blockage inside.",
+        "If any issues are found while doing the inspections above, you will need a replacement hose."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Hoses-and-Tubes.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Hoses and Tubes",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099278_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/260675_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2202714_1_N.JPG"
+      ]
+    },
+    {
+      "part_name": "More Repair Parts",
+      "section_id": null
+    }
+  ],
+  "data_modeltype": "Dishwasher",
+  "data_page_type": "Repair",
+  "data_page_name": "Repair"
+}

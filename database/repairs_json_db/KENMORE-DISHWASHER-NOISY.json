@@ -1,0 +1,102 @@
+{
+  "url": "https://www.partselect.com/Repair/Dishwasher/Kenmore/Noisy/",
+  "page_type": "repair",
+  "page_title": "How To Fix A Noisy Kenmore Dishwasher",
+  "breadcrumb": "REPAIR > KENMORE DISHWASHER > NOISY",
+  "brand": "KENMORE",
+  "appliance_type": "DISHWASHER",
+  "symptom": "NOISY",
+  "main_video_id": "A8BeQ5qJyp4",
+  "main_video_url": "https://www.youtube.com/watch?v=A8BeQ5qJyp4",
+  "main_video_thumbnail": null,
+  "main_video_title": "How To Fix A Noisy Kenmore Dishwasher",
+  "difficulty_rating": "Rated as REALLY EASY",
+  "total_repair_stories": "989 repair stories",
+  "total_videos": "10 step by step videos",
+  "quick_navigation": [
+    {
+      "part_name": "Pump",
+      "anchor_id": "Pump"
+    },
+    {
+      "part_name": "Wash Arm Bearing Ring & Spray Arm Seal",
+      "anchor_id": "WashArmBearing"
+    },
+    {
+      "part_name": "Spray Arms",
+      "anchor_id": "SprayArms"
+    }
+  ],
+  "common_failing_parts": [
+    {
+      "part_name": "Pump",
+      "section_id": "Pump",
+      "description": [
+        "A defective pump could be the reason your Kenmore Dishwasher is making loud noises. The function of the pump is to pressurize the spray arms, and in most models, it is also used to drain the water. The pump sits at the bottom of the Kenmore Dishwasher and typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter. The impellers are driven by an electric motor that is attached to the bottom or side of the pump.",
+        "How to test a Kenmore Dishwasher pump with a multimeter:"
+      ],
+      "troubleshooting_steps": [
+        "Unplug your Kenmore Dishwasher before beginning this test; you will be handling electrical components.",
+        "Remove the pump in order to test it. The pump is usually found behind the lower access panel.",
+        "Using a multimeter on Rx1, place the probes onto the terminals to test for continuity. You should receive a reading of zero or nearly zero. To test the ground connection, with one probe still on a terminal, touch the other probe to the bare metal housing of the pump. You should not receive any reading from this test.",
+        "If your test results do not match those above, you will need a replacement pump."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Pumps.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Pumps",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2353893_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/259582_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/260804_1_N.jpg"
+      ]
+    },
+    {
+      "part_name": "Wash Arm Bearing Ring & Spray Arm Seal",
+      "section_id": "WashArmBearing",
+      "description": [
+        "If your Kenmore Dishwasher is noisy, the cause could be a wash arm seal or bearing ring. These parts are plastic rings that support the wash arm or the spray arm and that the arm rotates on. Either of these parts could be loose or be worn, causing the spray arm to not function properly.",
+        "How to inspect your wash arm bearing ring & spray arm seal:"
+      ],
+      "troubleshooting_steps": [
+        "While you will not be disassembling your appliance, we still recommend unplugging your appliance before beginning.",
+        "Locate your wash arm bearing ring & spray arm seal. They will be found attached to the spray/wash arms.",
+        "Visually inspect them for signs of wear, cracking, or damage. You may need to remove the spray/wash arms to fully inspect them, depending on your model.",
+        "If you find signs of the above symptoms, you will need replacement wash arm bearing rings and/or spray arm seals."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Bearings.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Bearings",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/343923_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402231_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402231_1_N.JPG"
+      ]
+    },
+    {
+      "part_name": "Spray Arms",
+      "section_id": "SprayArms",
+      "description": [
+        "Water is forced through the Kenmore Dishwasher spray arms to spray water and detergent around the Kenmore Dishwasher. All Kenmore Dishwashers have a lower spray arm located at the bottom of the Kenmore Dishwasher, and some Kenmore Dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the Kenmore Dishwasher tub.",
+        "How to inspect Kenmore Dishwasher spray arms:"
+      ],
+      "troubleshooting_steps": [
+        "For safety, disconnect the power from your appliance before beginning.",
+        "Manually spin your spray arms to ensure they are not hitting the racks and are turning freely. The spray arms should not be wobbly.",
+        "Visually inspect your spray arms for any signs of wear, cracking, or damage.",
+        "If you find any issues while performing the checks above, you will need replacement spray arms."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Spray-Arms.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Spray Arms",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2100078_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2340930_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2099972_2_N.JPG"
+      ]
+    },
+    {
+      "part_name": "More Repair Parts",
+      "section_id": null
+    }
+  ],
+  "data_modeltype": "Dishwasher",
+  "data_page_type": "Repair",
+  "data_page_name": "Repair"
+}

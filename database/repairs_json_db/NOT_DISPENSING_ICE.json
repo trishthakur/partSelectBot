@@ -1,0 +1,95 @@
+{
+  "url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Ice/",
+  "page_type": "repair",
+  "page_title": "How To Fix A Refrigerator That's Not Dispensing Ice",
+  "breadcrumb": "REPAIR > REFRIGERATOR > NOT DISPENSING ICE",
+  "brand": null,
+  "appliance_type": null,
+  "symptom": "NOT DISPENSING ICE",
+  "main_video_id": "I6Sgbo-CB3s",
+  "main_video_url": "https://www.youtube.com/watch?v=I6Sgbo-CB3s",
+  "main_video_thumbnail": null,
+  "main_video_title": "How To Fix A Refrigerator That's Not Dispensing Ice",
+  "difficulty_rating": "Rated as EASY",
+  "total_repair_stories": "818 repair stories",
+  "total_videos": "7 step by step videos",
+  "quick_navigation": [
+    {
+      "part_name": "Ice Bucket Auger Motor",
+      "anchor_id": "IceBucketAuger"
+    },
+    {
+      "part_name": "Ice Dispenser Actuator",
+      "anchor_id": "IceDispenser"
+    },
+    {
+      "part_name": "Micro Switch",
+      "anchor_id": "MicroSwitch"
+    },
+    {
+      "part_name": "Dispenser Control Board",
+      "anchor_id": "DispenserControl"
+    }
+  ],
+  "common_failing_parts": [
+    {
+      "part_name": "Ice Bucket Auger Motor",
+      "section_id": "IceBucketAuger",
+      "description": [],
+      "troubleshooting_steps": [],
+      "parts_category_url": "https://www.partselect.com/Refrigerator-Ice-Makers.htm",
+      "parts_category_text": "View All Refrigerator Ice Maker Parts",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/294067_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/964350_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1018130_1_N.jpg"
+      ]
+    },
+    {
+      "part_name": "Ice Dispenser Actuator",
+      "section_id": "IceDispenser",
+      "description": [],
+      "troubleshooting_steps": [],
+      "parts_category_url": "https://www.partselect.com/Refrigerator-Ice-Makers.htm",
+      "parts_category_text": "View All Refrigerator Ice Maker Parts",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1526380_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1526376_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1526376_3_N.JPG"
+      ]
+    },
+    {
+      "part_name": "Micro Switch",
+      "section_id": "MicroSwitch",
+      "description": [],
+      "troubleshooting_steps": [],
+      "parts_category_url": "https://www.partselect.com/Refrigerator-Switches.htm",
+      "parts_category_text": "View All Refrigerator Switches",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/324439_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/296176_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1532720_1_N.jpg"
+      ]
+    },
+    {
+      "part_name": "Dispenser Control Board",
+      "section_id": "DispenserControl",
+      "description": [],
+      "troubleshooting_steps": [],
+      "parts_category_url": "https://www.partselect.com/Refrigerator-Circuit-Boards-and-Touch-Pads.htm",
+      "parts_category_text": "View All Refrigerator Circuit Boards and Touch Pads",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/304236_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/557945_3_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/557945_1_N.JPG"
+      ]
+    },
+    {
+      "part_name": "More Repair Parts",
+      "section_id": null
+    }
+  ],
+  "data_modeltype": "Refrigerator",
+  "data_page_type": "Repair",
+  "data_page_name": "Repair"
+}

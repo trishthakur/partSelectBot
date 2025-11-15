@@ -1,0 +1,103 @@
+{
+  "url": "https://www.partselect.com/Repair/Dishwasher/Kenmore/Not-Drying-Properly/",
+  "page_type": "repair",
+  "page_title": "How to Fix A Kenmore Dishwasher That Won't Dry Properly",
+  "breadcrumb": "REPAIR > KENMORE DISHWASHER > NOT DRYING PROPERLY",
+  "brand": "KENMORE",
+  "appliance_type": "DISHWASHER",
+  "symptom": "NOT DRYING PROPERLY",
+  "main_video_id": "EhG4YLuCiXM",
+  "main_video_url": "https://www.youtube.com/watch?v=EhG4YLuCiXM",
+  "main_video_thumbnail": null,
+  "main_video_title": "How to Fix A Kenmore Dishwasher That Won't Dry Properly",
+  "difficulty_rating": "Rated as EASY",
+  "total_repair_stories": "198 repair stories",
+  "total_videos": "4 step by step videos",
+  "quick_navigation": [
+    {
+      "part_name": "Heating Element",
+      "anchor_id": "HeatingElement"
+    },
+    {
+      "part_name": "High Limit Thermostat",
+      "anchor_id": "HighLimit"
+    },
+    {
+      "part_name": "Rinse Aid Dispenser",
+      "anchor_id": "RinseAid"
+    }
+  ],
+  "common_failing_parts": [
+    {
+      "part_name": "Heating Element",
+      "section_id": "HeatingElement",
+      "description": [
+        "A malfunctioning heating element may be the cause for dishes not drying. To test the heating element, first, make sure that power to your Kenmore Dishwasher is turned off, and then check for continuity with a multi-meter.",
+        "How to test the heating element in a Kenmore Dishwasher with a multimeter:"
+      ],
+      "troubleshooting_steps": [
+        "Unplug your Kenmore Dishwasher before attempting this test.",
+        "Your heating element will be found inside the Kenmore Dishwasher, attached to the bottom of the tub. It may be covered or uncovered. If it is covered, remove the cover.",
+        "In order to disconnect the heating element, you will need to remove the lower access panel. Remove the wires attached to the heating element’s terminals by carefully grasping the metal connector, do not pull on the wire itself.",
+        "To test the element, set your multimeter to Rx1 and touch each probe to a terminal. Your reading should be somewhere between zero and infinity, refer to your owner’s manual to determine what reading you should receive for your model. If it is exactly zero or infinity it is defective.",
+        "If your test produces a reading different from the manufacturer’s recommendation, you will need a replacement heating element."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Elements-and-Burners.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Elements and Burners",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/1960583_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2367647_1_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/2097196_1_N.jpg"
+      ]
+    },
+    {
+      "part_name": "High Limit Thermostat",
+      "section_id": "HighLimit",
+      "description": [
+        "The high limit thermostat acts as a safety device that keeps the Kenmore Dishwasher from getting too hot. If the thermostat is malfunctioning, it could shut off the heat before your dishes are finished drying.",
+        "How to test a Kenmore Dishwasher high limit thermostat with a multimeter:"
+      ],
+      "troubleshooting_steps": [
+        "Ensure that you unplug your appliance before beginning this inspection.",
+        "Locate and remove the thermostat in order to test it for continuity. In most models, it can be found at the bottom of the Kenmore Dishwasher tub, behind the lower access panel.",
+        "Set your multimeter to Rx1 mode and touch the terminals with the probes. When your thermostat is at room temperature, you should receive a reading of infinity. If you place the thermostat next to a warm lamp, you should receive a reading of zero.",
+        "If your thermostat produces different results, you will need a replacement high limit thermostat."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Thermostats.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Thermostats",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/420575_2_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/382429_2_N.jpg",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/382429_1_N.JPG"
+      ]
+    },
+    {
+      "part_name": "Rinse Aid Dispenser",
+      "section_id": "RinseAid",
+      "description": [
+        "The rinse aid or the rinse aid dispensing cap could be the reason why your Kenmore Dishwasher is not fully drying your dishes. Without the rinse aid, the dishes will not shed water easily and will not dry properly.",
+        "How to inspect a Kenmore Dishwasher rinse aid dispenser:"
+      ],
+      "troubleshooting_steps": [
+        "This inspection is very simple; you will not need to disassemble your appliance or have any tools to complete this inspection.",
+        "Your rinse aid dispenser will be found on the inside of the door, remove the cap from the dispenser.",
+        "After verifying that there is rinse aid in the chamber, inspect the cap and chamber for any signs of discoloration, warping, or any other damage.",
+        "If you find any issues with your rinse aid dispenser while performing this inspection, you will need a replacement rinse aid dispenser."
+      ],
+      "parts_category_url": "https://www.partselect.com/Kenmore-Dishwasher-Dispensers.htm",
+      "parts_category_text": "View All Kenmore Dishwasher Dispensers",
+      "part_example_images": [
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/402316_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/421128_1_N.JPG",
+        "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/assets/partimages/958932_1_N.JPG"
+      ]
+    },
+    {
+      "part_name": "More Repair Parts",
+      "section_id": null
+    }
+  ],
+  "data_modeltype": "Dishwasher",
+  "data_page_type": "Repair",
+  "data_page_name": "Repair"
+}
