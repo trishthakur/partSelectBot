@@ -1,0 +1,147 @@
+{
+  "url": "https://www.partselect.com/PS12074743-Whirlpool-W11106297-Refrigerator-Dispenser-Drip-Tray.htm",
+  "title": "Refrigerator Dispenser Drip Tray W11106297",
+  "price": "61.72",
+  "availability": "SpecialOrder",
+  "partselect_number": "PS12074743",
+  "manufacturer_part_number": "W11106297",
+  "brand": "Whirlpool",
+  "description": "The dispenser drip tray catches water that drips from the dispenser during use.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/Schematics/Whirlpool/OOHJYDAB.gif"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6238131,  2206670AP",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "ARM-DISPSR",
+      "price": "44.64",
+      "url": "https://www.partselect.com/PS11739899-Whirlpool-WP2255431AP-ARM-DISPSR.htm?SourceCode=14"
+    },
+    {
+      "name": "Dispenser Arm",
+      "price": "52.30",
+      "url": "https://www.partselect.com/PS11739902-Whirlpool-WP2255432AP-Dispenser-Arm.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Kenmore",
+      "model": "10644022600"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644022601"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644022602"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644022603"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644023600"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644023601"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644023602"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644023603"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644024600"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644029600"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644029601"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644029602"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644029603"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644032600"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644032601"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644032602"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644032603"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644033600"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644033601"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "10644033602"
+    }
+  ],
+  "inventory_id": "12074743",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

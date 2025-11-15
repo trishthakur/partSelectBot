@@ -1,0 +1,142 @@
+{
+  "url": "https://www.partselect.com/PS12071530-Frigidaire-A00201409-Dishwasher-Drain-Filter.htm",
+  "title": "Dishwasher Drain Filter A00201409",
+  "price": "52.72",
+  "availability": "InStock",
+  "partselect_number": "PS12071530",
+  "manufacturer_part_number": "A00201409",
+  "brand": "Frigidaire",
+  "description": "The Frigidaire Drain Filter is a genuine OEM part, designed to maintain the efficiency of your dishwasher. Its core function is to effectively remove food particles and debris from the water, preventing any potential clogs in your machine's drain. The enduring function of this part ensures that your dishwasher continues to perform at optimal levels. Keep in mind that while similar parts may appear alike, variations in size and shape can exist, so it's critical to verify its suitability with your model before making a purchase. With its compatibility with several Frigidaire, Electrolux, White Westinghouse, and Tappan models, this drain filter is a valuable asset in maintaining your dishwasher's functionality. Starting your repair journey with the Frigidaire Drain Filter ensures smoother operations and peace of mind for your home appliance needs.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12071530-1-M-Frigidaire-A00201409-Dishwasher-Drain-Filter.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12071530-1-L-Frigidaire-A00201409-Dishwasher-Drain-Filter.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12071530-2-L-Frigidaire-A00201409-Dishwasher-Drain-Filter.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12071530-3-L-Frigidaire-A00201409-Dishwasher-Drain-Filter.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6230767,  A00201402",
+  "fixes_symptoms": [
+    "Not cleaning dishes properly"
+  ],
+  "works_with_products": [
+    "Dishwasher"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Frigidaire",
+      "model": "905045720A"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "905045721A"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "905045722A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "E24ID74QPS0A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "E24ID74QPS1A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "E24ID74QPS3A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "E24ID74QPS4A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "E24ID75SPS0A"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "E24ID75SPS1A"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "E24ID75SPS2A"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "E24ID75SPS3A"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "EDSH4944AS0A"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "EDSH4944BS0A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "EI24CD35RS2A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "EI24CD35RS3A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "EI24CD35RS4A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "EI24ID30QB0A"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "EI24ID30QB0B"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "EI24ID30QB3B"
+    },
+    {
+      "brand": "Electrolux",
+      "model": "EI24ID30QS0A"
+    }
+  ],
+  "inventory_id": "12071530",
+  "category": "Dishwasher",
+  "model_type": "Dishwasher"
+}

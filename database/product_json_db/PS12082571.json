@@ -1,0 +1,83 @@
+{
+  "url": "https://www.partselect.com/PS12082571-Samsung-DA63-08646A-Refrigerator-Door-Bin.htm",
+  "title": "Refrigerator Door Bin DA63-08646A",
+  "price": "123.53",
+  "availability": "InStock",
+  "partselect_number": "PS12082571",
+  "manufacturer_part_number": "DA63-08646A",
+  "brand": "Samsung",
+  "description": "The door bin attaches to the inside of the refrigerator door and typically holds jars and bottles.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12082571-1-M-Samsung-DA63-08646A-Refrigerator-Door-Bin.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12082571-1-L-Samsung-DA63-08646A-Refrigerator-Door-Bin.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12082571-2-L-Samsung-DA63-08646A-Refrigerator-Door-Bin.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6241329",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Samsung",
+      "model": "RT21M6213SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RT21M6213SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RT21M6213WW"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RT21M6215SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RT21M6215SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RT21M6215WW"
+    }
+  ],
+  "inventory_id": "12082571",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

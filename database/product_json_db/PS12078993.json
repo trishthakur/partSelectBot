@@ -1,0 +1,139 @@
+{
+  "url": "https://www.partselect.com/PS12078993-LG-AHT73233932-SHELF-ASSEMBLY-REFRIGERATOR.htm",
+  "title": "SHELF ASSEMBLY,REFRIGERATOR AHT73233932",
+  "price": "125.94",
+  "availability": "InStock",
+  "partselect_number": "PS12078993",
+  "manufacturer_part_number": "AHT73233932",
+  "brand": "LG",
+  "description": null,
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12078993-1-M-LG-AHT73233932-SHELF-ASSEMBLY-REFRIGERATOR.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12078993-1-L-LG-AHT73233932-SHELF-ASSEMBLY-REFRIGERATOR.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12078993-2-L-LG-AHT73233932-SHELF-ASSEMBLY-REFRIGERATOR.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AHT73233940,  AHT73253806,  AHT73253810,  AHT73253813,  AHT73253817",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "LG",
+      "model": "74012"
+    },
+    {
+      "brand": "LG",
+      "model": "74013"
+    },
+    {
+      "brand": "LG",
+      "model": "74015"
+    },
+    {
+      "brand": "LG",
+      "model": "74019"
+    },
+    {
+      "brand": "LG",
+      "model": "74022"
+    },
+    {
+      "brand": "LG",
+      "model": "74023"
+    },
+    {
+      "brand": "LG",
+      "model": "74024"
+    },
+    {
+      "brand": "LG",
+      "model": "74025"
+    },
+    {
+      "brand": "LG",
+      "model": "74027"
+    },
+    {
+      "brand": "LG",
+      "model": "74029"
+    },
+    {
+      "brand": "LG",
+      "model": "74032"
+    },
+    {
+      "brand": "LG",
+      "model": "74033"
+    },
+    {
+      "brand": "LG",
+      "model": "74039"
+    },
+    {
+      "brand": "LG",
+      "model": "74063"
+    },
+    {
+      "brand": "LG",
+      "model": "74073"
+    },
+    {
+      "brand": "LG",
+      "model": "74077"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "79572063113"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "79574012410"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "79574012411"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "79574012412"
+    }
+  ],
+  "inventory_id": "12078993",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

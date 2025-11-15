@@ -1,0 +1,120 @@
+{
+  "url": "https://www.partselect.com/PS12083525-Samsung-DA97-17395A-Refrigerator-Water-Reservoir.htm",
+  "title": "Refrigerator Water Reservoir DA97-17395A",
+  "price": "142.93",
+  "availability": "InStock",
+  "partselect_number": "PS12083525",
+  "manufacturer_part_number": "DA97-17395A",
+  "brand": "Samsung",
+  "description": "The water reservoir holds the water for the water dispenser as the water chills.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12083525-1-M-Samsung-DA97-17395A-Refrigerator-Water-Reservoir.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12083525-1-L-Samsung-DA97-17395A-Refrigerator-Water-Reservoir.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12083525-2-L-Samsung-DA97-17395A-Refrigerator-Water-Reservoir.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12083525-3-L-Samsung-DA97-17395A-Refrigerator-Water-Reservoir.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6242266,  111433,  DA97-20587B",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Samsung",
+      "model": "DRF36C000SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DRF36C100SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8070DT"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8070SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8070SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8090SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8090SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8570SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8570SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8590SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8590SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8960MT"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8960S4"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF28T5021SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF28T5021SR"
+    }
+  ],
+  "inventory_id": "12083525",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

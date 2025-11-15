@@ -1,0 +1,92 @@
+{
+  "url": "https://www.partselect.com/PS12085735-Samsung-DD97-00484A-Dishwasher-WaterWall-Spray-Arm-Assembly.htm",
+  "title": "Dishwasher WaterWall Spray Arm Assembly DD97-00484A",
+  "price": "238.68",
+  "availability": "OnOrder",
+  "partselect_number": "PS12085735",
+  "manufacturer_part_number": "DD97-00484A",
+  "brand": "Samsung",
+  "description": "The waterwall spray arm assembly slides across the bottom of the dishwasher while spraying water on the dishes above.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12085735-1-M-Samsung-DD97-00484A-Dishwasher-WaterWall-Spray-Arm-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12085735-1-L-Samsung-DD97-00484A-Dishwasher-WaterWall-Spray-Arm-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12085735-2-L-Samsung-DD97-00484A-Dishwasher-WaterWall-Spray-Arm-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12085735-3-L-Samsung-DD97-00484A-Dishwasher-WaterWall-Spray-Arm-Assembly.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6244475",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Dishwasher"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Samsung",
+      "model": "DW80M9550UG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DW80M9550UGAA"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DW80M9550US"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DW80M9550USAA"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DW80M9960UG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DW80M9960US"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DW80M9990UM"
+    },
+    {
+      "brand": "Samsung",
+      "model": "DW80M9990US"
+    }
+  ],
+  "inventory_id": "12085735",
+  "category": "Dishwasher",
+  "model_type": "Dishwasher"
+}

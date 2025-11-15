@@ -1,0 +1,143 @@
+{
+  "url": "https://www.partselect.com/PS12114432-Whirlpool-W11125975-Dishwasher-Cupshelf.htm",
+  "title": "Dishwasher Cupshelf W11125975",
+  "price": "52.83",
+  "availability": "InStock",
+  "partselect_number": "PS12114432",
+  "manufacturer_part_number": "W11125975",
+  "brand": "Whirlpool",
+  "description": "Sold individually.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12114432-1-M-Whirlpool-W11125975-Dishwasher-Cupshelf.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12114432-1-L-Whirlpool-W11125975-Dishwasher-Cupshelf.jpg"
+  ],
+  "repair_difficulty": "Really Easy",
+  "repair_duration": "Really Easy \n\n\n\nLess than 15 mins",
+  "replaces": "661643,  661644,  8268539,  8268804,  8562029,  W10077957,  W10681542,  WP8562029",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Dishwasher"
+  ],
+  "related_parts": [
+    {
+      "name": "Tine Row - Kit of 2",
+      "price": "51.27",
+      "url": "https://www.partselect.com/PS10057154-Whirlpool-W10727426-Tine-Row-Kit-of-2.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Kenmore",
+      "model": "66513173K700"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513173K701"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513173K702"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513173K703"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513173K704"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513873K600"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513873K601"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513873K602"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513873K603"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM504EPA0"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM504EPA1"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "KDTM504EPA2"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM704EBS0"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM704EBS1"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM704EBS2"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "KDTM704EBS3"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM704ESS0"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM704ESS1"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KDTM704ESS2"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "KDTM704ESS3"
+    }
+  ],
+  "inventory_id": "12114432",
+  "category": "Dishwasher",
+  "model_type": "Dishwasher"
+}

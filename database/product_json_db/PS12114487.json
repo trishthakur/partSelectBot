@@ -1,0 +1,140 @@
+{
+  "url": "https://www.partselect.com/PS12114487-Whirlpool-W11129522-Refrigerator-Ice-Container-Assembly.htm",
+  "title": "Refrigerator Ice Container Assembly W11129522",
+  "price": "185.08",
+  "availability": "InStock",
+  "partselect_number": "PS12114487",
+  "manufacturer_part_number": "W11129522",
+  "brand": "Whirlpool",
+  "description": "Introducing the Ice Container Assembly from Whirlpool, an authentic OEM part designed for quality and reliability. Conveniently situated in the refrigerator door, this ice dispensing bucket provides quick access to chilled cubes whenever you need them. This specific part is best suited for a variety of models across Whirlpool, KitchenAid, Maytag, Jenn-Air, Amana, Inglis, and Magic Chef appliances. The ice container assembly not only stores ice, but also comprises an auger capable of rotating to transfer the ice into the dispenser chute efficiently. This comprehensive assembly may consist of multiple parts, so always refer to your parts diagram for a full list of included components. Consult your owner?s manual when installing this part to ensure a precise fit in your refrigerator.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12114487-1-M-Whirlpool-W11129522-Refrigerator-Ice-Container-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12114487-1-L-Whirlpool-W11129522-Refrigerator-Ice-Container-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12114487-2-L-Whirlpool-W11129522-Refrigerator-Ice-Container-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12114487-3-L-Whirlpool-W11129522-Refrigerator-Ice-Container-Assembly.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6261429,  W10564750",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "KitchenAid",
+      "model": "KFIV29PCMS00"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KFIV29PCMS01"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KFIV29PCMS02"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KFIV29PCMS03"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF577KBS01"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF577KBS02"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "KRFF577KBS03"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF577KPS01"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF577KPS02"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF577KPS03"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF707EBS00"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF707ESS00"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRFF707ESS01"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRMF536RBS00"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "KRMF536RBS01"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRMF536RPS00"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "KRMF536RPS01"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRMF706EBS00"
+    },
+    {
+      "brand": "KitchenAid",
+      "model": "KRMF706EBS01"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "KRMF706EBS04"
+    }
+  ],
+  "inventory_id": "12114487",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

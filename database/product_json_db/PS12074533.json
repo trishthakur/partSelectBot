@@ -1,0 +1,142 @@
+{
+  "url": "https://www.partselect.com/PS12074533-Whirlpool-W11087376-Dishwasher-Pump-and-Motor-Assembly.htm",
+  "title": "Dishwasher Pump and Motor Assembly W11087376",
+  "price": "175.22",
+  "availability": "InStock",
+  "partselect_number": "PS12074533",
+  "manufacturer_part_number": "W11087376",
+  "brand": "Whirlpool",
+  "description": "This pump and motor assembly are for dishwashers.\r\n\r\nPump and motor assembly pumps water through the spray arms during the dishwashing cycle.\r\n\r\nShut off the house circuit breaker for the dishwasher before installing this part. Wear work gloves to protect your hands.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12074533-1-M-Whirlpool-W11087376-Dishwasher-Pump-and-Motor-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12074533-1-L-Whirlpool-W11087376-Dishwasher-Pump-and-Motor-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12074533-2-L-Whirlpool-W11087376-Dishwasher-Pump-and-Motor-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12074533-3-L-Whirlpool-W11087376-Dishwasher-Pump-and-Motor-Assembly.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "W10917114",
+  "fixes_symptoms": [
+    "Not cleaning dishes properly"
+  ],
+  "works_with_products": [
+    "Dishwasher"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Kenmore",
+      "model": "2213092N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2213099N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2213222N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2213223N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2213229N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2213479N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2214545N711"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513092N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513093N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513223N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513229N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513355N020"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513472N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513473N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513479N413"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513542N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513543N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66513549N414"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66514543N711"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "66514545N711"
+    }
+  ],
+  "inventory_id": "12074533",
+  "category": "Dishwasher",
+  "model_type": "Dishwasher"
+}

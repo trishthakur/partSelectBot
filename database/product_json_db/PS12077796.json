@@ -1,0 +1,90 @@
+{
+  "url": "https://www.partselect.com/PS12077796-LG-ADD74296905-DOOR-FOAM-ASSEMBLY-REFRIGERATOR.htm",
+  "title": "DOOR FOAM ASSEMBLY,REFRIGERATOR ADD74296905",
+  "price": "411.65",
+  "availability": "InStock",
+  "partselect_number": "PS12077796",
+  "manufacturer_part_number": "ADD74296905",
+  "brand": "LG",
+  "description": null,
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12077796-1-M-LG-ADD74296905-DOOR-FOAM-ASSEMBLY-REFRIGERATOR.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12077796-1-L-LG-ADD74296905-DOOR-FOAM-ASSEMBLY-REFRIGERATOR.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "ADC74665705,  ADC74665801,  ADC74665807,  ADC74665810",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "LG",
+      "model": "70333"
+    },
+    {
+      "brand": "LG",
+      "model": "73063"
+    },
+    {
+      "brand": "LG",
+      "model": "73065"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "79570333410"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "79570333411"
+    },
+    {
+      "brand": "LG",
+      "model": "LFXS24566S"
+    },
+    {
+      "brand": "LG",
+      "model": "LFXS26973S"
+    },
+    {
+      "brand": "LG",
+      "model": "LFXS27566S"
+    }
+  ],
+  "inventory_id": "12077796",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

@@ -1,0 +1,145 @@
+{
+  "url": "https://www.partselect.com/PS11774649-GE-WR14X27237-Refrigerator-Fresh-Food-Door-Gasket.htm",
+  "title": "Refrigerator Fresh Food Door Gasket WR14X27237",
+  "price": "66.09",
+  "availability": "InStock",
+  "partselect_number": "PS11774649",
+  "manufacturer_part_number": "WR14X27237",
+  "brand": "GE",
+  "description": "This refrigerator door gasket is engineered to create a secure, airtight seal around the fresh food compartment, ensuring consistent internal temperatures and optimal energy efficiency. A compromised gasket can result in cold air escaping and warm air entering, leading to temperature fluctuations, increased energy usage, and premature food spoilage. This replacement gasket is made from flexible, durable material that conforms precisely to the door frame, restoring the seal and improving overall refrigerator performance. Installation involves removing the worn gasket and pressing the new one into the designated groove, ensuring a uniform fit along all edges. Common signs of a faulty gasket include visible gaps, excess condensation, frost buildup, and food not staying cold. Replacing the gasket promptly helps maintain proper cooling and preserves food freshness.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/11774649-1-M-GE-WR14X27237-Refrigerator-Fresh-Food-Door-Gasket.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//11774649-1-L-GE-WR14X27237-Refrigerator-Fresh-Food-Door-Gasket.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//11774649-2-L-GE-WR14X27237-Refrigerator-Fresh-Food-Door-Gasket.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//11774649-3-L-GE-WR14X27237-Refrigerator-Fresh-Food-Door-Gasket.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6041580,  WR14X21198,  WR14X22343",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "GASKET DOOR Freezer",
+      "price": "58.20",
+      "url": "https://www.partselect.com/PS11774646-GE-WR14X27234-GASKET-DOOR-Freezer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "General Electric",
+      "model": "GTE15CTHBRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTE15CTHCRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTE15CTHHRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTE15CTHLRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTE15CTHMRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTE15CTHPRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTS15CTHBRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTS15CTHCRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTS15CTHERBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "GTS15CTHJRBB"
+    },
+    {
+      "brand": "Hotpoint",
+      "model": "HPS15BTHBRBB"
+    },
+    {
+      "brand": "Hotpoint",
+      "model": "HPS15BTHCRBB"
+    },
+    {
+      "brand": "Hotpoint",
+      "model": "HPS15BTHERBB"
+    },
+    {
+      "brand": "Hotpoint",
+      "model": "HPS15BTHJRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "HPS15BTHLRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "HPS15BTHMRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "HPS15BTHPRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "HPS16BTNBRBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "HPS16BTNERBB"
+    },
+    {
+      "brand": "General Electric",
+      "model": "HPS16BTNFRBB"
+    }
+  ],
+  "inventory_id": "11774649",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://www.partselect.com/PS12070274-Whirlpool-W10916040-Refrigerator-Ice-Maker.htm",
+  "title": "Refrigerator Ice Maker W10916040",
+  "price": "221.61",
+  "availability": "OnOrder",
+  "partselect_number": "PS12070274",
+  "manufacturer_part_number": "W10916040",
+  "brand": "Whirlpool",
+  "description": null,
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12070274-1-M-Whirlpool-W10916040-Refrigerator-Ice-Maker.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12070274-1-L-Whirlpool-W10916040-Refrigerator-Ice-Maker.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12070274-2-L-Whirlpool-W10916040-Refrigerator-Ice-Maker.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "W10377149,  W10754511,  WPW10377149",
+  "fixes_symptoms": [
+    "Ice maker not making ice"
+  ],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Whirlpool",
+      "model": "ED5KVEXVB07"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "ED5KVEXVQ07"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "ED5PVEXWS14"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "ED5VHEXVB09"
+    },
+    {
+      "brand": "Whirlpool",
+      "model": "ED5VHEXVQ09"
+    }
+  ],
+  "inventory_id": "12070274",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

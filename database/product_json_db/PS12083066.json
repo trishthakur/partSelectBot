@@ -1,0 +1,88 @@
+{
+  "url": "https://www.partselect.com/PS12083066-Samsung-DA94-03757A-Refrigerator-Electronic-Control-Board.htm",
+  "title": "Refrigerator Electronic Control Board DA94-03757A",
+  "price": "84.66",
+  "availability": "InStock",
+  "partselect_number": "PS12083066",
+  "manufacturer_part_number": "DA94-03757A",
+  "brand": "Samsung",
+  "description": "This electronic control board is for refrigerators. Electronic control board manages the functions of the refrigerator such as cooling and defrost times.\r\n\r\nAssembly PCB EEPROM;0X21,D606,RF8000MC,ICE&amp;W",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12083066-1-M-Samsung-DA94-03757A-Refrigerator-Electronic-Control-Board.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12083066-1-L-Samsung-DA94-03757A-Refrigerator-Electronic-Control-Board.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12083066-2-L-Samsung-DA94-03757A-Refrigerator-Electronic-Control-Board.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12083066-3-L-Samsung-DA94-03757A-Refrigerator-Electronic-Control-Board.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6241807",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Samsung",
+      "model": "RF23M8070DT"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8070SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8070SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8090SG"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8090SR"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8960MT"
+    },
+    {
+      "brand": "Samsung",
+      "model": "RF23M8960S4"
+    }
+  ],
+  "inventory_id": "12083066",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

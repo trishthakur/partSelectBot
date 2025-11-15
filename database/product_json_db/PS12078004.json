@@ -1,0 +1,87 @@
+{
+  "url": "https://www.partselect.com/PS12078004-LG-ADQ73913308-Refrigerator-Water-Filter-Housing-Assembly.htm",
+  "title": "Refrigerator Water Filter Housing Assembly ADQ73913308",
+  "price": "205.08",
+  "availability": "InStock",
+  "partselect_number": "PS12078004",
+  "manufacturer_part_number": "ADQ73913308",
+  "brand": "LG",
+  "description": "The water filter housing assembly holds the water filter and connects the water lines to the water filter. The assembly may include multiple parts; refer to your parts diagram for a complete list of parts included.",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12078004-1-M-LG-ADQ73913308-Refrigerator-Water-Filter-Housing-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12078004-1-L-LG-ADQ73913308-Refrigerator-Water-Filter-Housing-Assembly.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12078004-2-L-LG-ADQ73913308-Refrigerator-Water-Filter-Housing-Assembly.jpg"
+  ],
+  "repair_difficulty": null,
+  "repair_duration": null,
+  "replaces": "AP6233295",
+  "fixes_symptoms": [],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "LG",
+      "model": "LMXC23796D"
+    },
+    {
+      "brand": "LG",
+      "model": "LMXC23796M"
+    },
+    {
+      "brand": "LG",
+      "model": "LMXC23796S"
+    },
+    {
+      "brand": "LG",
+      "model": "LMXS30776D"
+    },
+    {
+      "brand": "LG",
+      "model": "LMXS30796D"
+    },
+    {
+      "brand": "LG",
+      "model": "LMXS30796S"
+    },
+    {
+      "brand": "LG",
+      "model": "LUPXS3186N"
+    }
+  ],
+  "inventory_id": "12078004",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}

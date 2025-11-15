@@ -1,0 +1,147 @@
+{
+  "url": "https://www.partselect.com/PS12071129-Frigidaire-5304508067-Refrigerator-Crisper-Drawer-Cover.htm",
+  "title": "Refrigerator Crisper Drawer Cover 5304508067",
+  "price": "98.39",
+  "availability": "InStock",
+  "partselect_number": "PS12071129",
+  "manufacturer_part_number": "5304508067",
+  "brand": "Frigidaire",
+  "description": "This refrigerator crisper drawer cover assembly is a genuine replacement part designed to support and enclose the crisper drawers in select Frigidaire models. It includes a durable plastic frame and a glass insert that serves as the shelf surface above the drawers. Together, these components help maintain optimal humidity and temperature levels, preserving the freshness of fruits and vegetables. The assembly installs easily without tools—simply remove the old part and slide the new one into place. Sold individually, this OEM part ensures a precise fit and reliable performance. This cover does not come with the wheel. The wheel attaches to the shelf (roller 5304508016).",
+  "images": [
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/12071129-1-M-Frigidaire-5304508067-Refrigerator-Crisper-Drawer-Cover.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12071129-1-L-Frigidaire-5304508067-Refrigerator-Crisper-Drawer-Cover.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12071129-2-L-Frigidaire-5304508067-Refrigerator-Crisper-Drawer-Cover.jpg",
+    "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net//12071129-3-L-Frigidaire-5304508067-Refrigerator-Crisper-Drawer-Cover.jpg"
+  ],
+  "repair_difficulty": "Easy",
+  "repair_duration": "Easy \n\n\n\n30 - 60 mins",
+  "replaces": "AP6230468,  5304508410,  5304519462",
+  "fixes_symptoms": [
+    "Door won’t open or close"
+  ],
+  "works_with_products": [
+    "Refrigerator"
+  ],
+  "related_parts": [
+    {
+      "name": "Refrigerator Roller",
+      "price": "11.92",
+      "url": "https://www.partselect.com/PS12071116-Frigidaire-5304508016-Refrigerator-Roller.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Dishwasher Cleaner Tablets - 6",
+      "price": "21.89",
+      "url": "https://www.partselect.com/PS12345667-Whirlpool-W10549851-Affresh-Dishwasher-Cleaner-Tablets-6.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner - 3 pack",
+      "price": "19.89",
+      "url": "https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Washing Machine Cleaner Tablets – 6 Count",
+      "price": "27.87",
+      "url": "https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=14"
+    },
+    {
+      "name": "Produce Preserver Filter",
+      "price": "17.75",
+      "url": "https://www.partselect.com/PS3503014-Whirlpool-W10346771A-Produce-Preserver-Filter.htm?SourceCode=14"
+    },
+    {
+      "name": "Refrigerator Deodorizer",
+      "price": "29.78",
+      "url": "https://www.partselect.com/PS12739141-LG-MCS62101805-Refrigerator-Deodorizer.htm?SourceCode=14"
+    },
+    {
+      "name": "Affresh Ice Machine Cleaner",
+      "price": "26.87",
+      "url": "https://www.partselect.com/PS12583750-Whirlpool-W11179302-Affresh-Ice-Machine-Cleaner.htm?SourceCode=14"
+    }
+  ],
+  "compatible_models": [
+    {
+      "brand": "Kenmore",
+      "model": "2537034241E"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034241F"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034241H"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034241J"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034341F"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034341G"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034341H"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034341J"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "25370347411"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537034941J"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537041341C"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537041341F"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537041341H"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "25370417412"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537041941C"
+    },
+    {
+      "brand": "Kenmore",
+      "model": "2537041941D"
+    },
+    {
+      "brand": "Crosley",
+      "model": "CFD28SDQSA"
+    },
+    {
+      "brand": "Crosley",
+      "model": "CFD28WIQBC"
+    },
+    {
+      "brand": "Frigidaire",
+      "model": "CFD28WIQBF"
+    },
+    {
+      "brand": "Crosley",
+      "model": "CFD28WIQSC"
+    }
+  ],
+  "inventory_id": "12071129",
+  "category": "Refrigerator",
+  "model_type": "Refrigerator"
+}
