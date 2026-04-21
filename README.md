@@ -9,8 +9,6 @@ An intelligent multi-agent system for appliance parts discovery, troubleshooting
 
 A conversational AI system that helps users find appliance parts, troubleshoot issues, and access repair guides. Uses specialized agents that collaborate to provide comprehensive responses with full product data, repair instructions, and video tutorials.
 
-## Demo video
-
 ## Data Pipeline
 
 ### Web Scraping & JSON Database Creation
